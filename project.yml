@@ -1,0 +1,65 @@
+attributes:
+  LastSwiftUpdateCheck: 1240
+  LastUpgradeCheck: 1240
+configs:
+  Debug: debug
+  Release: release
+name: JACET8000
+packages:
+    Firebase:
+        url: https://github.com/firebase/firebase-ios-sdk
+        branch: 7.0-spm-beta
+options:
+  defaultConfig: Release
+  groupSortPosition: bottom
+  transitivelyLinkDependencies: false
+settings:
+  configs:
+    Debug:
+      CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER: YES
+      IPHONEOS_DEPLOYMENT_TARGET: 14.4
+      MTL_ENABLE_DEBUG_INFO: INCLUDE_SOURCE
+      MTL_FAST_MATH: YES
+      SDKROOT: iphoneos
+      SWIFT_ACTIVE_COMPILATION_CONDITIONS: DEBUG
+      SWIFT_OPTIMIZATION_LEVEL: -Onone
+    Release:
+      CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER: YES
+      IPHONEOS_DEPLOYMENT_TARGET: 14.4
+      MTL_FAST_MATH: YES
+      SDKROOT: iphoneos
+      SWIFT_COMPILATION_MODE: wholemodule
+      SWIFT_OPTIMIZATION_LEVEL: -O
+targets:
+  JACET8000:
+    dependencies:
+        - package: Firebase
+          product: FirebaseAuth
+    deploymentTarget: "14.4"
+    platform: iOS
+    postbuildScripts:
+    - runOnlyWhenInstalling: false
+      script: "# Type a script or drag a script file from your workspace to insert
+        its path.\nif which swiftlint >/dev/null; then\n  swiftlint\nelse\n  echo
+        \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n"
+      shell: /bin/sh
+    settings:
+      configs:
+        Debug:
+          ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+          CODE_SIGN_STYLE: Automatic
+          DEVELOPMENT_TEAM: WV6D96BG4D
+          INFOPLIST_FILE: JACET8000/Info.plist
+          PRODUCT_BUNDLE_IDENTIFIER: makoto.sato.JACET8000
+          SWIFT_VERSION: 5.0
+        Release:
+          ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+          CODE_SIGN_STYLE: Automatic
+          DEVELOPMENT_TEAM: WV6D96BG4D
+          INFOPLIST_FILE: JACET8000/Info.plist
+          PRODUCT_BUNDLE_IDENTIFIER: makoto.sato.JACET8000
+          SWIFT_VERSION: 5.0
+    sources:
+    - name: JACET8000
+      path: JACET8000
+    type: application

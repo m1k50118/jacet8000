@@ -1,0 +1,310 @@
+[
+  {
+    "PhoneticSymbol": "ʌ",
+    "example1": "gun",
+    "example2": "study",
+    "example3": "tunnel",
+    "HowToPronounce": "短く「ア」と言う。日本語の「ア」とほぼ同じ。"
+  },
+  {
+    "PhoneticSymbol": "æ",
+    "example1": "animal",
+    "example2": "cat",
+    "example3": "bag",
+    "HowToPronounce": "「ア」と「エ」を同時に言う感じで「ア」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ɑː",
+    "example1": "arm",
+    "example2": "father",
+    "example3": "heart",
+    "HowToPronounce": "口を大きく開けて「アー」と言う。"
+  },
+  {
+    "PhoneticSymbol": "əː",
+    "example1": "earth",
+    "example2": "girl",
+    "example3": "work",
+    "HowToPronounce": "唇を横に引き、「ア」と「ウ」を同時に言う感じで「アー」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ə",
+    "example1": "success",
+    "example2": "lemon",
+    "example3": "famous",
+    "HowToPronounce": "[əː]よりも少し広く口を開けて短く「ア」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ai",
+    "example1": "eye",
+    "example2": "fly",
+    "example3": "like",
+    "HowToPronounce": "口を大きく開けて「アィ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "au",
+    "example1": "cow",
+    "example2": "tower",
+    "example3": "sound",
+    "HowToPronounce": "口を大きく開けて「アゥ」と言う。「ゥ」を発音する時には唇を丸くして前に突き出す。"
+  },
+  {
+    "PhoneticSymbol": "iː",
+    "example1": "me",
+    "example2": "eat",
+    "example3": "speak",
+    "HowToPronounce": "唇を横に引いて「イー」と言う"
+  },
+  {
+    "PhoneticSymbol": "i",
+    "example1": "English",
+    "example2": "city",
+    "example3": "picture",
+    "HowToPronounce": "「エ」と「イ」を同時に言う感じで「イ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "iə",
+    "example1": "ear",
+    "example2": "here",
+    "example3": "idea",
+    "HowToPronounce": "[i]と[ə]を一緒にして「イァ」という感じで言う。"
+  },
+  {
+    "PhoneticSymbol": "u",
+    "example1": "put",
+    "example2": "book",
+    "example3": "woman",
+    "HowToPronounce": "唇を丸くして前に突き出し、短く「ウ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "uː",
+    "example1": "two",
+    "example2": "school",
+    "example3": "soup",
+    "HowToPronounce": "[u]を発音するのと同じ要領で「ウー」と伸ばして言う。"
+  },
+  {
+    "PhoneticSymbol": "uə",
+    "example1": "poor",
+    "example2": "sure",
+    "example3": "tour",
+    "HowToPronounce": "丸めて突き出した唇を開いて「ウァ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "e",
+    "example1": "egg",
+    "example2": "red",
+    "example3": "head",
+    "HowToPronounce": "口を縦に比較的大きく開けて「エ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ei",
+    "example1": "eight",
+    "example2": "cake",
+    "example3": "rain",
+    "HowToPronounce": "[e]と[i]を一緒にして「エィ」と言う。[e]を[i]よりも強く長く言う。"
+  },
+  {
+    "PhoneticSymbol": "eə",
+    "example1": "bear",
+    "example2": "chair",
+    "example3": "careful",
+    "HowToPronounce": "[e]と[ə]を一緒にして「エァ」という感じで言う。"
+  },
+  {
+    "PhoneticSymbol": "ɔ",
+    "example1": "dog",
+    "example2": "soft",
+    "example3": "wash",
+    "HowToPronounce": "口を大きく開け、唇を丸くして前に突き出し、短く「オ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ɔː",
+    "example1": "ball",
+    "example2": "daughter",
+    "example3": "walk",
+    "HowToPronounce": "[ɔ]を発音するのと同じ要領で「オー」と伸ばして言う。"
+  },
+  {
+    "PhoneticSymbol": "ɔi",
+    "example1": "boy",
+    "example2": "oil",
+    "example3": "voice",
+    "HowToPronounce": "口を大きく開けて「オィ」と言う。「ィ」を発音する時には唇を丸くして前に突き出す。"
+  },
+  {
+    "PhoneticSymbol": "ou",
+    "example1": "home",
+    "example2": "old",
+    "example3": "toast",
+    "HowToPronounce": "口を大きく開けて「オゥ」と言う。「ゥ」を発音する時には唇を丸くして前に突き出す。"
+  },
+  {
+    "PhoneticSymbol": "p",
+    "example1": "happy",
+    "example2": "help",
+    "example3": "park",
+    "HowToPronounce": "上下の唇を閉じ、息が出るのを止めた後、急に唇を開けてはじくように「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "b",
+    "example1": "about",
+    "example2": "baby",
+    "example3": "job",
+    "HowToPronounce": "[p]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "t",
+    "example1": "butter",
+    "example2": "hit",
+    "example3": "telephone",
+    "HowToPronounce": "舌の先を上の歯と歯茎の境目につけて息を止め、急に舌を離すと同時に「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "d",
+    "example1": "door",
+    "example2": "ladder",
+    "example3": "old",
+    "HowToPronounce": "[t]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "k",
+    "example1": "coffee",
+    "example2": "socks",
+    "example3": "talk",
+    "HowToPronounce": "「クッ」と発音する要領で「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "g",
+    "example1": "girl",
+    "example2": "again",
+    "example3": "pig",
+    "HowToPronounce": "[k]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "f",
+    "example1": "flower",
+    "example2": "leaf",
+    "example3": "laugh",
+    "HowToPronounce": "上の歯を下の唇に軽く当てて、その隙間から「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "v",
+    "example1": "have",
+    "example2": "river",
+    "example3": "voice",
+    "HowToPronounce": "[f]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "θ",
+    "example1": "think",
+    "example2": "something",
+    "example3": "tooth",
+    "HowToPronounce": "舌を軽く噛んで、その隙間から「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "ð",
+    "example1": "mother",
+    "example2": "that",
+    "example3": "within",
+    "HowToPronounce": "[θ]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "s",
+    "example1": "small",
+    "example2": "famous",
+    "example3": "ice",
+    "HowToPronounce": "下の先を歯茎に近づけて、その隙間から「息」を出す。"
+  },
+  {
+    "PhoneticSymbol": "z",
+    "example1": "zoo",
+    "example2": "busy",
+    "example3": "season",
+    "HowToPronounce": "[s]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "ʃ",
+    "example1": "ship",
+    "example2": "ocean",
+    "example3": "station",
+    "HowToPronounce": "唇を丸くして前に突き出し、息だけで「シュ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ʒ",
+    "example1": "usual",
+    "example2": "garage",
+    "example3": "pleasure",
+    "HowToPronounce": "[ʃ]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "ʧ",
+    "example1": "church",
+    "example2": "future",
+    "example3": "teach",
+    "HowToPronounce": "唇を丸くして前に突き出し、息だけで「チュ」と言う。"
+  },
+  {
+    "PhoneticSymbol": "ʤ",
+    "example1": "Japan",
+    "example2": "judge",
+    "example3": "page",
+    "HowToPronounce": "[tʃ]を発音するのと同じ要領で「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "h",
+    "example1": "hand",
+    "example2": "heat",
+    "example3": "behind",
+    "HowToPronounce": "腹の底から「ハー」と「息」を出す (声は出さない)。"
+  },
+  {
+    "PhoneticSymbol": "l",
+    "example1": "ball",
+    "example2": "color",
+    "example3": "letter",
+    "HowToPronounce": "舌の先を上の歯茎につけて舌の両側から「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "r",
+    "example1": "rocket",
+    "example2": "carry",
+    "example3": "roof",
+    "HowToPronounce": "舌の先を内側に巻いて上の歯茎に近づけ、「声」を摩擦して出す。"
+  },
+  {
+    "PhoneticSymbol": "w",
+    "example1": "watch",
+    "example2": "quick",
+    "example3": "sweet",
+    "HowToPronounce": "唇を丸くして前に突き出し、摩擦音で「ウ」に近い「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "j",
+    "example1": "you",
+    "example2": "beauty",
+    "example3": "new",
+    "HowToPronounce": "舌の中央を上顎の中央に近づけ、その隙間から「声」をきしらせて出す。"
+  },
+  {
+    "PhoneticSymbol": "m",
+    "example1": "member",
+    "example2": "farm",
+    "example3": "some",
+    "HowToPronounce": "唇を閉じで、鼻を通して「ム」と「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "n",
+    "example1": "nose",
+    "example2": "under",
+    "example3": "lesson",
+    "HowToPronounce": "口を軽く開き、舌の先を上の歯と歯茎の境目につけて「ン」と「声」を出す。"
+  },
+  {
+    "PhoneticSymbol": "ŋ",
+    "example1": "English",
+    "example2": "thank",
+    "example3": "song",
+    "HowToPronounce": "舌の奥の部分を上顎の奥につけて口から声や息が出るのを止め、鼻を通して「声」を出す。"
+  }
+]
