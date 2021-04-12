@@ -15,4 +15,8 @@ class LoginPresenter: LoginModuleInput, LoginViewOutput, LoginInteractorOutput {
     func viewIsReady() {
 
     }
+
+    func presentSignupView() {
+        router.presentSignupView()
+    }
 }

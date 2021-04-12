@@ -9,6 +9,15 @@ packages:
     Firebase:
         url: https://github.com/firebase/firebase-ios-sdk
         branch: 7.0-spm-beta
+    SnapKit:
+        url: https://github.com/SnapKit/SnapKit
+        majorVersion: 5.0.1
+    RxSwift:
+        url: https://github.com/ReactiveX/RxSwift.git
+        majorVersion: 6.1.0
+    Rswift:
+        url: https://github.com/mac-cain13/R.swift.Library
+        majorVersion: 5.4.0
 options:
   defaultConfig: Release
   groupSortPosition: bottom
@@ -35,29 +44,49 @@ targets:
     dependencies:
         - package: Firebase
           product: FirebaseAuth
+        - package: SnapKit
+        - package: RxSwift
+          product: RxCocoa
+        - package: Rswift
     deploymentTarget: "14.4"
     platform: iOS
-    postbuildScripts:
-    - runOnlyWhenInstalling: false
-      script: "# Type a script or drag a script file from your workspace to insert
-        its path.\nif which swiftlint >/dev/null; then\n  swiftlint\nelse\n  echo
-        \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n"
-      shell: /bin/sh
+    prebuildScripts:
+      - name: Run SwiftLint
+        script: |
+                if which swiftlint >/dev/null; then
+                    swiftlint autocorrect --format
+                else
+                    echo "warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint"
+                fi
+      - name: Run RSwift
+        script: |
+                if mint list | grep -q 'R.swift'; then
+                    mint run R.swift rswift generate "$SRCROOT/$TARGET_NAME/Generated/R.generated.swift"
+                else
+                    echo "error: R.swift not installed; run 'mint bootstrap' to install"
+                    return -1
+                fi
+        inputFiles:
+          - $TEMP_DIR/rswift-lastrun
+        outputFiles:
+          - $SRCROOT/$TARGET_NAME/Generated/R.generated.swift
     settings:
       configs:
         Debug:
           ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
           CODE_SIGN_STYLE: Automatic
           DEVELOPMENT_TEAM: WV6D96BG4D
-          INFOPLIST_FILE: JACET8000/Info.plist
+          INFOPLIST_FILE: JACET8000/Sources/Info.plist
           PRODUCT_BUNDLE_IDENTIFIER: makoto.sato.JACET8000
+          URL_SCHEMES: com.googleusercontent.apps.716193775936-juva1sqg1g92roesea5u1insdlv0oth9
           SWIFT_VERSION: 5.0
         Release:
           ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
           CODE_SIGN_STYLE: Automatic
           DEVELOPMENT_TEAM: WV6D96BG4D
-          INFOPLIST_FILE: JACET8000/Info.plist
+          INFOPLIST_FILE: JACET8000/Sources/Info.plist
           PRODUCT_BUNDLE_IDENTIFIER: makoto.sato.JACET8000
+          URL_SCHEMES: com.googleusercontent.apps.716193775936-juva1sqg1g92roesea5u1insdlv0oth9
           SWIFT_VERSION: 5.0
     sources:
     - name: JACET8000

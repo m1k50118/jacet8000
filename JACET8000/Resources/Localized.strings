@@ -1,0 +1,14 @@
+/* 
+  Localized.strings
+  JACET8000
+
+  Created by 佐藤真 on 2021/04/26.
+  
+*/
+loginButtonLabel = "Login";
+signupButtonLabel = "SignUp";
+email = "Email";
+password = "Password";
+loginTitleLabel = "Log In";
+signupTitleLabel = "Sign Up";
+toSignupViewButtonLabel = "create account";
