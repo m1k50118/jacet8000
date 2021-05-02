@@ -1,12 +1,12 @@
 //
-//  LoginLoginViewInput.swift
+//  SignupSignupViewInput.swift
 //  JACET8000
 //
-//  Created by t2020060 on 20/03/2021.
+//  Created by t2020060 on 29/04/2021.
 //  Copyright © 2021 n. All rights reserved.
 //
 
-protocol LoginViewInput: AnyObject {
+protocol SignupViewInput: AnyObject {
 
     /**
      @author t2020060

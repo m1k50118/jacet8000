@@ -7,4 +7,3 @@ let package = Package(
         .package(url: "https://github.com/yonaskolb/XcodeGen.git", from: "2.19.0")
     ]
 )
-

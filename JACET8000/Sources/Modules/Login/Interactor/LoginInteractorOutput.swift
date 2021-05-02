@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol LoginInteractorOutput: class {
+protocol LoginInteractorOutput: AnyObject {
 
 }

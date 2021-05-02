@@ -1,12 +1,12 @@
 //
-//  LoginLoginViewOutput.swift
+//  SignupSignupViewOutput.swift
 //  JACET8000
 //
-//  Created by t2020060 on 20/03/2021.
+//  Created by t2020060 on 29/04/2021.
 //  Copyright © 2021 n. All rights reserved.
 //
 
-protocol LoginViewOutput {
+protocol SignupViewOutput {
 
     /**
      @author t2020060
@@ -14,5 +14,4 @@ protocol LoginViewOutput {
      */
 
     func viewIsReady()
-    func presentSignupView()
 }
