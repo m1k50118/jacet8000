@@ -17,7 +17,7 @@ class LoginRouter: LoginRouterInput {
 
         let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate
         let window = sceneDelegate?.window
-        guard window?.rootViewController == viewController else {
+        guard window?.rootViewController != viewController else {
             return
         }
 

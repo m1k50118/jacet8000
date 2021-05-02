@@ -21,6 +21,10 @@ class LoginViewController: UIViewController, LoginViewInput {
     var handle: AuthStateDidChangeListenerHandle?
 
     let disposeBag = DisposeBag()
+    
+    override var shouldAutorotate: Bool {
+        false
+    }
 
     // MARK: Life cycle
     override func loadView() {
@@ -46,29 +50,13 @@ class LoginViewController: UIViewController, LoginViewInput {
         }
     }
 
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
-
-        NotificationCenter.default.addObserver(self,
-                                               selector: #selector(rotationChange(notification:)),
-                                               name: UIDevice.orientationDidChangeNotification,
-                                               object: nil)
-    }
-
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        Auth.auth().removeStateDidChangeListener(handle!)
+        //        Auth.auth().removeStateDidChangeListener(handle!)
     }
 
     // MARK: LoginViewInput
     func setupInitialState() {
-    }
-
-    // MARK: Private Methods
-    @objc
-    private func rotationChange(notification: NSNotification) {
-        self.loadView()
-        self.viewDidLoad()
     }
 
     private func bind() {
@@ -76,9 +64,10 @@ class LoginViewController: UIViewController, LoginViewInput {
             .drive(onNext: { [unowned self] x in
                 loginView.loginButton.isEnabled = !x.isValid(.email)
             }).disposed(by: disposeBag)
-        loginView.toSignupViewButton.rx.tap.subscribe(onDisposed: { [unowned self] in
-            output.presentSignupView()
-        }).disposed(by: disposeBag)
+        loginView.toSignupViewButton.rx.tap
+            .subscribe {[weak self] _ in
+                self?.output.presentSignupView()
+            }.disposed(by: disposeBag)
     }
 }
 
