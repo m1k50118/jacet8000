@@ -5,14 +5,14 @@
   Created by 佐藤真 on 2021/04/26.
   
 */
-loginButtonLabel = "Login";
-signupButtonLabel = "SignUp";
+logInButtonLabel = "LogIn";
+signUpButtonLabel = "SignUp";
 email = "Email";
 password = "Password";
 userName = "UserName";
-loginTitleLabel = "Log In";
-signupTitleLabel = "Sign Up";
-toSignupViewButtonLabel = "create account";
-toLoginViewButtonLabel = "log in";
+logInTitleLabel = "Log In";
+signUpTitleLabel = "Sign Up";
+toSignUpViewButtonLabel = "create account";
+toLogInViewButtonLabel = "log in";
 forgotPassword = "forgot password";
 LengthValidationMessage = "At least %@, no more than %@ characters";

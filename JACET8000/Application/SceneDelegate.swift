@@ -18,8 +18,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
 
-            let vc = LoginViewController()
-            let config = LoginModuleConfigurator()
+            let vc = LogInViewController()
+            let config = LogInModuleConfigurator()
             config.configureModuleForViewInput(viewInput: vc)
 
             window.rootViewController = vc

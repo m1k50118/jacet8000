@@ -20,8 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         window = UIWindow(frame: UIScreen.main.bounds)
 
-        let vc = LoginViewController()
-        let config = LoginModuleConfigurator()
+        let vc = LogInViewController()
+        let config = LogInModuleConfigurator()
         config.configureModuleForViewInput(viewInput: vc)
 
         window?.rootViewController = vc
