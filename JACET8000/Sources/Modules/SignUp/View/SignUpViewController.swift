@@ -17,12 +17,15 @@ class SignUpViewController: UIViewController, SignUpViewInput {
 
     var signUpView: SignUpView!
 
+    let disposeBag = DisposeBag()
+
     override var shouldAutorotate: Bool {
         false
     }
 
     // MARK: Life cycle
     override func loadView() {
+        super.loadView()
         self.signUpView = SignUpView(frame: UIScreen.main.bounds)
         self.signUpView.backgroundColor = .systemBackground
     }
@@ -32,6 +35,15 @@ class SignUpViewController: UIViewController, SignUpViewInput {
         output.viewIsReady()
 
         view.addSubview(signUpView)
+
+        bind()
+    }
+
+    private func bind() {
+        signUpView.toLogInViewButton.rx.tap
+            .subscribe(onNext: { [weak self] in
+                self?.output?.presentLogInView()
+            }).disposed(by: disposeBag)
     }
 
     // MARK: SignUpViewInput
@@ -105,6 +117,7 @@ class SignUpView: UIView {
         button.setTitle(R.string.localized.toLogInViewButtonLabel(), for: .normal)
         button.setTitleColor(.systemBlue, for: .normal)
         button.backgroundColor = nil
+        button.titleLabel?.font = .systemFont(ofSize: 14)
         return button
     }()
 
@@ -216,7 +229,7 @@ class SignUpView: UIView {
         signUpButton.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.equalTo(userNameAndEmailAndPasswordStackView.snp.bottom).offset(20)
-            make.width.equalTo(userNameAndEmailAndPasswordStackView)
+            make.width.equalTo(userNameAndEmailAndPasswordStackView).dividedBy(2)
         }
     }
 

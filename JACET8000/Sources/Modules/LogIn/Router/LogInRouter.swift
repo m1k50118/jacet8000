@@ -11,16 +11,10 @@ class LogInRouter: LogInRouterInput {
 
     func presentSignupView() {
         let config = SignUpModuleConfigurator()
-        let viewController = SignUpViewController()
+        let signUpViewController = SignUpViewController()
 
-        config.configureModuleForViewInput(viewInput: viewController)
+        config.configureModuleForViewInput(viewInput: signUpViewController)
 
-        let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate
-        let window = sceneDelegate?.window
-        guard window?.rootViewController != viewController else {
-            return
-        }
-
-        window?.rootViewController = viewController
+        Navigator.shared.presentViewController(viewController: signUpViewController)
     }
 }

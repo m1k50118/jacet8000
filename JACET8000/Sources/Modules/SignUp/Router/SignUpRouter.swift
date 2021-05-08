@@ -6,6 +6,14 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-class SignUpRouter: SignUpRouterInput {
+import UIKit
 
+class SignUpRouter: SignUpRouterInput {
+    func presentLogInView() {
+        let config = LogInModuleConfigurator()
+        let logInViewController = LogInViewController()
+
+        config.configureModuleForViewInput(viewInput: logInViewController)
+        Navigator.shared.presentViewController(viewController: logInViewController)
+    }
 }

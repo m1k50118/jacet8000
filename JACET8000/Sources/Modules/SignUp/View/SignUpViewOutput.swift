@@ -14,4 +14,5 @@ protocol SignUpViewOutput {
      */
 
     func viewIsReady()
+    func presentLogInView()
 }

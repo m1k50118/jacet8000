@@ -29,8 +29,7 @@ class LogInViewController: UIViewController, LogInViewInput {
     // MARK: Life cycle
     override func loadView() {
         super.loadView()
-
-        self.logInView = LogInView(frame: self.view.frame)
+        self.logInView = LogInView(frame: UIScreen.main.bounds)
         self.logInView.backgroundColor = .systemBackground
     }
 
@@ -90,7 +89,7 @@ class LogInView: UIView {
         stackView.axis = .vertical
         stackView.alignment = .fill
         stackView.distribution = .equalSpacing
-        stackView.spacing = 10
+        stackView.spacing = 20
 
         return stackView
     }()
@@ -121,6 +120,7 @@ class LogInView: UIView {
         button.setTitle(R.string.localized.toSignUpViewButtonLabel(), for: .normal)
         button.setTitleColor(.systemBlue, for: .normal)
         button.backgroundColor = nil
+        button.titleLabel?.font = .systemFont(ofSize: 14)
         return button
     }()
 
@@ -182,7 +182,7 @@ class LogInView: UIView {
         logInButton.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.equalTo(textFieldStackView.snp.bottom).offset(20)
-            make.width.equalToSuperview().dividedBy(1.5)
+            make.width.equalTo(textFieldStackView).dividedBy(2)
         }
     }
 
