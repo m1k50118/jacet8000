@@ -11,6 +11,12 @@
 brew install swiftlint
 ```
 
+### リソース管理
+- Rswift
+```
+brew install rswift
+```
+
 ### PJファイル作成
 - xcodegen
 ```
