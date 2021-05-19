@@ -6,6 +6,9 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
+import RxCocoa
+import UIKit
+
 protocol SignUpViewOutput {
 
     /**
@@ -15,4 +18,7 @@ protocol SignUpViewOutput {
 
     func viewIsReady()
     func presentLogInView()
+    func validate(text: String, validityType: ValidityType)
+    var validatedEmail: PublishRelay<ValidationResult> { get }
+    var validatedPassword: PublishRelay<ValidationResult> { get }
 }

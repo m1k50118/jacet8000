@@ -40,6 +40,49 @@ class SignUpViewController: UIViewController, SignUpViewInput {
     }
 
     private func bind() {
+        signUpView.emailTextField.rx.text.asDriver()
+            .drive(onNext: { [weak self] text in
+                self?.output.validate(text: text ?? "", validityType: .email)
+            }).disposed(by: disposeBag)
+
+        signUpView.passwordTextField.rx.text.asDriver()
+            .drive(onNext: { [weak self] text in
+                self?.output.validate(text: text ?? "", validityType: .password)
+            }).disposed(by: disposeBag)
+
+        output.validatedEmail.asObservable()
+            .bind(onNext: { [weak self] result in
+                switch result {
+                case .valid:
+                    self?.signUpView.invalidEmailLabel.rx.text
+                        .onNext("")
+                case .invalid(let failure):
+                    self?.signUpView.invalidEmailLabel.rx.text
+                        .onNext(failure.map({ return $0.message }).joined())
+                }
+
+            })
+            .disposed(by: disposeBag)
+
+        output.validatedPassword.asObservable()
+            .bind(onNext: { [weak self] result in
+                switch result {
+                case .valid:
+                    self?.signUpView.invalidPasswordLabel.rx.text
+                        .onNext("")
+                case .invalid(let failure):
+                    self?.signUpView.invalidPasswordLabel.rx.text
+                        .onNext(failure.map({ return $0.message }).joined())
+                }
+            })
+            .disposed(by: disposeBag)
+
+        Observable.combineLatest(output.validatedEmail, output.validatedPassword)
+            .bind { [weak self] validatedEmail, validatedPassword in
+                self?.signUpView.signUpButton.isEnabled = validatedEmail.isValid && validatedPassword.isValid
+            }
+            .disposed(by: disposeBag)
+
         signUpView.toLogInViewButton.rx.tap
             .subscribe(onNext: { [weak self] in
                 self?.output?.presentLogInView()
@@ -109,6 +152,7 @@ class SignUpView: UIView {
         button.titleLabel?.textColor = .white
         button.backgroundColor = .gray
         button.layer.cornerRadius = 15
+        button.isEnabled = false
         return button
     }()
 
