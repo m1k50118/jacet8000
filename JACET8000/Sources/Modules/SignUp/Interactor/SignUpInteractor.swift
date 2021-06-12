@@ -6,10 +6,10 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
+import Firebase
 import Foundation
 
 class SignUpInteractor: SignUpInteractorInput {
-
     weak var output: SignUpInteractorOutput!
 
     let minimumLength = 8
@@ -36,7 +36,7 @@ class SignUpInteractor: SignUpInteractorInput {
 
         let minimumLengthRule = ValidationRuleLength(min: minimumLength,
                                                      error: SignUpValidationError(
-                                                        R.string.localized.invalidMinimumLengthMessage(minimumLength.description)))
+                                                         R.string.localized.invalidMinimumLengthMessage(minimumLength.description)))
         let uppercasePattern = CaseValidationPattern.uppercase
         let uppercaseRule = ValidationRulePattern(pattern: uppercasePattern,
                                                   error: SignUpValidationError(R.string.localized.invalidUppercaseMessage()))
@@ -60,5 +60,50 @@ class SignUpInteractor: SignUpInteractorInput {
         validationRuleSet.add(rule: specialCharacterRule)
 
         return Validator.validate(input: inputValue, rules: validationRuleSet)
+    }
+
+    func signUp(email: String, password: String, name: String) {
+        Auth.auth().createUser(withEmail: email, password: password) { [weak self] result, error in
+            guard let self = self else {
+                return
+            }
+            guard let user = result?.user, error == nil else {
+                self.signUpErrorOccurred(error!.localizedDescription)
+                return
+            }
+            self.updateDisplayName(name, of: user)
+        }
+    }
+
+    private func updateDisplayName(_ name: String, of user: User) {
+        let request = user.createProfileChangeRequest()
+        request.displayName = name
+        request.commitChanges { [weak self] error in
+            guard let self = self else {
+                return
+            }
+            guard let _ = error else {
+                self.signUpErrorOccurred(error!.localizedDescription)
+                return
+            }
+            self.sendEmailVerification(to: user)
+        }
+    }
+
+    private func sendEmailVerification(to user: User) {
+        user.sendEmailVerification { [weak self] error in
+            guard let self = self else {
+                return
+            }
+            guard let _ = error else {
+                self.signUpErrorOccurred(error!.localizedDescription)
+                return
+            }
+            self.output.completedSignUp()
+        }
+    }
+
+    private func signUpErrorOccurred(_ error: String) {
+        output.presentSignUpError(error)
     }
 }

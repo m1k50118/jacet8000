@@ -6,13 +6,13 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-import UIKit
-import SnapKit
+import Firebase
 import RxCocoa
 import RxSwift
+import SnapKit
+import UIKit
 
 class SignUpViewController: UIViewController, SignUpViewInput {
-
     var output: SignUpViewOutput!
 
     var signUpView: SignUpView!
@@ -24,10 +24,11 @@ class SignUpViewController: UIViewController, SignUpViewInput {
     }
 
     // MARK: Life cycle
+
     override func loadView() {
         super.loadView()
-        self.signUpView = SignUpView(frame: UIScreen.main.bounds)
-        self.signUpView.backgroundColor = .systemBackground
+        signUpView = SignUpView(frame: UIScreen.main.bounds)
+        signUpView.backgroundColor = .systemBackground
     }
 
     override func viewDidLoad() {
@@ -41,13 +42,13 @@ class SignUpViewController: UIViewController, SignUpViewInput {
 
     private func bind() {
         signUpView.emailTextField.rx.text.asDriver()
-            .drive(onNext: { [weak self] text in
-                self?.output.validate(text: text ?? "", validityType: .email)
+            .drive(onNext: { [unowned self] text in
+                self.output.validate(text: text ?? "", validityType: .email)
             }).disposed(by: disposeBag)
 
         signUpView.passwordTextField.rx.text.asDriver()
-            .drive(onNext: { [weak self] text in
-                self?.output.validate(text: text ?? "", validityType: .password)
+            .drive(onNext: { [unowned self] text in
+                self.output.validate(text: text ?? "", validityType: .password)
             }).disposed(by: disposeBag)
 
         output.validatedEmail.asObservable()
@@ -56,41 +57,65 @@ class SignUpViewController: UIViewController, SignUpViewInput {
                 case .valid:
                     self?.signUpView.invalidEmailLabel.rx.text
                         .onNext("")
-                case .invalid(let failure):
+                case let .invalid(failure):
                     self?.signUpView.invalidEmailLabel.rx.text
-                        .onNext(failure.map({ return $0.message }).joined())
+                        .onNext(failure.map(\.message).joined())
                 }
 
             })
             .disposed(by: disposeBag)
 
         output.validatedPassword.asObservable()
-            .bind(onNext: { [weak self] result in
+            .bind(onNext: { [unowned self] result in
                 switch result {
                 case .valid:
-                    self?.signUpView.invalidPasswordLabel.rx.text
+                    self.signUpView.invalidPasswordLabel.rx.text
                         .onNext("")
-                case .invalid(let failure):
-                    self?.signUpView.invalidPasswordLabel.rx.text
-                        .onNext(failure.map({ return $0.message }).joined())
+                case let .invalid(failure):
+                    self.signUpView.invalidPasswordLabel.rx.text
+                        .onNext(failure.map(\.message).joined())
                 }
             })
             .disposed(by: disposeBag)
 
         Observable.combineLatest(output.validatedEmail, output.validatedPassword)
-            .bind { [weak self] validatedEmail, validatedPassword in
-                self?.signUpView.signUpButton.isEnabled = validatedEmail.isValid && validatedPassword.isValid
+            .bind { [unowned self] validatedEmail, validatedPassword in
+                self.signUpView.signUpButton.isEnabled = validatedEmail.isValid && validatedPassword.isValid
             }
             .disposed(by: disposeBag)
 
+        signUpView.signUpButton.rx.tap.asSignal()
+            .emit(onNext: {
+                let email = self.signUpView.emailTextField.text ?? ""
+                let password = self.signUpView.passwordTextField.text ?? ""
+                let name = self.signUpView.userNameTextField.text ?? ""
+
+                self.output.signUp(email: email,
+                                   password: password,
+                                   name: name)
+            }).disposed(by: disposeBag)
+
         signUpView.toLogInViewButton.rx.tap
-            .subscribe(onNext: { [weak self] in
-                self?.output?.presentLogInView()
+            .subscribe(onNext: { [unowned self] in
+                self.output.presentLogInView()
             }).disposed(by: disposeBag)
     }
 
     // MARK: SignUpViewInput
-    func setupInitialState() {
+
+    func setupInitialState() {}
+
+    func presentCompletedSignUp() {
+        // メール送ったよ画面
+    }
+
+    func showAlertSignUpError(_ error: String) {
+        let alert = UIAlertController(title: R.string.localized.signUpErrorAlertTitle(), message: error, preferredStyle: .alert)
+        let defaultAction = UIAlertAction(title: R.string.localized.close(), style: .default) { _ in
+            alert.dismiss(animated: true, completion: nil)
+        }
+        alert.addAction(defaultAction)
+        present(alert, animated: true, completion: nil)
     }
 }
 
@@ -170,7 +195,8 @@ class SignUpView: UIView {
         setup()
     }
 
-    required init?(coder: NSCoder) {
+    @available(*, unavailable)
+    required init?(coder _: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
 
@@ -193,7 +219,7 @@ class SignUpView: UIView {
     }
 
     private func setupTitleLabel() {
-        self.addSubview(titleLabel)
+        addSubview(titleLabel)
         titleLabel.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.equalToSuperview().dividedBy(4)
@@ -203,7 +229,7 @@ class SignUpView: UIView {
     }
 
     private func setupUserNameAndEmailAndPasswordStackView() {
-        self.addSubview(userNameAndEmailAndPasswordStackView)
+        addSubview(userNameAndEmailAndPasswordStackView)
         userNameAndEmailAndPasswordStackView.snp.makeConstraints { make in
             make.center.equalToSuperview()
             make.width.equalToSuperview().dividedBy(1.5)
@@ -226,7 +252,6 @@ class SignUpView: UIView {
     }
 
     private func setupUserNameTextField() {
-
         userNameTextField = textField(placeholder: R.string.localized.userName())
         addUnderLine(userNameTextField)
         userNameStackView.addArrangedSubview(userNameTextField)
@@ -256,6 +281,7 @@ class SignUpView: UIView {
 
     private func setupPasswordTextField() {
         passwordTextField = textField(placeholder: R.string.localized.password())
+        passwordTextField.isSecureTextEntry = true
         addUnderLine(passwordTextField)
         passwordStackView.addArrangedSubview(passwordTextField)
         passwordTextField.snp.makeConstraints { make in
@@ -269,7 +295,7 @@ class SignUpView: UIView {
     }
 
     private func setupSignUpButton() {
-        self.addSubview(signUpButton)
+        addSubview(signUpButton)
         signUpButton.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.equalTo(userNameAndEmailAndPasswordStackView.snp.bottom).offset(20)
@@ -278,7 +304,7 @@ class SignUpView: UIView {
     }
 
     private func setupToLogInViewButton() {
-        self.addSubview(toLogInViewButton)
+        addSubview(toLogInViewButton)
         toLogInViewButton.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.bottom.equalToSuperview().offset(-30)

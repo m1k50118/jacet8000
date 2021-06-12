@@ -11,4 +11,6 @@ import Foundation
 protocol SignUpInteractorOutput: AnyObject {
     func setValidatedEmail(result: ValidationResult)
     func setValidatedPassword(result: ValidationResult)
+    func completedSignUp()
+    func presentSignUpError(_ error: String)
 }

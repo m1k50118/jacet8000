@@ -21,3 +21,5 @@ invalidLowercaseMessage = "At least more than 1 lowercase\n";
 invalidSpecialCharacterMessage = "At least more than 1 special character\n";
 invalidDigitMessage = "At least more than 1 number\n";
 invalidMinimumLengthMessage = "At least more than %@ characters\n";
+signUpErrorAlertTitle = "Can't create your account";
+close = "Close";

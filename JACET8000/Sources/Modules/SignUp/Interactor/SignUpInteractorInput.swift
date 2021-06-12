@@ -10,4 +10,5 @@ import Foundation
 
 protocol SignUpInteractorInput {
     func validate(text: String, validityType: ValidityType)
+    func signUp(email: String, password: String, name: String)
 }

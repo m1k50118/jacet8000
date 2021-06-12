@@ -10,15 +10,15 @@ import RxCocoa
 import UIKit
 
 protocol SignUpViewOutput {
-
     /**
      @author t2020060
      Notify presenter that view is ready
      */
 
+    var validatedEmail: PublishRelay<ValidationResult> { get }
+    var validatedPassword: PublishRelay<ValidationResult> { get }
     func viewIsReady()
     func presentLogInView()
     func validate(text: String, validityType: ValidityType)
-    var validatedEmail: PublishRelay<ValidationResult> { get }
-    var validatedPassword: PublishRelay<ValidationResult> { get }
+    func signUp(email: String, password: String, name: String)
 }

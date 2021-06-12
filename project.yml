@@ -54,10 +54,19 @@ targets:
       - name: Run SwiftLint
         script: |
                 if which swiftlint >/dev/null; then
-                    swiftlint --fix
+                    mint run swiftlint --fix
                 else
                     echo "warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint"
                 fi
+      - name: Run SwiftFormat
+        script: |
+            if which mint >/dev/null; then
+                git diff --name-only | grep .swift | while read filename; do
+                mint run swiftformat "$filename"
+                done
+            else
+                echo "warning: Mintがインストールされていません。こちらからダウンロードしてください https://github.com/yonaskolb/Mint"
+            fi
       - name: Run RSwift
         script: |
                 if which rswift >/dev/null; then

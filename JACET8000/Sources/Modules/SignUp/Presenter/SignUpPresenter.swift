@@ -9,18 +9,18 @@
 import RxCocoa
 import RxSwift
 
-class SignUpPresenter: SignUpModuleInput, SignUpViewOutput, SignUpInteractorOutput {
-
+class SignUpPresenter: SignUpModuleInput {
     weak var view: SignUpViewInput!
     var interactor: SignUpInteractorInput!
     var router: SignUpRouterInput!
 
     let validatedEmail = PublishRelay<ValidationResult>()
     let validatedPassword = PublishRelay<ValidationResult>()
+}
 
-    func viewIsReady() {
+extension SignUpPresenter: SignUpViewOutput {
+    func viewIsReady() {}
 
-    }
     func validate(text: String, validityType: ValidityType) {
         interactor.validate(text: text, validityType: validityType)
     }
@@ -29,11 +29,25 @@ class SignUpPresenter: SignUpModuleInput, SignUpViewOutput, SignUpInteractorOutp
         router.presentLogInView()
     }
 
+    func signUp(email: String, password: String, name: String) {
+        interactor.signUp(email: email, password: password, name: name)
+    }
+}
+
+extension SignUpPresenter: SignUpInteractorOutput {
     func setValidatedEmail(result: ValidationResult) {
         validatedEmail.accept(result)
     }
 
     func setValidatedPassword(result: ValidationResult) {
         validatedPassword.accept(result)
+    }
+
+    func completedSignUp() {
+        view.presentCompletedSignUp()
+    }
+
+    func presentSignUpError(_ error: String) {
+        view.showAlertSignUpError(error)
     }
 }

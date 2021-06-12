@@ -7,11 +7,12 @@
 //
 
 protocol SignUpViewInput: AnyObject {
-
     /**
      @author t2020060
      Setup initial state of the view
      */
 
     func setupInitialState()
+    func presentCompletedSignUp()
+    func showAlertSignUpError(_ error: String)
 }
