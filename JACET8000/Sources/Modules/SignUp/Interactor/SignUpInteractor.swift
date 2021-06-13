@@ -26,7 +26,7 @@ class SignUpInteractor: SignUpInteractorInput {
     func emailValidate(inputValue: String) -> ValidationResult {
         let emailPattern = EmailValidationPattern()
         let emailRule = ValidationRulePattern(pattern: emailPattern,
-                                              error: SignUpValidationError(R.string.localized.invalidEmailMessage()))
+                                              error: SignUpValidationError(L10n.invalidEmailMessage))
 
         return Validator.validate(input: inputValue, rule: emailRule)
     }
@@ -36,22 +36,22 @@ class SignUpInteractor: SignUpInteractorInput {
 
         let minimumLengthRule = ValidationRuleLength(min: minimumLength,
                                                      error: SignUpValidationError(
-                                                         R.string.localized.invalidMinimumLengthMessage(minimumLength.description)))
+                                                         L10n.invalidMinimumLengthMessage(minimumLength.description)))
         let uppercasePattern = CaseValidationPattern.uppercase
         let uppercaseRule = ValidationRulePattern(pattern: uppercasePattern,
-                                                  error: SignUpValidationError(R.string.localized.invalidUppercaseMessage()))
+                                                  error: SignUpValidationError(L10n.invalidUppercaseMessage))
 
         let lowercasePattern = CaseValidationPattern.lowercase
         let lowercaseRule = ValidationRulePattern(pattern: lowercasePattern,
-                                                  error: SignUpValidationError(R.string.localized.invalidLowercaseMessage()))
+                                                  error: SignUpValidationError(L10n.invalidLowercaseMessage))
 
         let digitPattern = ContainsNumberValidationPattern()
         let digitRule = ValidationRulePattern(pattern: digitPattern,
-                                              error: SignUpValidationError(R.string.localized.invalidDigitMessage()))
+                                              error: SignUpValidationError(L10n.invalidDigitMessage))
 
         let specialCharacterPattern = ContainsSpecialCharacter()
         let specialCharacterRule = ValidationRulePattern(pattern: specialCharacterPattern,
-                                                         error: SignUpValidationError(R.string.localized.invalidSpecialCharacterMessage()))
+                                                         error: SignUpValidationError(L10n.invalidSpecialCharacterMessage))
 
         validationRuleSet.add(rule: minimumLengthRule)
         validationRuleSet.add(rule: uppercaseRule)

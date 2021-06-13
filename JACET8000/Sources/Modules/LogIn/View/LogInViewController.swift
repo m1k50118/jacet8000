@@ -6,14 +6,13 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-import UIKit
 import Firebase
-import SnapKit
-import RxSwift
 import RxCocoa
+import RxSwift
+import SnapKit
+import UIKit
 
 class LogInViewController: UIViewController, LogInViewInput {
-
     var output: LogInViewOutput!
 
     var logInView: LogInView!
@@ -27,10 +26,10 @@ class LogInViewController: UIViewController, LogInViewInput {
     }
 
     // MARK: Life cycle
+
     override func loadView() {
         super.loadView()
-        self.logInView = LogInView(frame: UIScreen.main.bounds)
-        self.logInView.backgroundColor = .systemBackground
+        logInView = LogInView(frame: UIScreen.main.bounds)
     }
 
     override func viewDidLoad() {
@@ -55,35 +54,18 @@ class LogInViewController: UIViewController, LogInViewInput {
     }
 
     // MARK: LogInViewInput
-    func setupInitialState() {
-    }
+
+    func setupInitialState() {}
 
     private func bind() {
-        logInView.emailTextField.rx.text.orEmpty.asDriver()
-            .drive(onNext: { [unowned self] x in
-                logInView.logInButton.isEnabled = !x.isValid(.email)
-            }).disposed(by: disposeBag)
-        logInView.toSignupViewButton.rx.tap
-            .subscribe {[weak self] _ in
-                self?.output.presentSignupView()
-            }.disposed(by: disposeBag)
+//        logInView.emailTextField.rx.text.orEmpty.asDriver()
+//            .drive(onNext: { [unowned self] x in
+//                logInView.logInButton.isEnabled = !x.isValid(.email)
+//            }).disposed(by: disposeBag)
     }
 }
 
 class LogInView: UIView {
-
-    let titleLabel: UILabel = {
-        let label = UILabel()
-        label.text = R.string.localized.logInTitleLabel()
-        label.tintColor = .black
-        label.textAlignment = .center
-        label.sizeToFit()
-        label.font = .systemFont(ofSize: 50)
-        label.adjustsFontSizeToFitWidth = true
-
-        return label
-    }()
-
     let textFieldStackView: UIStackView = {
         let stackView = UIStackView()
         stackView.axis = .vertical
@@ -108,19 +90,10 @@ class LogInView: UIView {
 
     let logInButton: UIButton = {
         let button = UIButton()
-        button.setTitle(R.string.localized.logInButtonLabel(), for: .normal)
+        button.setTitle(L10n.logInButtonLabel, for: .normal)
         button.titleLabel?.textColor = .white
         button.backgroundColor = .gray
         button.layer.cornerRadius = 15
-        return button
-    }()
-
-    let toSignupViewButton: UIButton = {
-        let button = UIButton()
-        button.setTitle(R.string.localized.toSignUpViewButtonLabel(), for: .normal)
-        button.setTitleColor(.systemBlue, for: .normal)
-        button.backgroundColor = nil
-        button.titleLabel?.font = .systemFont(ofSize: 14)
         return button
     }()
 
@@ -129,7 +102,8 @@ class LogInView: UIView {
         setup()
     }
 
-    required init?(coder: NSCoder) {
+    @available(*, unavailable)
+    required init?(coder _: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
 
@@ -137,27 +111,16 @@ class LogInView: UIView {
         backgroundColor = .systemBackground
         clipsToBounds = true
 
-        setupTitleLabel()
         setupTextFieldStackView()
         setupEmailTextField()
         setupPasswordTextField()
         setupLogInButton()
-        setupToSignupViewButton()
     }
 
     // MARK: setup constraints
-    private func setupTitleLabel() {
-        self.addSubview(titleLabel)
-        titleLabel.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.top.equalToSuperview().dividedBy(4)
-            make.width.equalToSuperview()
-            make.height.equalToSuperview().dividedBy(2)
-        }
-    }
 
     private func setupTextFieldStackView() {
-        self.addSubview(textFieldStackView)
+        addSubview(textFieldStackView)
         textFieldStackView.snp.makeConstraints { make in
             make.center.equalToSuperview()
             make.width.equalToSuperview().dividedBy(1.5)
@@ -165,20 +128,20 @@ class LogInView: UIView {
     }
 
     private func setupEmailTextField() {
-        emailTextField = textField(placeholder: R.string.localized.email())
+        emailTextField = textField(placeholder: L10n.email)
         addUnderLine(emailTextField)
         textFieldStackView.addArrangedSubview(emailTextField)
     }
 
     private func setupPasswordTextField() {
-        passwordTextField = textField(placeholder: R.string.localized.password())
+        passwordTextField = textField(placeholder: L10n.password)
         addUnderLine(passwordTextField)
         passwordTextField.isSecureTextEntry = true
         textFieldStackView.addArrangedSubview(passwordTextField)
     }
 
     private func setupLogInButton() {
-        self.addSubview(logInButton)
+        addSubview(logInButton)
         logInButton.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.top.equalTo(textFieldStackView.snp.bottom).offset(20)
@@ -186,15 +149,8 @@ class LogInView: UIView {
         }
     }
 
-    private func setupToSignupViewButton() {
-        self.addSubview(toSignupViewButton)
-        toSignupViewButton.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.bottom.equalToSuperview().offset(-30)
-        }
-    }
-
     // MARK: extra
+
     private func textField(placeholder: String) -> UITextField {
         let textField = UITextField()
 
@@ -215,5 +171,4 @@ class LogInView: UIView {
             make.height.equalTo(1)
         }
     }
-
 }

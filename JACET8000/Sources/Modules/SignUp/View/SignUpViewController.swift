@@ -94,11 +94,6 @@ class SignUpViewController: UIViewController, SignUpViewInput {
                                    password: password,
                                    name: name)
             }).disposed(by: disposeBag)
-
-        signUpView.toLogInViewButton.rx.tap
-            .subscribe(onNext: { [unowned self] in
-                self.output.presentLogInView()
-            }).disposed(by: disposeBag)
     }
 
     // MARK: SignUpViewInput
@@ -110,8 +105,8 @@ class SignUpViewController: UIViewController, SignUpViewInput {
     }
 
     func showAlertSignUpError(_ error: String) {
-        let alert = UIAlertController(title: R.string.localized.signUpErrorAlertTitle(), message: error, preferredStyle: .alert)
-        let defaultAction = UIAlertAction(title: R.string.localized.close(), style: .default) { _ in
+        let alert = UIAlertController(title: L10n.signUpErrorAlertTitle, message: error, preferredStyle: .alert)
+        let defaultAction = UIAlertAction(title: L10n.close, style: .default) { _ in
             alert.dismiss(animated: true, completion: nil)
         }
         alert.addAction(defaultAction)
@@ -120,18 +115,6 @@ class SignUpViewController: UIViewController, SignUpViewInput {
 }
 
 class SignUpView: UIView {
-    let titleLabel: UILabel = {
-        let label = UILabel()
-        label.text = R.string.localized.signUpTitleLabel()
-        label.tintColor = .black
-        label.textAlignment = .center
-        label.sizeToFit()
-        label.font = .systemFont(ofSize: 50)
-        label.adjustsFontSizeToFitWidth = true
-
-        return label
-    }()
-
     var userNameTextField: UITextField! {
         didSet {
             userNameTextField.textContentType = .username
@@ -173,20 +156,11 @@ class SignUpView: UIView {
 
     var signUpButton: UIButton = {
         let button = UIButton()
-        button.setTitle(R.string.localized.signUpButtonLabel(), for: .normal)
+        button.setTitle(L10n.signUpButtonLabel, for: .normal)
         button.titleLabel?.textColor = .white
         button.backgroundColor = .gray
         button.layer.cornerRadius = 15
         button.isEnabled = false
-        return button
-    }()
-
-    let toLogInViewButton: UIButton = {
-        let button = UIButton()
-        button.setTitle(R.string.localized.toLogInViewButtonLabel(), for: .normal)
-        button.setTitleColor(.systemBlue, for: .normal)
-        button.backgroundColor = nil
-        button.titleLabel?.font = .systemFont(ofSize: 14)
         return button
     }()
 
@@ -203,7 +177,6 @@ class SignUpView: UIView {
     private func setup() {
         clipsToBounds = true
 
-        setupTitleLabel()
         setupUserNameAndEmailAndPasswordStackView()
         setupUserNameStackView()
         setupEmailStackView()
@@ -215,17 +188,6 @@ class SignUpView: UIView {
         setupPasswordTextField()
         setupInvalidPasswordLabel()
         setupSignUpButton()
-        setupToLogInViewButton()
-    }
-
-    private func setupTitleLabel() {
-        addSubview(titleLabel)
-        titleLabel.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.top.equalToSuperview().dividedBy(4)
-            make.width.equalToSuperview()
-            make.height.equalToSuperview().dividedBy(2)
-        }
     }
 
     private func setupUserNameAndEmailAndPasswordStackView() {
@@ -252,7 +214,7 @@ class SignUpView: UIView {
     }
 
     private func setupUserNameTextField() {
-        userNameTextField = textField(placeholder: R.string.localized.userName())
+        userNameTextField = textField(placeholder: L10n.userName)
         addUnderLine(userNameTextField)
         userNameStackView.addArrangedSubview(userNameTextField)
         userNameTextField.snp.makeConstraints { make in
@@ -266,7 +228,7 @@ class SignUpView: UIView {
     }
 
     private func setupEmailTextField() {
-        emailTextField = textField(placeholder: R.string.localized.email())
+        emailTextField = textField(placeholder: L10n.email)
         addUnderLine(emailTextField)
         emailStackView.addArrangedSubview(emailTextField)
         emailTextField.snp.makeConstraints { make in
@@ -280,7 +242,7 @@ class SignUpView: UIView {
     }
 
     private func setupPasswordTextField() {
-        passwordTextField = textField(placeholder: R.string.localized.password())
+        passwordTextField = textField(placeholder: L10n.password)
         passwordTextField.isSecureTextEntry = true
         addUnderLine(passwordTextField)
         passwordStackView.addArrangedSubview(passwordTextField)
@@ -300,14 +262,6 @@ class SignUpView: UIView {
             make.centerX.equalToSuperview()
             make.top.equalTo(userNameAndEmailAndPasswordStackView.snp.bottom).offset(20)
             make.width.equalTo(userNameAndEmailAndPasswordStackView).dividedBy(2)
-        }
-    }
-
-    private func setupToLogInViewButton() {
-        addSubview(toLogInViewButton)
-        toLogInViewButton.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.bottom.equalToSuperview().offset(-30)
         }
     }
 

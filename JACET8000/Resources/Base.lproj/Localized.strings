@@ -23,3 +23,4 @@ invalidDigitMessage = "At least more than 1 number\n";
 invalidMinimumLengthMessage = "At least more than %@ characters\n";
 signUpErrorAlertTitle = "Can't create your account";
 close = "Close";
+LandingTitle = "English\nfor\nJapanese People";

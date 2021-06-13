@@ -25,5 +25,9 @@ swift run xcodegen
 
 ### モジュール作成
 ```
+bundle install
+```
+
+```
 bundle exec generamba gen {モジュール名} swifty_viper
 ```
