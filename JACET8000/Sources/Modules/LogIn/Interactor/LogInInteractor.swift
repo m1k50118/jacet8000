@@ -17,7 +17,7 @@ class LogInInteractor: LogInInteractorInput {
                 print("😀", error?.localizedDescription)
                 return
             }
+            self.output?.loginDidOccur()
         }
-        output.loginDidOccur()
     }
 }
