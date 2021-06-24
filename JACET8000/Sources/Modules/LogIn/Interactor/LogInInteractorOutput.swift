@@ -9,5 +9,5 @@
 import Foundation
 
 protocol LogInInteractorOutput: AnyObject {
-
+    func loginDidOccur()
 }

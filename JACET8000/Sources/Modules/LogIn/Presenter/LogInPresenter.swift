@@ -6,17 +6,22 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-class LogInPresenter: LogInModuleInput, LogInViewOutput, LogInInteractorOutput {
-
+class LogInPresenter: LogInModuleInput {
     weak var view: LogInViewInput!
     var interactor: LogInInteractorInput!
     var router: LogInRouterInput!
+}
 
-    func viewIsReady() {
+extension LogInPresenter: LogInViewOutput {
+    func viewIsReady() {}
 
+    func logIn(email: String, password: String) {
+        interactor.logIn(email: email, password: password)
     }
+}
 
-    func presentSignupView() {
-        router.presentSignupView()
+extension LogInPresenter: LogInInteractorOutput {
+    func loginDidOccur() {
+        router.presentHomeView()
     }
 }

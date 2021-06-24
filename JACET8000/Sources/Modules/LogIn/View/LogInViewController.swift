@@ -58,10 +58,15 @@ class LogInViewController: UIViewController, LogInViewInput {
     func setupInitialState() {}
 
     private func bind() {
-//        logInView.emailTextField.rx.text.orEmpty.asDriver()
-//            .drive(onNext: { [unowned self] x in
-//                logInView.logInButton.isEnabled = !x.isValid(.email)
-//            }).disposed(by: disposeBag)
+        logInView.logInButton.rx.tap
+            .subscribe(onNext: { [weak self] _ in
+                guard let email = self?.logInView.emailTextField.text,
+                      let password = self?.logInView.passwordTextField.text
+                else {
+                    return
+                }
+                self?.output.logIn(email: email, password: password)
+            }).disposed(by: disposeBag)
     }
 }
 

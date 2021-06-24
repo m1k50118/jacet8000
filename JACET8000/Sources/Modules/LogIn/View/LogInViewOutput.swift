@@ -7,12 +7,11 @@
 //
 
 protocol LogInViewOutput {
-
     /**
      @author t2020060
      Notify presenter that view is ready
      */
 
     func viewIsReady()
-    func presentSignupView()
+    func logIn(email: String, password: String)
 }

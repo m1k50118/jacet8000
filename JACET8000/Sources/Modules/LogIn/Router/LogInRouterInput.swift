@@ -9,5 +9,5 @@
 import Foundation
 
 protocol LogInRouterInput {
-    func presentSignupView()
+    func presentHomeView()
 }

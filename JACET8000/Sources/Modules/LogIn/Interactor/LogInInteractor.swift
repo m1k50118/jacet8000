@@ -6,8 +6,18 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-class LogInInteractor: LogInInteractorInput {
+import Firebase
 
+class LogInInteractor: LogInInteractorInput {
     weak var output: LogInInteractorOutput!
 
+    func logIn(email: String, password: String) {
+        Auth.auth().signIn(withEmail: email, password: password) { _, error in
+            guard error == nil else {
+                print("😀", error?.localizedDescription)
+                return
+            }
+        }
+        output.loginDidOccur()
+    }
 }

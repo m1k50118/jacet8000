@@ -9,17 +9,14 @@
 import UIKit
 
 class LogInModuleConfigurator {
-
     func configureModuleForViewInput<UIViewController>(viewInput: UIViewController) {
-
         if let viewController = viewInput as? LogInViewController {
             configure(viewController: viewController)
         }
     }
 
     private func configure(viewController: LogInViewController) {
-
-        let router = LogInRouter()
+        let router = LogInRouter(viewController: viewController)
 
         let presenter = LogInPresenter()
         presenter.view = viewController
@@ -31,5 +28,4 @@ class LogInModuleConfigurator {
         presenter.interactor = interactor
         viewController.output = presenter
     }
-
 }

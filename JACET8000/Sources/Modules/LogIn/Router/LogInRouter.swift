@@ -8,13 +8,16 @@
 import UIKit
 
 class LogInRouter: LogInRouterInput {
+    private unowned let viewController: UIViewController
 
-    func presentSignupView() {
-        let config = SignUpModuleConfigurator()
-        let signUpViewController = SignUpViewController()
+    init(viewController: UIViewController) {
+        self.viewController = viewController
+    }
 
-        config.configureModuleForViewInput(viewInput: signUpViewController)
-
-        Navigator.shared.presentViewController(viewController: signUpViewController)
+    func presentHomeView() {
+        let alert = UIAlertController(title: "Success log in", message: "ログイン成功", preferredStyle: .alert)
+        let defaultAction = UIAlertAction(title: "Close", style: .default, handler: nil)
+        alert.addAction(defaultAction)
+        viewController.present(alert, animated: true, completion: nil)
     }
 }
