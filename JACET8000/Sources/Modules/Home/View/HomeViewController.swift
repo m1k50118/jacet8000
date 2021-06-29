@@ -10,7 +10,7 @@ import UIKit
 
 class HomeViewController: UIViewController, HomeViewInput {
     var output: HomeViewOutput!
-    var homeView: HomeView!
+    var homeCollectionView: HomeCollectionView!
 
     let spacing: CGFloat = 16.0
 
@@ -34,11 +34,11 @@ class HomeViewController: UIViewController, HomeViewInput {
                                            left: spacing,
                                            bottom: spacing,
                                            right: spacing)
-        homeView = HomeView(frame: UIScreen.main.bounds, collectionViewLayout: layout)
-        homeView.delegate = self
-        homeView.dataSource = self
+        homeCollectionView = HomeCollectionView(frame: UIScreen.main.bounds, collectionViewLayout: layout)
+        homeCollectionView.delegate = self
+        homeCollectionView.dataSource = self
 
-        view.addSubview(homeView)
+        view.addSubview(homeCollectionView)
 
         output.viewIsReady()
     }
@@ -48,7 +48,11 @@ class HomeViewController: UIViewController, HomeViewInput {
     func setupInitialState() {}
 }
 
-extension HomeViewController: UICollectionViewDelegate {}
+extension HomeViewController: UICollectionViewDelegate {
+    func collectionView(_: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        output.presentLearningView(level: levels[indexPath.section][indexPath.item])
+    }
+}
 
 extension HomeViewController: UICollectionViewDataSource {
     func collectionView(_: UICollectionView, numberOfItemsInSection _: Int) -> Int {
@@ -60,7 +64,7 @@ extension HomeViewController: UICollectionViewDataSource {
     }
 
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath) as? CollectionViewCell else {
+        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath) as? HomeCollectionViewCell else {
             return UICollectionViewCell()
         }
         cell.setUpContents(text: levels[indexPath.section][indexPath.item])
@@ -82,11 +86,11 @@ extension HomeViewController: UICollectionViewDelegateFlowLayout {
     }
 }
 
-class HomeView: UICollectionView {
+class HomeCollectionView: UICollectionView {
     override init(frame: CGRect, collectionViewLayout layout: UICollectionViewLayout) {
         super.init(frame: frame, collectionViewLayout: layout)
         backgroundColor = .white
-        register(CollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        register(HomeCollectionViewCell.self, forCellWithReuseIdentifier: "cell")
     }
 
     @available(*, unavailable)
@@ -95,7 +99,7 @@ class HomeView: UICollectionView {
     }
 }
 
-class CollectionViewCell: UICollectionViewCell {
+class HomeCollectionViewCell: UICollectionViewCell {
     let levelText: UILabel = {
         let label = UILabel()
         label.textAlignment = .center

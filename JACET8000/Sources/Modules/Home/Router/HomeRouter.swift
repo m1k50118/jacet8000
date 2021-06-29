@@ -6,6 +6,19 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-class HomeRouter: HomeRouterInput {
+import UIKit
 
+class HomeRouter: HomeRouterInput {
+    private unowned let viewController: UIViewController
+
+    init(viewController: UIViewController) {
+        self.viewController = viewController
+    }
+
+    func presentLearningView(level: String) {
+        let vc = LearningViewController(level: level)
+        let config = LearningModuleConfigurator()
+        config.configureModuleForViewInput(viewInput: vc)
+        viewController.navigationController?.pushViewController(vc, animated: true)
+    }
 }

@@ -7,11 +7,11 @@
 //
 
 protocol HomeViewOutput {
-
     /**
-        @author t2020060
-        Notify presenter that view is ready
-    */
+         @author t2020060
+         Notify presenter that view is ready
+     */
 
     func viewIsReady()
+    func presentLearningView(level: String)
 }

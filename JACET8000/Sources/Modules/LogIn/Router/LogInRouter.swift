@@ -20,7 +20,7 @@ class LogInRouter: LogInRouterInput {
         config.configureModuleForViewInput(viewInput: homeViewController)
         if let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate {
             guard let window = sceneDelegate.window else { return }
-            window.rootViewController = homeViewController
+            window.rootViewController = UINavigationController(rootViewController: homeViewController)
             window.makeKeyAndVisible()
         }
     }

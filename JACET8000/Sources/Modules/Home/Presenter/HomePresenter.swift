@@ -6,13 +6,18 @@
 //  Copyright © 2021 n. All rights reserved.
 //
 
-class HomePresenter: HomeModuleInput, HomeViewOutput, HomeInteractorOutput {
-
+class HomePresenter: HomeModuleInput {
     weak var view: HomeViewInput!
     var interactor: HomeInteractorInput!
     var router: HomeRouterInput!
 
-    func viewIsReady() {
+    func viewIsReady() {}
+}
 
+extension HomePresenter: HomeViewOutput {
+    func presentLearningView(level: String) {
+        router.presentLearningView(level: level)
     }
 }
+
+extension HomePresenter: HomeInteractorOutput {}

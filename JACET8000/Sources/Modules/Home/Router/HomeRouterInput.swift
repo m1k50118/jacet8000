@@ -9,5 +9,5 @@
 import Foundation
 
 protocol HomeRouterInput {
-
+    func presentLearningView(level: String)
 }

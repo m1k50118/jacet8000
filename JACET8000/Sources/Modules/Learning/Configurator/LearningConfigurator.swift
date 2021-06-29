@@ -1,31 +1,35 @@
 //
-//  HomeHomeConfigurator.swift
+//  LearningLearningConfigurator.swift
 //  JACET8000
 //
-//  Created by t2020060 on 27/06/2021.
+//  Created by t2020060 on 29/06/2021.
 //  Copyright © 2021 n. All rights reserved.
 //
 
 import UIKit
 
-class HomeModuleConfigurator {
+class LearningModuleConfigurator {
+
     func configureModuleForViewInput<UIViewController>(viewInput: UIViewController) {
-        if let viewController = viewInput as? HomeViewController {
+
+        if let viewController = viewInput as? LearningViewController {
             configure(viewController: viewController)
         }
     }
 
-    private func configure(viewController: HomeViewController) {
-        let router = HomeRouter(viewController: viewController)
+    private func configure(viewController: LearningViewController) {
 
-        let presenter = HomePresenter()
+        let router = LearningRouter()
+
+        let presenter = LearningPresenter()
         presenter.view = viewController
         presenter.router = router
 
-        let interactor = HomeInteractor()
+        let interactor = LearningInteractor()
         interactor.output = presenter
 
         presenter.interactor = interactor
         viewController.output = presenter
     }
+
 }
