@@ -15,9 +15,13 @@ class LogInRouter: LogInRouterInput {
     }
 
     func presentHomeView() {
-        let alert = UIAlertController(title: "Success log in", message: "ログイン成功", preferredStyle: .alert)
-        let defaultAction = UIAlertAction(title: "Close", style: .default, handler: nil)
-        alert.addAction(defaultAction)
-        viewController.present(alert, animated: true, completion: nil)
+        let homeViewController = HomeViewController()
+        let config = HomeModuleConfigurator()
+        config.configureModuleForViewInput(viewInput: homeViewController)
+        if let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as? SceneDelegate {
+            guard let window = sceneDelegate.window else { return }
+            window.rootViewController = homeViewController
+            window.makeKeyAndVisible()
+        }
     }
 }
