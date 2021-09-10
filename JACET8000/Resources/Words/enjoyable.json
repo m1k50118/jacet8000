@@ -1,0 +1,35 @@
+{
+    "word": "enjoyable",
+    "results": [
+        {
+            "definition": "affording satisfaction or pleasure",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "gratifying",
+                "pleasurable"
+            ],
+            "similarTo": [
+                "pleasant"
+            ],
+            "derivation": [
+                "enjoyableness"
+            ],
+            "examples": [
+                "the company was enjoyable"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "en",
+            "joy",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bn'd\u0292\u0254\u026a\u0259b\u0259l"
+    },
+    "frequency": 3.21
+}

@@ -1,0 +1,39 @@
+{
+    "word": "visitor",
+    "results": [
+        {
+            "definition": "someone who visits",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "visitant"
+            ],
+            "typeOf": [
+                "traveller",
+                "traveler"
+            ],
+            "hasTypes": [
+                "company",
+                "guest",
+                "invitee",
+                "boulevardier",
+                "visiting fireman",
+                "caller"
+            ],
+            "derivation": [
+                "visit"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "vis",
+            "i",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "'v\u026az\u026at\u0259r"
+    },
+    "frequency": 3.96
+}

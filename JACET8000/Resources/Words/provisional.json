@@ -1,0 +1,33 @@
+{
+    "word": "provisional",
+    "results": [
+        {
+            "definition": "under terms not final or fully worked out or agreed upon",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "probationary",
+                "provisionary",
+                "tentative"
+            ],
+            "similarTo": [
+                "conditional"
+            ],
+            "examples": [
+                "a provisional government"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "pro",
+            "vi",
+            "sion",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "pr\u0259'v\u026a\u0292\u0259n\u0259l"
+    },
+    "frequency": 3.06
+}

@@ -1,0 +1,27 @@
+{
+    "word": "prairie",
+    "results": [
+        {
+            "definition": "a treeless grassy plain",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "grassland"
+            ],
+            "hasInstances": [
+                "great plains",
+                "great plains of north america"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "prai",
+            "rie"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pr\u025cri"
+    },
+    "frequency": 3.19
+}

@@ -1,0 +1,33 @@
+{
+    "word": "onstage",
+    "results": [
+        {
+            "definition": "situated or taking place on the area of a stage visible to the audience",
+            "partOfSpeech": null,
+            "antonyms": [
+                "offstage"
+            ]
+        },
+        {
+            "definition": "on the stage",
+            "partOfSpeech": null,
+            "antonyms": [
+                "offstage"
+            ],
+            "examples": [
+                "it was time for her to go onstage"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "on",
+            "stage"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0251n'ste\u026ad\u0292"
+    },
+    "frequency": 3.37
+}

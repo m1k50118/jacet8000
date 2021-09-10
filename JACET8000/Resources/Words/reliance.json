@@ -1,0 +1,46 @@
+{
+    "word": "reliance",
+    "results": [
+        {
+            "definition": "certainty based on past experience",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "trust"
+            ],
+            "typeOf": [
+                "certainty"
+            ],
+            "derivation": [
+                "rely"
+            ],
+            "examples": [
+                "he wrote the paper with considerable reliance on the work of other scientists"
+            ]
+        },
+        {
+            "definition": "the state of relying on something",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "dependance",
+                "dependence",
+                "dependency"
+            ],
+            "derivation": [
+                "reliant",
+                "rely"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "li",
+            "ance"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'la\u026a\u0259ns"
+    },
+    "frequency": 2.84
+}

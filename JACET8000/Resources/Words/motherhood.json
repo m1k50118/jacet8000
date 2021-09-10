@@ -1,0 +1,32 @@
+{
+    "word": "motherhood",
+    "results": [
+        {
+            "definition": "the kinship relation between an offspring and the mother",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "maternity"
+            ],
+            "typeOf": [
+                "family relationship",
+                "kinship",
+                "relationship"
+            ],
+            "derivation": [
+                "mother"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "moth",
+            "er",
+            "hood"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u0259\u00f0\u0259r,h\u028ad"
+    },
+    "frequency": 3.01
+}

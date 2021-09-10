@@ -1,0 +1,41 @@
+{
+    "word": "astonishment",
+    "results": [
+        {
+            "definition": "the feeling that accompanies something extremely surprising",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "amazement"
+            ],
+            "typeOf": [
+                "feeling"
+            ],
+            "hasTypes": [
+                "admiration",
+                "stupefaction",
+                "surprise",
+                "wonder",
+                "wonderment"
+            ],
+            "derivation": [
+                "astonish"
+            ],
+            "examples": [
+                "he looked at me in astonishment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "a",
+            "ston",
+            "ish",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'st\u0251n\u026a\u0283m\u0259nt"
+    },
+    "frequency": 2.72
+}

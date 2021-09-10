@@ -1,0 +1,51 @@
+{
+    "word": "coefficient",
+    "results": [
+        {
+            "definition": "a constant number that serves as a measure of some property or characteristic",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "constant"
+            ],
+            "hasTypes": [
+                "absorptance",
+                "absorption coefficient",
+                "coefficient of absorption",
+                "coefficient of drag",
+                "coefficient of expansion",
+                "coefficient of friction",
+                "coefficient of mutual induction",
+                "coefficient of reflection",
+                "coefficient of self induction",
+                "coefficient of viscosity",
+                "drag coefficient",
+                "dynamic viscosity",
+                "expansivity",
+                "modulus",
+                "mutual inductance",
+                "reflectance",
+                "reflection factor",
+                "reflectivity",
+                "self-inductance",
+                "transmission",
+                "transmittance",
+                "weight",
+                "absolute viscosity",
+                "weighting"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "co",
+            "ef",
+            "fi",
+            "cient"
+        ]
+    },
+    "pronunciation": {
+        "all": ",ko\u028a\u0259'f\u026a\u0283\u0259nt"
+    },
+    "frequency": 2.08
+}

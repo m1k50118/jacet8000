@@ -1,0 +1,62 @@
+{
+    "word": "accessibility",
+    "results": [
+        {
+            "definition": "the quality of being at hand when needed",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "availability",
+                "availableness",
+                "handiness"
+            ],
+            "attribute": [
+                "unavailable",
+                "available",
+                "inaccessible",
+                "unaccessible",
+                "accessible"
+            ],
+            "typeOf": [
+                "convenience"
+            ],
+            "hasTypes": [
+                "print",
+                "command"
+            ],
+            "antonyms": [
+                "inaccessibility"
+            ],
+            "derivation": [
+                "accessible"
+            ]
+        },
+        {
+            "definition": "the attribute of being easy to meet or deal with",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "approachability"
+            ],
+            "typeOf": [
+                "friendliness"
+            ],
+            "derivation": [
+                "accessible"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 6,
+        "list": [
+            "ac",
+            "ces",
+            "si",
+            "bil",
+            "i",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259k,s\u025bs\u026a'b\u026al\u026ati"
+    },
+    "frequency": 2.08
+}

@@ -1,0 +1,42 @@
+{
+    "word": "riverside",
+    "results": [
+        {
+            "definition": "the bank of a river",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "riverbank"
+            ],
+            "typeOf": [
+                "bank"
+            ]
+        },
+        {
+            "definition": "a city in southern California",
+            "partOfSpeech": "noun",
+            "instanceOf": [
+                "urban center",
+                "city",
+                "metropolis"
+            ],
+            "partOf": [
+                "california",
+                "golden state",
+                "ca",
+                "calif."
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "riv",
+            "er",
+            "side"
+        ]
+    },
+    "pronunciation": {
+        "all": "'riv\u0259,sa\u026ad"
+    },
+    "frequency": 3.16
+}

@@ -1,0 +1,31 @@
+{
+    "word": "congressman",
+    "results": [
+        {
+            "definition": "a member of the United States House of Representatives",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "congresswoman",
+                "representative"
+            ],
+            "typeOf": [
+                "legislator"
+            ],
+            "hasTypes": [
+                "rep"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "con",
+            "gress",
+            "man"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0251\u014bgr\u026asm\u0259n"
+    },
+    "frequency": 3.63
+}

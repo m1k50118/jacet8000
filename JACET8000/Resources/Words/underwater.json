@@ -1,0 +1,46 @@
+{
+    "word": "underwater",
+    "results": [
+        {
+            "definition": "beneath the surface of the water",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "submerged",
+                "submersed"
+            ],
+            "similarTo": [
+                "subsurface"
+            ]
+        },
+        {
+            "definition": "growing or remaining under water",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "subaquatic",
+                "subaqueous",
+                "submerged",
+                "submersed"
+            ],
+            "inCategory": [
+                "biological science",
+                "biology"
+            ],
+            "similarTo": [
+                "aquatic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "un",
+            "der",
+            "wa",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259nd\u0259'wo\u028art\u0259r"
+    },
+    "frequency": 3.84
+}

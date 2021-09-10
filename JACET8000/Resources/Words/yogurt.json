@@ -1,0 +1,33 @@
+{
+    "word": "yogurt",
+    "results": [
+        {
+            "definition": "a custard-like food made from curdled milk",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "yoghourt",
+                "yoghurt"
+            ],
+            "typeOf": [
+                "dairy product",
+                "food",
+                "solid food"
+            ],
+            "hasTypes": [
+                "blueberry yogurt",
+                "frozen yogurt"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "yo",
+            "gurt"
+        ]
+    },
+    "pronunciation": {
+        "all": "'jo\u028a\u0261\u0259rt"
+    },
+    "frequency": 3.49
+}

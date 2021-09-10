@@ -1,0 +1,60 @@
+{
+    "word": "novelist",
+    "results": [
+        {
+            "definition": "one who writes novels",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "writer",
+                "author"
+            ],
+            "hasInstances": [
+                "balzac",
+                "emile zola",
+                "falkner",
+                "faulkner",
+                "genet",
+                "george meredith",
+                "giraudoux",
+                "goethe",
+                "hippolyte jean giraudoux",
+                "honore balzac",
+                "honore de balzac",
+                "hugo",
+                "james agee",
+                "jean genet",
+                "jean giraudoux",
+                "johann wolfgang von goethe",
+                "louisa may alcott",
+                "luigi pirandello",
+                "marcel proust",
+                "meredith",
+                "pirandello",
+                "proust",
+                "victor-marie hugo",
+                "victor hugo",
+                "william cuthbert faulkner",
+                "william falkner",
+                "william faulkner",
+                "agee",
+                "zola",
+                "alcott"
+            ],
+            "derivation": [
+                "novel"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "nov",
+            "el",
+            "ist"
+        ]
+    },
+    "pronunciation": {
+        "all": "'n\u0251v\u0259l\u026ast"
+    },
+    "frequency": 3.15
+}

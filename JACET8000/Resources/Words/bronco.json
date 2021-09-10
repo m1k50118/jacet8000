@@ -1,0 +1,30 @@
+{
+    "word": "bronco",
+    "results": [
+        {
+            "definition": "an unbroken or imperfectly broken mustang",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bronc",
+                "broncho"
+            ],
+            "typeOf": [
+                "mustang"
+            ],
+            "hasTypes": [
+                "bucking bronco"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "bron",
+            "co"
+        ]
+    },
+    "pronunciation": {
+        "all": "'br\u0251\u014bko\u028a"
+    },
+    "frequency": 2.73
+}

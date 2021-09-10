@@ -1,0 +1,45 @@
+{
+    "word": "census",
+    "results": [
+        {
+            "definition": "a periodic count of the population",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "nose count",
+                "nosecount"
+            ],
+            "typeOf": [
+                "count",
+                "counting",
+                "enumeration",
+                "numeration",
+                "reckoning",
+                "tally"
+            ]
+        },
+        {
+            "definition": "conduct a census",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "count",
+                "enumerate",
+                "number",
+                "numerate"
+            ],
+            "examples": [
+                "They censused the deer in the forest"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "cen",
+            "sus"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025bns\u0259s"
+    },
+    "frequency": 2.96
+}

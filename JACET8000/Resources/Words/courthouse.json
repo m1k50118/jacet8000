@@ -1,0 +1,38 @@
+{
+    "word": "courthouse",
+    "results": [
+        {
+            "definition": "a building that houses judicial courts",
+            "partOfSpeech": "noun",
+            "inCategory": [
+                "jurisprudence",
+                "law"
+            ],
+            "typeOf": [
+                "house"
+            ],
+            "hasParts": [
+                "court",
+                "courtroom"
+            ]
+        },
+        {
+            "definition": "a government building that houses the offices of a county government",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "government building"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "court",
+            "house"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ko\u028art,ha\u028as"
+    },
+    "frequency": 3.46
+}

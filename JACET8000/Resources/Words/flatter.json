@@ -1,0 +1,47 @@
+{
+    "word": "flatter",
+    "results": [
+        {
+            "definition": "praise somewhat dishonestly",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "blandish"
+            ],
+            "typeOf": [
+                "praise"
+            ],
+            "hasTypes": [
+                "bootlick",
+                "brown-nose",
+                "butter up",
+                "fawn",
+                "kotow",
+                "kowtow",
+                "soft-soap",
+                "stroke",
+                "suck up",
+                "toady",
+                "adulate",
+                "truckle"
+            ],
+            "antonyms": [
+                "disparage"
+            ],
+            "derivation": [
+                "flatterer",
+                "flattery"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "flat",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": "'fl\u00e6t\u0259r"
+    },
+    "frequency": 3.55
+}

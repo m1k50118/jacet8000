@@ -1,0 +1,35 @@
+{
+    "word": "intestinal",
+    "results": [
+        {
+            "definition": "of or relating to or inside the intestines",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "enteral",
+                "enteric"
+            ],
+            "pertainsTo": [
+                "intestine"
+            ],
+            "derivation": [
+                "intestine"
+            ],
+            "examples": [
+                "intestinal disease"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "in",
+            "tes",
+            "ti",
+            "nal"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026an't\u025bst\u0259n\u0259l"
+    },
+    "frequency": 2.66
+}

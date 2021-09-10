@@ -1,0 +1,46 @@
+{
+    "word": "racial",
+    "results": [
+        {
+            "definition": "of or characteristic of race or races or arising from differences among groups",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "biracial",
+                "interracial",
+                "multiracial",
+                "racist"
+            ],
+            "antonyms": [
+                "nonracial"
+            ],
+            "examples": [
+                "racial differences",
+                "racial discrimination"
+            ]
+        },
+        {
+            "definition": "of or related to genetically distinguished groups of people",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "race"
+            ],
+            "derivation": [
+                "race"
+            ],
+            "examples": [
+                "racial groups"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ra",
+            "cial"
+        ]
+    },
+    "pronunciation": {
+        "all": "'re\u026a\u0283\u0259l"
+    },
+    "frequency": 3.43
+}

@@ -1,0 +1,47 @@
+{
+    "word": "eligible",
+    "results": [
+        {
+            "definition": "qualified for or allowed or worthy of being chosen",
+            "partOfSpeech": "adjective",
+            "also": [
+                "qualified"
+            ],
+            "similarTo": [
+                "desirable",
+                "entitled",
+                "in line",
+                "legal",
+                "pensionable",
+                "suitable",
+                "bailable",
+                "worthy"
+            ],
+            "antonyms": [
+                "ineligible"
+            ],
+            "derivation": [
+                "elect",
+                "eligibility"
+            ],
+            "examples": [
+                "eligible to run for office",
+                "eligible for retirement benefits",
+                "an eligible bachelor"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "el",
+            "i",
+            "gi",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u025bl\u026ad\u0292\u0259b\u0259l"
+    },
+    "frequency": 3.34
+}

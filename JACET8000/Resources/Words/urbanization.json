@@ -1,0 +1,44 @@
+{
+    "word": "urbanization",
+    "results": [
+        {
+            "definition": "the social process whereby cities grow and societies become more urban",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "urbanisation"
+            ],
+            "typeOf": [
+                "social process"
+            ],
+            "derivation": [
+                "urbanize"
+            ]
+        },
+        {
+            "definition": "the condition of being urbanized",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "urbanisation"
+            ],
+            "typeOf": [
+                "condition",
+                "status"
+            ],
+            "derivation": [
+                "urbanize"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ur",
+            "ban",
+            "i",
+            "za",
+            "tion"
+        ]
+    },
+    "pronunciation": ",\u025drb\u028cn\u028c'ze\u026a\u0283\u028cn",
+    "frequency": 1.6
+}

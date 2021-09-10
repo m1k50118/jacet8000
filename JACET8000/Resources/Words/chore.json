@@ -1,0 +1,36 @@
+{
+    "word": "chore",
+    "results": [
+        {
+            "definition": "a specific piece of work required to be done as a duty or for a specific fee",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "job",
+                "task"
+            ],
+            "typeOf": [
+                "duty"
+            ],
+            "hasTypes": [
+                "ball-breaker",
+                "ball-buster",
+                "scut work",
+                "shitwork",
+                "stint"
+            ],
+            "examples": [
+                "the farmer's morning chores"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "chore"
+        ]
+    },
+    "pronunciation": {
+        "all": "t\u0283o\u028ar"
+    },
+    "frequency": 2.96
+}

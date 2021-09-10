@@ -1,0 +1,50 @@
+{
+    "word": "collaboration",
+    "results": [
+        {
+            "definition": "act of cooperating traitorously with an enemy that is occupying your country",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "collaborationism",
+                "quislingism"
+            ],
+            "typeOf": [
+                "cooperation"
+            ],
+            "derivation": [
+                "collaborate",
+                "collaborationist"
+            ]
+        },
+        {
+            "definition": "act of working jointly",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "coaction"
+            ],
+            "typeOf": [
+                "cooperation"
+            ],
+            "derivation": [
+                "collaborate"
+            ],
+            "examples": [
+                "they worked either in collaboration or independently"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "col",
+            "lab",
+            "o",
+            "ra",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259,l\u00e6b\u0259're\u026a\u0283\u0259n"
+    },
+    "frequency": 3.37
+}

@@ -1,0 +1,47 @@
+{
+    "word": "effectively",
+    "results": [
+        {
+            "definition": "in an effective manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "efficaciously"
+            ],
+            "antonyms": [
+                "ineffectively"
+            ],
+            "pertainsTo": [
+                "effective"
+            ],
+            "examples": [
+                "these are real problems that can be dealt with most effectively by rational discussion"
+            ]
+        },
+        {
+            "definition": "in actuality or reality or fact",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "in effect"
+            ],
+            "pertainsTo": [
+                "effective"
+            ],
+            "examples": [
+                "she is effectively his wife"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ef",
+            "fec",
+            "tive",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026a'f\u025bkt\u026avli"
+    },
+    "frequency": 3.4
+}

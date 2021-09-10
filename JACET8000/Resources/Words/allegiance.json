@@ -1,0 +1,53 @@
+{
+    "word": "allegiance",
+    "results": [
+        {
+            "definition": "the loyalty that citizens owe to their country (or subjects to their sovereign)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "fealty"
+            ],
+            "typeOf": [
+                "loyalty",
+                "trueness"
+            ],
+            "derivation": [
+                "allegiant"
+            ]
+        },
+        {
+            "definition": "the act of binding yourself (intellectually or emotionally) to a course of action",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "commitment",
+                "dedication",
+                "loyalty"
+            ],
+            "typeOf": [
+                "cooperation"
+            ],
+            "hasTypes": [
+                "consecration",
+                "devotion",
+                "enlistment",
+                "faith",
+                "communalism"
+            ],
+            "derivation": [
+                "allegiant"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "al",
+            "le",
+            "giance"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'lid\u0292\u0259ns"
+    },
+    "frequency": 3.43
+}

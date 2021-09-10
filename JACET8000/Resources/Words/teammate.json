@@ -1,0 +1,29 @@
+{
+    "word": "teammate",
+    "results": [
+        {
+            "definition": "a fellow member of a team",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "mate"
+            ],
+            "typeOf": [
+                "associate"
+            ],
+            "examples": [
+                "it was his first start against his former teammates"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "team",
+            "mate"
+        ]
+    },
+    "pronunciation": {
+        "all": "'tim,me\u026at"
+    },
+    "frequency": 2.85
+}

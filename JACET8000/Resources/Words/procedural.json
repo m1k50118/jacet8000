@@ -1,0 +1,34 @@
+{
+    "word": "procedural",
+    "results": [
+        {
+            "definition": "relating to court practice and procedure as opposed to the principles of law",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "adjective"
+            ],
+            "inCategory": [
+                "jurisprudence",
+                "law"
+            ],
+            "derivation": [
+                "procedure"
+            ]
+        },
+        {
+            "definition": "of or relating to procedure",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "procedure"
+            ],
+            "derivation": [
+                "procedure"
+            ],
+            "examples": [
+                "a procedural violation"
+            ]
+        }
+    ],
+    "pronunciation": "pr\u028c'sid\u0292\u025dr\u028cl",
+    "frequency": 2.47
+}

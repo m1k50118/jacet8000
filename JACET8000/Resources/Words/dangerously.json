@@ -1,0 +1,32 @@
+{
+    "word": "dangerously",
+    "results": [
+        {
+            "definition": "in a dangerous manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "hazardously",
+                "perilously"
+            ],
+            "pertainsTo": [
+                "dangerous"
+            ],
+            "examples": [
+                "he came dangerously close to falling off the ledge"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dan",
+            "ger",
+            "ous",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'de\u026and\u0292\u0259r\u0259sli"
+    },
+    "frequency": 3.15
+}

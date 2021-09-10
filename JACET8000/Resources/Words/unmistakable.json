@@ -1,0 +1,44 @@
+{
+    "word": "unmistakable",
+    "results": [
+        {
+            "definition": "clearly revealed to the mind or the senses or judgment",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "apparent",
+                "evident",
+                "manifest",
+                "palpable",
+                "patent",
+                "plain"
+            ],
+            "similarTo": [
+                "obvious"
+            ]
+        },
+        {
+            "definition": "clearly evident to the mind",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "clear"
+            ],
+            "examples": [
+                "his opposition to slavery was unmistakable"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "mis",
+            "tak",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259nm\u026a'ste\u026ak\u0259b\u0259l"
+    },
+    "frequency": 2.73
+}

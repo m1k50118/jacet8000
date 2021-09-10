@@ -1,0 +1,54 @@
+{
+    "word": "negotiation",
+    "results": [
+        {
+            "definition": "a discussion intended to produce an agreement",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dialogue",
+                "talks"
+            ],
+            "typeOf": [
+                "word",
+                "discussion",
+                "give-and-take"
+            ],
+            "hasTypes": [
+                "collective bargaining",
+                "diplomatic negotiations",
+                "parley",
+                "diplomacy",
+                "horse trading",
+                "mediation",
+                "bargaining"
+            ],
+            "derivation": [
+                "negotiate"
+            ],
+            "examples": [
+                "the buyout negotiation lasted several days"
+            ]
+        },
+        {
+            "definition": "the activity or business of negotiating an agreement; coming to terms",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "activity"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ne",
+            "go",
+            "ti",
+            "a",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "n\u026a,\u0261o\u028a\u0283i'e\u026a\u0283\u0259n"
+    },
+    "frequency": 3.4
+}

@@ -1,0 +1,32 @@
+{
+    "word": "constituency",
+    "results": [
+        {
+            "definition": "the body of voters who elect a representative for their area",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "body"
+            ],
+            "hasMembers": [
+                "constituent"
+            ],
+            "memberOf": [
+                "electorate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "con",
+            "stit",
+            "u",
+            "en",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n'st\u026a\u02a7u\u0259nsi"
+    },
+    "frequency": 2.81
+}

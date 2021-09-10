@@ -1,0 +1,47 @@
+{
+    "word": "unrealistic",
+    "results": [
+        {
+            "definition": "not realistic",
+            "partOfSpeech": "adjective",
+            "also": [
+                "impossible",
+                "unreal",
+                "impractical"
+            ],
+            "similarTo": [
+                "fantastic",
+                "kafkaesque",
+                "phantasmagoric",
+                "phantasmagorical",
+                "surreal",
+                "surrealistic",
+                "chimerical",
+                "wild",
+                "delusive",
+                "false"
+            ],
+            "antonyms": [
+                "realistic"
+            ],
+            "examples": [
+                "unrealistic expectations",
+                "prices at unrealistic high levels"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "re",
+            "al",
+            "is",
+            "tic"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259nri\u0259'l\u026ast\u026ak"
+    },
+    "frequency": 3.11
+}

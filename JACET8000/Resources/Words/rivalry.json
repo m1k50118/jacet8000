@@ -1,0 +1,34 @@
+{
+    "word": "rivalry",
+    "results": [
+        {
+            "definition": "the act of competing as for profit or a prize",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "competition",
+                "contention"
+            ],
+            "typeOf": [
+                "group action"
+            ],
+            "hasTypes": [
+                "contest"
+            ],
+            "derivation": [
+                "rival"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ri",
+            "val",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ra\u026av\u0259lri"
+    },
+    "frequency": 3.05
+}

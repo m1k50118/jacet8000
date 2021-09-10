@@ -1,0 +1,47 @@
+{
+    "word": "unavailable",
+    "results": [
+        {
+            "definition": "not available or accessible or at hand",
+            "partOfSpeech": "adjective",
+            "attribute": [
+                "accessibility",
+                "availability",
+                "availableness",
+                "handiness"
+            ],
+            "similarTo": [
+                "gone",
+                "inaccessible",
+                "out of stock",
+                "unobtainable",
+                "unprocurable",
+                "untouchable"
+            ],
+            "antonyms": [
+                "available"
+            ],
+            "derivation": [
+                "unavailability"
+            ],
+            "examples": [
+                "fresh milk was unavailable during the emergency",
+                "his secretary said he was unavailable for comment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "a",
+            "vail",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259n\u0259've\u026al\u0259b\u0259l"
+    },
+    "frequency": 3.24
+}

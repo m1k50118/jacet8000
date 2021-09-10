@@ -1,0 +1,37 @@
+{
+    "word": "surprisingly",
+    "results": [
+        {
+            "definition": "in an amazing manner; to everyone's surprise",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "amazingly",
+                "astonishingly"
+            ],
+            "pertainsTo": [
+                "surprising"
+            ]
+        },
+        {
+            "definition": "in a surprising manner",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "surprising"
+            ],
+            "examples": [
+                "he was surprisingly friendly"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "sur",
+            "pris",
+            "ing",
+            "ly"
+        ]
+    },
+    "pronunciation": "s\u025dr'pra\u026az\u026a\u014bli",
+    "frequency": 3.54
+}

@@ -1,0 +1,27 @@
+{
+    "word": "bungalow",
+    "results": [
+        {
+            "definition": "a small house with a single story",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "cottage"
+            ],
+            "typeOf": [
+                "house"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "bun",
+            "ga",
+            "low"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u0259\u014b\u0261\u0259,lo\u028a"
+    },
+    "frequency": 3.51
+}

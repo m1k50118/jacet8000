@@ -1,0 +1,38 @@
+{
+    "word": "wonderful",
+    "results": [
+        {
+            "definition": "extraordinarily good or great; used especially as intensifiers",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "fantastic",
+                "grand",
+                "howling",
+                "marvellous",
+                "marvelous",
+                "rattling",
+                "terrific",
+                "tremendous",
+                "wondrous"
+            ],
+            "similarTo": [
+                "extraordinary"
+            ],
+            "derivation": [
+                "wonderfulness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "won",
+            "der",
+            "ful"
+        ]
+    },
+    "pronunciation": {
+        "all": "'w\u0259nd\u0259rf\u0259l"
+    },
+    "frequency": 5.04
+}

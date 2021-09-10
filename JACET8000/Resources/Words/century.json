@@ -1,0 +1,54 @@
+{
+    "word": "century",
+    "results": [
+        {
+            "definition": "ten 10s",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "100",
+                "c",
+                "hundred",
+                "one c"
+            ],
+            "typeOf": [
+                "large integer"
+            ]
+        },
+        {
+            "definition": "a period of 100 years",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "time period",
+                "period",
+                "period of time"
+            ],
+            "hasTypes": [
+                "quattrocento",
+                "twentieth century"
+            ],
+            "hasParts": [
+                "decade",
+                "decennary",
+                "decennium",
+                "half-century",
+                "quarter-century"
+            ],
+            "partOf": [
+                "millennium",
+                "millenary"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "cen",
+            "tu",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025bn\u02a7\u0259ri"
+    },
+    "frequency": 4.53
+}

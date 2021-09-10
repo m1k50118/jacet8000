@@ -1,0 +1,35 @@
+{
+    "word": "doctoral",
+    "results": [
+        {
+            "definition": "of or relating to a doctor or doctorate",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "doctorial"
+            ],
+            "pertainsTo": [
+                "doctor",
+                "doctorate"
+            ],
+            "derivation": [
+                "doctor",
+                "doctorate"
+            ],
+            "examples": [
+                "doctoral dissertation"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "doc",
+            "tor",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0251kt\u0259r\u0259l"
+    },
+    "frequency": 2.52
+}

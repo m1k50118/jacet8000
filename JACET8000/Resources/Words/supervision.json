@@ -1,0 +1,37 @@
+{
+    "word": "supervision",
+    "results": [
+        {
+            "definition": "management by overseeing the performance or operation of a person or group",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "oversight",
+                "superintendence",
+                "supervising"
+            ],
+            "typeOf": [
+                "direction",
+                "management"
+            ],
+            "hasTypes": [
+                "invigilation"
+            ],
+            "derivation": [
+                "supervise"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "su",
+            "per",
+            "vi",
+            "sion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",sup\u0259r'v\u026a\u0283\u0259n"
+    },
+    "frequency": 3.38
+}

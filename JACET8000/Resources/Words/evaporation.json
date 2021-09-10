@@ -1,0 +1,69 @@
+{
+    "word": "evaporation",
+    "results": [
+        {
+            "definition": "the process of extracting moisture",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dehydration",
+                "desiccation",
+                "drying up"
+            ],
+            "typeOf": [
+                "extraction"
+            ],
+            "hasTypes": [
+                "inspissation",
+                "freeze-drying",
+                "lyophilization",
+                "lyophilisation"
+            ],
+            "partOf": [
+                "plastination"
+            ],
+            "derivation": [
+                "evaporate"
+            ]
+        },
+        {
+            "definition": "the process of becoming a vapor",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "vapor",
+                "vaporisation",
+                "vaporization",
+                "vapour"
+            ],
+            "typeOf": [
+                "physical change",
+                "phase transition",
+                "phase change",
+                "state change"
+            ],
+            "hasTypes": [
+                "boiling",
+                "clouding",
+                "clouding up",
+                "smoke",
+                "smoking"
+            ],
+            "derivation": [
+                "evaporate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "e",
+            "vap",
+            "o",
+            "ra",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026a,v\u00e6p\u0259're\u026a\u0283\u0259n"
+    },
+    "frequency": 2.27
+}

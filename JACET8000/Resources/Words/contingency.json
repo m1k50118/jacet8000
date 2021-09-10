@@ -1,0 +1,47 @@
+{
+    "word": "contingency",
+    "results": [
+        {
+            "definition": "a possible event or occurrence or result",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "contingence",
+                "eventuality"
+            ],
+            "typeOf": [
+                "happening",
+                "natural event",
+                "occurrence",
+                "occurrent"
+            ],
+            "derivation": [
+                "contingent"
+            ]
+        },
+        {
+            "definition": "the state of being contingent on something",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "dependence",
+                "dependency",
+                "dependance"
+            ],
+            "derivation": [
+                "contingent"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "tin",
+            "gen",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n't\u026and\u0292\u0259nsi"
+    },
+    "frequency": 2.91
+}

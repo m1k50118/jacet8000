@@ -1,0 +1,37 @@
+{
+    "word": "beneficial",
+    "results": [
+        {
+            "definition": "promoting or enhancing well-being",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "good"
+            ],
+            "similarTo": [
+                "advantageous",
+                "favorable",
+                "favourable"
+            ],
+            "derivation": [
+                "benefit"
+            ],
+            "examples": [
+                "an arms limitation agreement beneficial to all countries",
+                "the beneficial effects of a temperate climate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ben",
+            "e",
+            "fi",
+            "cial"
+        ]
+    },
+    "pronunciation": {
+        "all": ",b\u025bn\u0259'f\u026a\u0283\u0259l"
+    },
+    "frequency": 3.17
+}

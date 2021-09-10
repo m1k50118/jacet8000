@@ -1,0 +1,47 @@
+{
+    "word": "manor",
+    "results": [
+        {
+            "definition": "the mansion of a lord or wealthy person",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "manor house"
+            ],
+            "typeOf": [
+                "residence",
+                "manse",
+                "mansion",
+                "hall",
+                "mansion house"
+            ],
+            "derivation": [
+                "manorial"
+            ]
+        },
+        {
+            "definition": "the landed estate of a lord (including the house on it)",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "acres",
+                "demesne",
+                "estate",
+                "land",
+                "landed estate"
+            ],
+            "derivation": [
+                "manorial"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "man",
+            "or"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6n\u0259r"
+    },
+    "frequency": 3.36
+}

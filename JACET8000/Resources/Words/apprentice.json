@@ -1,0 +1,49 @@
+{
+    "word": "apprentice",
+    "results": [
+        {
+            "definition": "works for an expert to learn a trade",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "learner",
+                "prentice"
+            ],
+            "typeOf": [
+                "novice",
+                "beginner",
+                "tyro",
+                "tiro",
+                "initiate"
+            ],
+            "hasTypes": [
+                "printer's devil"
+            ],
+            "derivation": [
+                "apprenticeship"
+            ]
+        },
+        {
+            "definition": "be or work as an apprentice",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "train",
+                "prepare"
+            ],
+            "examples": [
+                "She apprenticed with the great master"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ap",
+            "pren",
+            "tice"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'pr\u025bnt\u026as"
+    },
+    "frequency": 3.56
+}

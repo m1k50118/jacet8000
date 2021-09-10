@@ -1,0 +1,44 @@
+{
+    "word": "electronic",
+    "results": [
+        {
+            "definition": "of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "electronics"
+            ],
+            "derivation": [
+                "electronics"
+            ],
+            "examples": [
+                "electronic devices"
+            ]
+        },
+        {
+            "definition": "of or concerned with electrons",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "electron"
+            ],
+            "derivation": [
+                "electronics"
+            ],
+            "examples": [
+                "electronic energy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "e",
+            "lec",
+            "tron",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026al\u025bk'tr\u0251n\u026ak"
+    },
+    "frequency": 3.86
+}

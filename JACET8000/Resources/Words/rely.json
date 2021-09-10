@@ -1,0 +1,37 @@
+{
+    "word": "rely",
+    "results": [
+        {
+            "definition": "have faith or confidence in",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "bank",
+                "bet",
+                "calculate",
+                "count",
+                "depend",
+                "look",
+                "reckon",
+                "swear"
+            ],
+            "typeOf": [
+                "trust"
+            ],
+            "derivation": [
+                "reliance",
+                "reliant"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "re",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'la\u026a"
+    },
+    "frequency": 3.93
+}

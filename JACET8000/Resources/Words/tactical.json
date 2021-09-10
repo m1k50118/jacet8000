@@ -1,0 +1,32 @@
+{
+    "word": "tactical",
+    "results": [
+        {
+            "definition": "of or pertaining to tactic or tactics",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "tactic",
+                "tactics"
+            ],
+            "derivation": [
+                "tactic",
+                "tactics"
+            ],
+            "examples": [
+                "a tactical error"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "tac",
+            "ti",
+            "cal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'t\u00e6kt\u026ak\u0259l"
+    },
+    "frequency": 3.5
+}

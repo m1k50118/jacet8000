@@ -1,0 +1,50 @@
+{
+    "word": "triangular",
+    "results": [
+        {
+            "definition": "having three sides",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "three-sided",
+                "trilateral"
+            ],
+            "similarTo": [
+                "many-sided",
+                "multilateral"
+            ],
+            "derivation": [
+                "triangle",
+                "triangularity"
+            ]
+        },
+        {
+            "definition": "having three angles; forming or shaped like a triangle",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "angular",
+                "angulate"
+            ],
+            "derivation": [
+                "triangle",
+                "triangularity"
+            ],
+            "examples": [
+                "a triangular figure",
+                "a triangular pyrimid has a triangle for a base"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "tri",
+            "an",
+            "gu",
+            "lar"
+        ]
+    },
+    "pronunciation": {
+        "all": "tra\u026a'\u00e6\u014b\u0261j\u0259l\u0259r"
+    },
+    "frequency": 2.83
+}

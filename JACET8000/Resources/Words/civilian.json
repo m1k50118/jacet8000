@@ -1,0 +1,42 @@
+{
+    "word": "civilian",
+    "results": [
+        {
+            "definition": "a nonmilitary citizen",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "citizen"
+            ],
+            "antonyms": [
+                "serviceman"
+            ]
+        },
+        {
+            "definition": "associated with civil life or performed by persons who are not active members of the military",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "civil",
+                "noncombatant"
+            ],
+            "antonyms": [
+                "military"
+            ],
+            "examples": [
+                "civilian clothing",
+                "civilian life"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ci",
+            "vil",
+            "ian"
+        ]
+    },
+    "pronunciation": {
+        "all": "s\u026a'v\u026alj\u0259n"
+    },
+    "frequency": 3.83
+}

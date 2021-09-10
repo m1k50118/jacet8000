@@ -1,0 +1,28 @@
+{
+    "word": "immigrant",
+    "results": [
+        {
+            "definition": "a person who comes to a country where they were not born in order to settle there",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "migrant",
+                "migrator"
+            ],
+            "derivation": [
+                "immigrate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "im",
+            "mi",
+            "grant"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u026am\u0259gr\u0259nt"
+    },
+    "frequency": 3.35
+}

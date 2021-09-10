@@ -1,0 +1,33 @@
+{
+    "word": "trajectory",
+    "results": [
+        {
+            "definition": "the path followed by an object moving through space",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "flight"
+            ],
+            "typeOf": [
+                "mechanical phenomenon"
+            ],
+            "hasTypes": [
+                "ballistic trajectory",
+                "ballistics",
+                "gravity-assist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "tra",
+            "jec",
+            "to",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "tr\u0259'd\u0292\u025bkt\u0259ri"
+    },
+    "frequency": 3.29
+}

@@ -1,0 +1,49 @@
+{
+    "word": "jagged",
+    "results": [
+        {
+            "definition": "having an irregularly notched or toothed margin as though gnawed",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "erose",
+                "jaggy",
+                "notched",
+                "toothed"
+            ],
+            "similarTo": [
+                "rough"
+            ],
+            "derivation": [
+                "jaggedness"
+            ]
+        },
+        {
+            "definition": "having a sharply uneven surface or outline",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "jaggy",
+                "scraggy"
+            ],
+            "similarTo": [
+                "uneven"
+            ],
+            "derivation": [
+                "jaggedness"
+            ],
+            "examples": [
+                "the jagged outline of the crags"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "jag",
+            "ged"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0292\u00e6\u0261\u026ad"
+    },
+    "frequency": 2.83
+}

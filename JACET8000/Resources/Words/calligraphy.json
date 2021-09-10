@@ -1,0 +1,36 @@
+{
+    "word": "calligraphy",
+    "results": [
+        {
+            "definition": "beautiful handwriting",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "chirography",
+                "penmanship"
+            ],
+            "typeOf": [
+                "hand",
+                "handwriting",
+                "script"
+            ],
+            "derivation": [
+                "calligrapher",
+                "calligraphical",
+                "calligraphist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cal",
+            "lig",
+            "ra",
+            "phy"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259'l\u026agr\u0259fi"
+    },
+    "frequency": 3.11
+}

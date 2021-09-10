@@ -1,0 +1,37 @@
+{
+    "word": "standpoint",
+    "results": [
+        {
+            "definition": "a mental position from which things are viewed",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "point of view",
+                "stand",
+                "viewpoint"
+            ],
+            "typeOf": [
+                "stance",
+                "position",
+                "posture"
+            ],
+            "hasTypes": [
+                "landscape",
+                "slant",
+                "angle",
+                "cityscape",
+                "complexion"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "stand",
+            "point"
+        ]
+    },
+    "pronunciation": {
+        "all": "'st\u00e6nd,p\u0254\u026ant"
+    },
+    "frequency": 3.05
+}

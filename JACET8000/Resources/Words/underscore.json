@@ -1,0 +1,56 @@
+{
+    "word": "underscore",
+    "results": [
+        {
+            "definition": "a line drawn underneath (especially under written matter)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "underline"
+            ],
+            "typeOf": [
+                "stroke"
+            ]
+        },
+        {
+            "definition": "give extra weight to (a communication)",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "emphasise",
+                "emphasize",
+                "underline"
+            ],
+            "typeOf": [
+                "accentuate",
+                "emphasise",
+                "emphasize",
+                "punctuate",
+                "stress",
+                "accent"
+            ]
+        },
+        {
+            "definition": "draw a line or lines underneath to call attention to",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "underline"
+            ],
+            "typeOf": [
+                "mark"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "un",
+            "der",
+            "score"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0259nd\u0259r,sko\u028ar",
+        "noun": "'\u0259nd\u0259r,sko\u028ar",
+        "verb": ",\u0259nd\u0259r'sko\u028ar"
+    },
+    "frequency": 2.03
+}

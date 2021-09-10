@@ -1,0 +1,41 @@
+{
+    "word": "beloved",
+    "results": [
+        {
+            "definition": "a beloved person; used as terms of endearment",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dear",
+                "dearest",
+                "honey",
+                "love"
+            ],
+            "typeOf": [
+                "lover"
+            ]
+        },
+        {
+            "definition": "dearly loved",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "darling",
+                "dear"
+            ],
+            "similarTo": [
+                "loved"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "be",
+            "lov",
+            "ed"
+        ]
+    },
+    "pronunciation": {
+        "all": "b\u026a'l\u0259v\u026ad"
+    },
+    "frequency": 4.47
+}

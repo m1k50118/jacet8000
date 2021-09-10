@@ -1,0 +1,42 @@
+{
+    "word": "willingness",
+    "results": [
+        {
+            "definition": "cheerful compliance",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "temperament",
+                "disposition"
+            ],
+            "hasTypes": [
+                "forwardness",
+                "openness",
+                "readiness",
+                "receptiveness",
+                "receptivity",
+                "wholeheartedness",
+                "zeal",
+                "eagerness"
+            ],
+            "antonyms": [
+                "unwillingness"
+            ],
+            "derivation": [
+                "willing"
+            ],
+            "examples": [
+                "he expressed his willingness to help"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "will",
+            "ing",
+            "ness"
+        ]
+    },
+    "pronunciation": "'w\u026al\u026a\u014bn\u028cs",
+    "frequency": 3.05
+}

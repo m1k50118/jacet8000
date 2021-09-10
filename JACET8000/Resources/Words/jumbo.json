@@ -1,0 +1,33 @@
+{
+    "word": "jumbo",
+    "results": [
+        {
+            "definition": "of great mass; huge and bulky",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "elephantine",
+                "gargantuan",
+                "giant"
+            ],
+            "similarTo": [
+                "big",
+                "large"
+            ],
+            "examples": [
+                "a jumbo jet",
+                "jumbo shrimp"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "jum",
+            "bo"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0292\u0259mbo\u028a"
+    },
+    "frequency": 3.44
+}

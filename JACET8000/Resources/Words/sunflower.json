@@ -1,0 +1,51 @@
+{
+    "word": "sunflower",
+    "results": [
+        {
+            "definition": "any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "helianthus"
+            ],
+            "typeOf": [
+                "flower"
+            ],
+            "hasTypes": [
+                "tall sunflower",
+                "common sunflower",
+                "giant sunflower",
+                "girasol",
+                "helianthus angustifolius",
+                "helianthus annuus",
+                "helianthus giganteus",
+                "helianthus laetiflorus",
+                "helianthus maximilianii",
+                "helianthus petiolaris",
+                "helianthus tuberosus",
+                "indian potato",
+                "jerusalem artichoke",
+                "jerusalem artichoke sunflower",
+                "maximilian's sunflower",
+                "mirasol",
+                "prairie sunflower",
+                "showy sunflower",
+                "swamp sunflower"
+            ],
+            "memberOf": [
+                "genus helianthus"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "sun",
+            "flow",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u0259n,fl\u00e6\u028a\u0259r"
+    },
+    "frequency": 3.2
+}

@@ -1,0 +1,33 @@
+{
+    "word": "thankful",
+    "results": [
+        {
+            "definition": "feeling or showing gratitude",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "grateful"
+            ],
+            "similarTo": [
+                "appreciative",
+                "glad"
+            ],
+            "derivation": [
+                "thankfulness"
+            ],
+            "examples": [
+                "a thankful smile"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "thank",
+            "ful"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u03b8\u00e6\u014bkf\u0259l"
+    },
+    "frequency": 3.72
+}

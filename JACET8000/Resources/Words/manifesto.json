@@ -1,0 +1,38 @@
+{
+    "word": "manifesto",
+    "results": [
+        {
+            "definition": "a public declaration of intentions (as issued by a political party or government)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "pronunciamento"
+            ],
+            "inCategory": [
+                "governance",
+                "government",
+                "government activity",
+                "administration",
+                "governing"
+            ],
+            "typeOf": [
+                "declaration"
+            ],
+            "hasInstances": [
+                "communist manifesto"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "man",
+            "i",
+            "fes",
+            "to"
+        ]
+    },
+    "pronunciation": {
+        "all": ",m\u00e6n\u026a'f\u025bsto\u028a"
+    },
+    "frequency": 3.05
+}

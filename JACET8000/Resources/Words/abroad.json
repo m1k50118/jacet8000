@@ -1,0 +1,43 @@
+{
+    "word": "abroad",
+    "results": [
+        {
+            "definition": "far away from home or one's usual surroundings",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "afield"
+            ]
+        },
+        {
+            "definition": "in a place across an ocean",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "overseas"
+            ]
+        },
+        {
+            "definition": "in a foreign country",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "overseas"
+            ],
+            "similarTo": [
+                "foreign"
+            ],
+            "examples": [
+                "markets abroad"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "a",
+            "broad"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'br\u0254d"
+    },
+    "frequency": 4.19
+}

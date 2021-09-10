@@ -1,0 +1,41 @@
+{
+    "word": "freshly",
+    "results": [
+        {
+            "definition": "very recently",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "fresh",
+                "new",
+                "newly"
+            ],
+            "examples": [
+                "a freshly cleaned floor"
+            ]
+        },
+        {
+            "definition": "in an impudent or impertinent manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "impertinently",
+                "impudently",
+                "pertly",
+                "saucily"
+            ],
+            "pertainsTo": [
+                "fresh"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fresh",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "fr\u025b\u0283li"
+    },
+    "frequency": 3.26
+}

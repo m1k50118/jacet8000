@@ -1,0 +1,38 @@
+{
+    "word": "appropriately",
+    "results": [
+        {
+            "definition": "in accordance with what is appropriate or suitable for the circumstances",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "befittingly",
+                "duly",
+                "fitly",
+                "fittingly",
+                "properly",
+                "suitably"
+            ],
+            "antonyms": [
+                "inappropriately"
+            ],
+            "pertainsTo": [
+                "appropriate"
+            ],
+            "examples": [
+                "he was appropriately dressed"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ap",
+            "pro",
+            "pri",
+            "ate",
+            "ly"
+        ]
+    },
+    "pronunciation": "\u028c'pro\u028apri\u026atli",
+    "frequency": 2.93
+}

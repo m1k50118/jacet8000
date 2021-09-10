@@ -1,0 +1,34 @@
+{
+    "word": "successive",
+    "results": [
+        {
+            "definition": "in regular succession without gaps",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "consecutive",
+                "sequent",
+                "sequential",
+                "serial"
+            ],
+            "similarTo": [
+                "ordered"
+            ],
+            "derivation": [
+                "succeed",
+                "successiveness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "suc",
+            "ces",
+            "sive"
+        ]
+    },
+    "pronunciation": {
+        "all": "s\u0259k's\u025bs\u026av"
+    },
+    "frequency": 2.59
+}

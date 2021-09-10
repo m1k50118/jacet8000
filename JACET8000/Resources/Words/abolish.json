@@ -1,0 +1,39 @@
+{
+    "word": "abolish",
+    "results": [
+        {
+            "definition": "do away with",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "get rid of"
+            ],
+            "hasTypes": [
+                "abrogate",
+                "cashier"
+            ],
+            "antonyms": [
+                "establish"
+            ],
+            "derivation": [
+                "abolishable",
+                "abolishment",
+                "abolition"
+            ],
+            "examples": [
+                "Slavery was abolished in the mid-19th century in America and in Russia"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "a",
+            "bol",
+            "ish"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'b\u0251l\u026a\u0283"
+    },
+    "frequency": 2.92
+}

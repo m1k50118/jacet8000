@@ -1,0 +1,76 @@
+{
+    "word": "arithmetic",
+    "results": [
+        {
+            "definition": "relating to or involving arithmetic",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "arithmetical"
+            ],
+            "examples": [
+                "arithmetical computations"
+            ]
+        },
+        {
+            "definition": "the branch of pure mathematics dealing with the theory of numerical calculations",
+            "partOfSpeech": "noun",
+            "inCategory": [
+                "maths",
+                "math",
+                "mathematics"
+            ],
+            "hasCategories": [
+                "take off",
+                "square",
+                "subtract",
+                "add",
+                "add together",
+                "average",
+                "average out",
+                "contain",
+                "cube",
+                "deduct",
+                "divide",
+                "factor",
+                "factor in",
+                "factor out",
+                "foot",
+                "foot up",
+                "fraction",
+                "halve",
+                "make",
+                "miscalculate",
+                "misestimate",
+                "multiply",
+                "quarter",
+                "raise",
+                "recalculate"
+            ],
+            "typeOf": [
+                "pure mathematics"
+            ],
+            "hasTypes": [
+                "algorism"
+            ],
+            "derivation": [
+                "arithmetical",
+                "arithmetician"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "a",
+            "rith",
+            "me",
+            "tic"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'r\u026a\u03b8m\u0259,t\u026ak",
+        "adjective": ",\u00e6r\u026a\u03b8'm\u025bt\u026ak",
+        "noun": "\u0259'r\u026a\u03b8m\u0259t\u026ak"
+    },
+    "frequency": 2.98
+}

@@ -1,0 +1,30 @@
+{
+    "word": "vegetarian",
+    "results": [
+        {
+            "definition": "eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "eater",
+                "feeder"
+            ],
+            "hasTypes": [
+                "vegan"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "veg",
+            "e",
+            "tar",
+            "i",
+            "an"
+        ]
+    },
+    "pronunciation": {
+        "all": ",v\u025bd\u0292\u026a't\u025cri\u0259n"
+    },
+    "frequency": 3.85
+}

@@ -1,0 +1,41 @@
+{
+    "word": "casually",
+    "results": [
+        {
+            "definition": "in an unconcerned manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "nonchalantly"
+            ],
+            "pertainsTo": [
+                "casual"
+            ],
+            "examples": [
+                "glanced casually at the headlines"
+            ]
+        },
+        {
+            "definition": "not methodically or according to plan",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "casual"
+            ],
+            "examples": [
+                "he dealt with his course work casually"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cas",
+            "u",
+            "al",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u00e6\u0292u\u0259lli"
+    },
+    "frequency": 3.27
+}

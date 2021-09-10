@@ -1,0 +1,35 @@
+{
+    "word": "practitioner",
+    "results": [
+        {
+            "definition": "someone who practices a learned profession",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "practician"
+            ],
+            "typeOf": [
+                "professional",
+                "professional person"
+            ],
+            "hasTypes": [
+                "clinician",
+                "gongorist",
+                "homeopath",
+                "homoeopath"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "prac",
+            "ti",
+            "tion",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "pr\u00e6k't\u026a\u0283\u0259n\u0259r"
+    },
+    "frequency": 2.79
+}

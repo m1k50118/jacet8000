@@ -1,0 +1,51 @@
+{
+    "word": "maximize",
+    "results": [
+        {
+            "definition": "make as big or large as possible",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "maximise"
+            ],
+            "typeOf": [
+                "increase"
+            ],
+            "antonyms": [
+                "minimize"
+            ],
+            "derivation": [
+                "maximization",
+                "maximum"
+            ]
+        },
+        {
+            "definition": "make the most of",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "maximise"
+            ],
+            "typeOf": [
+                "exploit",
+                "tap"
+            ],
+            "derivation": [
+                "maximum"
+            ],
+            "examples": [
+                "He maximized his role"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "max",
+            "i",
+            "mize"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6ks\u0259,ma\u026az"
+    },
+    "frequency": 2.77
+}

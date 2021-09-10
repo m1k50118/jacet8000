@@ -1,0 +1,28 @@
+{
+    "word": "duchess",
+    "results": [
+        {
+            "definition": "the wife of a duke or a woman holding ducal title in her own right",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "lady",
+                "noblewoman",
+                "peeress"
+            ],
+            "hasTypes": [
+                "grand duchess"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "duch",
+            "ess"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0259\u02a7\u026as"
+    },
+    "frequency": 3.38
+}

@@ -1,0 +1,26 @@
+{
+    "word": "dairy",
+    "results": [
+        {
+            "definition": "a farm where dairy products are produced",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dairy farm"
+            ],
+            "typeOf": [
+                "farm"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "dair",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u025cri"
+    },
+    "frequency": 3.39
+}

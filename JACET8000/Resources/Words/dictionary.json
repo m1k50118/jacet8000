@@ -1,0 +1,47 @@
+{
+    "word": "dictionary",
+    "results": [
+        {
+            "definition": "a reference book containing an alphabetical list of words with information about them",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "lexicon"
+            ],
+            "typeOf": [
+                "wordbook"
+            ],
+            "hasTypes": [
+                "collegiate dictionary",
+                "desk dictionary",
+                "etymological dictionary",
+                "gazetteer",
+                "learner's dictionary",
+                "little dictionary",
+                "unabridged",
+                "unabridged dictionary",
+                "bilingual dictionary",
+                "pocket dictionary",
+                "school dictionary",
+                "spell-checker",
+                "spelling checker"
+            ],
+            "hasParts": [
+                "lexical entry",
+                "dictionary entry"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dic",
+            "tion",
+            "ar",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u026ak\u0283\u0259,n\u025bri"
+    },
+    "frequency": 3.62
+}

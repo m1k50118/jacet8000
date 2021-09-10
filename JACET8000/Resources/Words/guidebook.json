@@ -1,0 +1,34 @@
+{
+    "word": "guidebook",
+    "results": [
+        {
+            "definition": "something that offers basic information or instruction",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "guide"
+            ],
+            "typeOf": [
+                "handbook",
+                "enchiridion",
+                "vade mecum"
+            ],
+            "hasTypes": [
+                "travel guidebook",
+                "itinerary",
+                "field guide",
+                "roadbook"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "guide",
+            "book"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0261a\u026ad,b\u028ak"
+    },
+    "frequency": 2.78
+}

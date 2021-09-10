@@ -1,0 +1,40 @@
+{
+    "word": "archbishop",
+    "results": [
+        {
+            "definition": "a bishop of highest rank",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "bishop"
+            ],
+            "hasTypes": [
+                "metropolitan"
+            ],
+            "hasInstances": [
+                "saint anselm",
+                "saint thomas a becket",
+                "st. anselm",
+                "st. thomas a becket",
+                "anselm",
+                "thomas a becket",
+                "becket"
+            ],
+            "derivation": [
+                "archepiscopal",
+                "archiepiscopal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "arch",
+            "bish",
+            "op"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0251r\u02a7'b\u026a\u0283\u0259p"
+    },
+    "frequency": 3.22
+}

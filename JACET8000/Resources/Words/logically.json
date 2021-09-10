@@ -1,0 +1,39 @@
+{
+    "word": "logically",
+    "results": [
+        {
+            "definition": "in a logical manner",
+            "partOfSpeech": null,
+            "antonyms": [
+                "illogically"
+            ],
+            "pertainsTo": [
+                "logical"
+            ],
+            "examples": [
+                "he acted logically under the circumstances"
+            ]
+        },
+        {
+            "definition": "according to logical reasoning",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "logical"
+            ],
+            "examples": [
+                "logically, you should now do the same to him"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "log",
+            "i",
+            "cal",
+            "ly"
+        ]
+    },
+    "pronunciation": "'l\u0251d\u0292\u026akli",
+    "frequency": 3.08
+}

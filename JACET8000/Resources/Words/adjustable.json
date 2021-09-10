@@ -1,0 +1,43 @@
+{
+    "word": "adjustable",
+    "results": [
+        {
+            "definition": "capable of being changed so as to match or fit",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "adaptable"
+            ],
+            "derivation": [
+                "adjust"
+            ],
+            "examples": [
+                "adjustable seat belts"
+            ]
+        },
+        {
+            "definition": "capable of being regulated",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "changeable",
+                "changeful"
+            ],
+            "derivation": [
+                "adjust"
+            ],
+            "examples": [
+                "adjustable interest rates"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ad",
+            "just",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": "\u028c'd\u0292\u028cst\u028cb\u028cl",
+    "frequency": 2.66
+}

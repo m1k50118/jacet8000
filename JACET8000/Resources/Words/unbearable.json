@@ -1,0 +1,40 @@
+{
+    "word": "unbearable",
+    "results": [
+        {
+            "definition": "incapable of being tolerated or endured",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "intolerable",
+                "unendurable"
+            ],
+            "also": [
+                "impermissible"
+            ],
+            "similarTo": [
+                "impossible",
+                "insufferable",
+                "unacceptable",
+                "unsufferable",
+                "bitter",
+                "unsupportable"
+            ],
+            "derivation": [
+                "unbearably"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "un",
+            "bear",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n'b\u025cr\u0259b\u0259l"
+    },
+    "frequency": 3.79
+}

@@ -1,0 +1,28 @@
+{
+    "word": "landlord",
+    "results": [
+        {
+            "definition": "a landowner who leases to others",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "landholder",
+                "landowner",
+                "property owner"
+            ],
+            "hasTypes": [
+                "landlady"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "land",
+            "lord"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u00e6nd,l\u0254rd"
+    },
+    "frequency": 3.79
+}

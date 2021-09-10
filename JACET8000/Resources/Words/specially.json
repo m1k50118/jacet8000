@@ -1,0 +1,43 @@
+{
+    "word": "specially",
+    "results": [
+        {
+            "definition": "to a distinctly greater extent or degree than is common",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "especially",
+                "particularly",
+                "peculiarly"
+            ],
+            "pertainsTo": [
+                "special"
+            ],
+            "examples": [
+                "an especially (or specially) cautious approach to the danger"
+            ]
+        },
+        {
+            "definition": "in a special manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "especially"
+            ],
+            "pertainsTo": [
+                "special"
+            ],
+            "examples": [
+                "a specially arranged dinner"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "spe",
+            "cial",
+            "ly"
+        ]
+    },
+    "pronunciation": "'sp\u025b\u0283\u028cli",
+    "frequency": 3.83
+}

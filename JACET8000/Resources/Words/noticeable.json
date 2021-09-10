@@ -1,0 +1,69 @@
+{
+    "word": "noticeable",
+    "results": [
+        {
+            "definition": "capable of being detected",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "detectable"
+            ],
+            "similarTo": [
+                "perceptible"
+            ],
+            "derivation": [
+                "notice",
+                "noticeability",
+                "noticeableness"
+            ],
+            "examples": [
+                "after a noticeable pause the lecturer continued"
+            ]
+        },
+        {
+            "definition": "capable or worthy of being noticed",
+            "partOfSpeech": "adjective",
+            "attribute": [
+                "patency",
+                "noticeableness",
+                "obviousness",
+                "noticeability"
+            ],
+            "similarTo": [
+                "marked",
+                "observable",
+                "obtrusive",
+                "perceptible",
+                "pronounced",
+                "broad",
+                "detectable",
+                "discernible",
+                "evident"
+            ],
+            "antonyms": [
+                "unnoticeable"
+            ],
+            "derivation": [
+                "notice",
+                "noticeableness"
+            ],
+            "examples": [
+                "noticeable shadows under her eyes",
+                "noticeable for its vivid historical background",
+                "a noticeable lack of friendliness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "no",
+            "tice",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'no\u028at\u026as\u0259b\u0259l"
+    },
+    "frequency": 2.94
+}

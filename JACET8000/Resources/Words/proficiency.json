@@ -1,0 +1,49 @@
+{
+    "word": "proficiency",
+    "results": [
+        {
+            "definition": "skillfulness in the command of fundamentals deriving from practice and familiarity",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "technique"
+            ],
+            "typeOf": [
+                "skillfulness"
+            ],
+            "hasTypes": [
+                "brushwork",
+                "musketry"
+            ],
+            "derivation": [
+                "proficient"
+            ],
+            "examples": [
+                "practice greatly improves proficiency"
+            ]
+        },
+        {
+            "definition": "the quality of having great facility and competence",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "competence",
+                "competency"
+            ],
+            "derivation": [
+                "proficient"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "pro",
+            "fi",
+            "cien",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "pr\u0259'f\u026a\u0283\u0259nsi"
+    },
+    "frequency": 2.36
+}

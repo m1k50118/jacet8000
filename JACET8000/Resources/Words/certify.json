@@ -1,0 +1,121 @@
+{
+    "word": "certify",
+    "results": [
+        {
+            "definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "attest",
+                "demonstrate",
+                "evidence",
+                "manifest"
+            ],
+            "typeOf": [
+                "testify",
+                "bear witness",
+                "evidence",
+                "prove",
+                "show"
+            ],
+            "hasTypes": [
+                "authenticate",
+                "notarize",
+                "condemn",
+                "notarise",
+                "reflect"
+            ],
+            "verbGroup": [
+                "attest"
+            ],
+            "derivation": [
+                "certification"
+            ]
+        },
+        {
+            "definition": "guarantee as meeting a certain standard",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "endorse",
+                "indorse"
+            ],
+            "typeOf": [
+                "warrant",
+                "guarantee"
+            ],
+            "derivation": [
+                "certifiable",
+                "certificate",
+                "certification"
+            ]
+        },
+        {
+            "definition": "authorize officially",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "licence",
+                "license"
+            ],
+            "entails": [
+                "approve",
+                "o.k.",
+                "okay",
+                "sanction"
+            ],
+            "typeOf": [
+                "authorize",
+                "authorise",
+                "clear",
+                "pass"
+            ],
+            "hasTypes": [
+                "charter",
+                "recognize",
+                "accredit",
+                "franchise",
+                "recognise"
+            ],
+            "antonyms": [
+                "decertify"
+            ],
+            "derivation": [
+                "certificatory",
+                "certification"
+            ]
+        },
+        {
+            "definition": "declare legally insane",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "hold",
+                "adjudge",
+                "declare"
+            ],
+            "derivation": [
+                "certifiable"
+            ]
+        },
+        {
+            "definition": "guarantee payment on; of checks",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "secure"
+            ],
+            "derivation": [
+                "certificate",
+                "certification"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "cer",
+            "ti",
+            "fy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025crt\u0259,fa\u026a"
+    },
+    "frequency": 2.9
+}

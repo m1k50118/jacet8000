@@ -1,0 +1,32 @@
+{
+    "word": "firefighter",
+    "results": [
+        {
+            "definition": "a member of a fire department who tries to extinguish fires",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "fire-eater",
+                "fire fighter",
+                "fireman"
+            ],
+            "typeOf": [
+                "defender",
+                "guardian",
+                "protector",
+                "shielder"
+            ],
+            "hasTypes": [
+                "fire warden",
+                "forest fire fighter",
+                "ranger",
+                "fire chief",
+                "fire marshal"
+            ],
+            "memberOf": [
+                "fire department"
+            ]
+        }
+    ],
+    "pronunciation": "'fa\u026ar,fa\u026at\u025dr",
+    "frequency": 3.11
+}

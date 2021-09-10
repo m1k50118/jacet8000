@@ -1,0 +1,35 @@
+{
+    "word": "handkerchief",
+    "results": [
+        {
+            "definition": "a square piece of cloth used for wiping the eyes or nose or as a costume accessory",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "hankey",
+                "hankie",
+                "hanky"
+            ],
+            "typeOf": [
+                "piece of cloth",
+                "piece of material"
+            ],
+            "hasTypes": [
+                "bandana",
+                "bandanna",
+                "pocket-handkerchief"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "hand",
+            "ker",
+            "chief"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u00e6\u014bk\u0259r\u02a7\u026af"
+    },
+    "frequency": 3.59
+}

@@ -1,0 +1,27 @@
+{
+    "word": "thriller",
+    "results": [
+        {
+            "definition": "a suspenseful adventure story or play or movie",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "adventure story",
+                "heroic tale"
+            ],
+            "derivation": [
+                "thrill"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "thrill",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u03b8r\u026al\u0259r"
+    },
+    "frequency": 3.19
+}

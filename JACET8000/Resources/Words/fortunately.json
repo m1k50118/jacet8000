@@ -1,0 +1,36 @@
+{
+    "word": "fortunately",
+    "results": [
+        {
+            "definition": "by good fortune",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "as luck would have it",
+                "fortuitously",
+                "luckily"
+            ],
+            "antonyms": [
+                "unfortunately"
+            ],
+            "pertainsTo": [
+                "fortunate"
+            ],
+            "examples": [
+                "fortunately the weather was good"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "for",
+            "tu",
+            "nate",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u0254r\u02a7\u0259n\u026atli"
+    },
+    "frequency": 3.95
+}

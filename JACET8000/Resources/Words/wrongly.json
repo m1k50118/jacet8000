@@ -1,0 +1,40 @@
+{
+    "word": "wrongly",
+    "results": [
+        {
+            "definition": "in an inaccurate manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "incorrectly",
+                "wrong"
+            ],
+            "antonyms": [
+                "right"
+            ],
+            "pertainsTo": [
+                "wrong"
+            ]
+        },
+        {
+            "definition": "without justice or fairness",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "wrong"
+            ],
+            "examples": [
+                "wouldst not play false and yet would wrongly win"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "wrong",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u0254\u014bli"
+    },
+    "frequency": 3.2
+}

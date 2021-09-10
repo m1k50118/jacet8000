@@ -1,0 +1,49 @@
+{
+    "word": "abortion",
+    "results": [
+        {
+            "definition": "failure of a plan",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "miscarriage"
+            ],
+            "typeOf": [
+                "failure"
+            ],
+            "derivation": [
+                "abort"
+            ]
+        },
+        {
+            "definition": "termination of pregnancy",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "ending",
+                "conclusion",
+                "termination"
+            ],
+            "hasTypes": [
+                "miscarriage",
+                "spontaneous abortion",
+                "stillbirth",
+                "induced abortion"
+            ],
+            "derivation": [
+                "abort",
+                "abortionist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "a",
+            "bor",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'b\u0254r\u0283\u0259n"
+    },
+    "frequency": 3.98
+}

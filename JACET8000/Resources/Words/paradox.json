@@ -1,0 +1,34 @@
+{
+    "word": "paradox",
+    "results": [
+        {
+            "definition": "(logic) a statement that contradicts itself",
+            "partOfSpeech": "noun",
+            "inCategory": [
+                "logic"
+            ],
+            "typeOf": [
+                "contradiction",
+                "contradiction in terms"
+            ],
+            "derivation": [
+                "paradoxical"
+            ],
+            "examples": [
+                "`I always lie' is a paradox because if it is true it must be false"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "par",
+            "a",
+            "dox"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u00e6r\u0259,d\u0251ks"
+    },
+    "frequency": 3.26
+}

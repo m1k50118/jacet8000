@@ -1,0 +1,31 @@
+{
+    "word": "ulcerative",
+    "results": [
+        {
+            "definition": "of or relating to or characterized by ulceration",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "ulceration"
+            ],
+            "derivation": [
+                "ulcerate"
+            ],
+            "examples": [
+                "ulcerative colitis"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ul",
+            "cer",
+            "a",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0259ls\u0259,re\u026at\u026av"
+    },
+    "frequency": 1.6
+}

@@ -1,0 +1,45 @@
+{
+    "word": "counterpart",
+    "results": [
+        {
+            "definition": "a duplicate copy",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "similitude",
+                "twin"
+            ],
+            "typeOf": [
+                "duplicate",
+                "duplication"
+            ]
+        },
+        {
+            "definition": "a person or thing having the same function or characteristics as another",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "opposite number",
+                "vis-a-vis"
+            ],
+            "typeOf": [
+                "equivalent"
+            ],
+            "hasTypes": [
+                "complement",
+                "match",
+                "mismatch"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "coun",
+            "ter",
+            "part"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ka\u028ant\u0259r,p\u0251rt"
+    },
+    "frequency": 2.83
+}

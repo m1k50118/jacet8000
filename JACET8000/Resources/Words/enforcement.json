@@ -1,0 +1,36 @@
+{
+    "word": "enforcement",
+    "results": [
+        {
+            "definition": "the act of enforcing; ensuring observance of or obedience to",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "social control"
+            ],
+            "hasTypes": [
+                "coercion",
+                "execution",
+                "implementation",
+                "carrying out",
+                "infliction",
+                "law enforcement",
+                "imposition"
+            ],
+            "derivation": [
+                "enforce"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "en",
+            "force",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bn'fo\u028arsm\u0259nt"
+    },
+    "frequency": 3.68
+}

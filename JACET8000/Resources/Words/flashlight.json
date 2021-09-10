@@ -1,0 +1,32 @@
+{
+    "word": "flashlight",
+    "results": [
+        {
+            "definition": "a small portable battery-powered electric lamp",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "torch"
+            ],
+            "typeOf": [
+                "electric lamp"
+            ],
+            "hasTypes": [
+                "penlight"
+            ],
+            "hasParts": [
+                "flashlight battery"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "flash",
+            "light"
+        ]
+    },
+    "pronunciation": {
+        "all": "'fl\u00e6\u0283,la\u026at"
+    },
+    "frequency": 3.67
+}

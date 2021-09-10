@@ -1,0 +1,46 @@
+{
+    "word": "disclosure",
+    "results": [
+        {
+            "definition": "the speech act of making something evident",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "revealing",
+                "revelation"
+            ],
+            "typeOf": [
+                "speech act"
+            ],
+            "hasTypes": [
+                "discovery",
+                "display",
+                "divulgement",
+                "divulgence",
+                "exposure",
+                "giveaway",
+                "informing",
+                "leak",
+                "news leak",
+                "ratting",
+                "singing",
+                "tattle",
+                "telling"
+            ],
+            "derivation": [
+                "disclose"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "dis",
+            "clo",
+            "sure"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a'sklo\u028a\u0292\u0259r"
+    },
+    "frequency": 2.96
+}

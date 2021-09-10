@@ -1,0 +1,35 @@
+{
+    "word": "spelling",
+    "results": [
+        {
+            "definition": "forming words with letters according to the principles underlying accepted usage",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "orthography",
+                "writing system"
+            ],
+            "hasTypes": [
+                "misspelling"
+            ],
+            "hasParts": [
+                "alphabetic character",
+                "letter",
+                "letter of the alphabet"
+            ],
+            "derivation": [
+                "spell"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "spell",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "'sp\u025bli\u014b"
+    },
+    "frequency": 3.61
+}

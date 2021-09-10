@@ -1,0 +1,30 @@
+{
+    "word": "gastric",
+    "results": [
+        {
+            "definition": "relating to or involving the stomach",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "stomachal",
+                "stomachic"
+            ],
+            "pertainsTo": [
+                "stomach"
+            ],
+            "examples": [
+                "gastric ulcer"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "gas",
+            "tric"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0261\u00e6str\u026ak"
+    },
+    "frequency": 2.74
+}

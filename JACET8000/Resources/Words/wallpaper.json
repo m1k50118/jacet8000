@@ -1,0 +1,37 @@
+{
+    "word": "wallpaper",
+    "results": [
+        {
+            "definition": "cover with wallpaper",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "paper"
+            ],
+            "typeOf": [
+                "cover"
+            ],
+            "derivation": [
+                "wallpaperer"
+            ]
+        },
+        {
+            "definition": "a decorative paper for the walls of rooms",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "paper"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "wall",
+            "pa",
+            "per"
+        ]
+    },
+    "pronunciation": {
+        "all": "'w\u0251l,pe\u026ap\u0259r"
+    },
+    "frequency": 3.33
+}

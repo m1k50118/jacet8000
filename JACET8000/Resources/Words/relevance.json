@@ -1,0 +1,43 @@
+{
+    "word": "relevance",
+    "results": [
+        {
+            "definition": "the relation of something to the matter at hand",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "relevancy"
+            ],
+            "typeOf": [
+                "connection",
+                "connexion",
+                "connectedness"
+            ],
+            "hasTypes": [
+                "pertinence",
+                "pertinency",
+                "applicability",
+                "point",
+                "cogency",
+                "materiality"
+            ],
+            "antonyms": [
+                "irrelevance"
+            ],
+            "derivation": [
+                "relevant"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "rel",
+            "e",
+            "vance"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025bl\u0259v\u0259ns"
+    },
+    "frequency": 3.15
+}

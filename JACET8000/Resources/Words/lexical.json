@@ -1,0 +1,40 @@
+{
+    "word": "lexical",
+    "results": [
+        {
+            "definition": "of or relating to words",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "word"
+            ],
+            "derivation": [
+                "lexicon",
+                "lexis"
+            ],
+            "examples": [
+                "lexical decision task"
+            ]
+        },
+        {
+            "definition": "of or relating to dictionaries",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "lexicon"
+            ],
+            "derivation": [
+                "lexicon"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "lex",
+            "i",
+            "cal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u025bks\u026ak\u0259l"
+    }
+}

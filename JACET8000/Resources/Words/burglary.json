@@ -1,0 +1,34 @@
+{
+    "word": "burglary",
+    "results": [
+        {
+            "definition": "entering a building unlawfully with intent to commit a felony or to steal valuable property",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "felony"
+            ],
+            "hasTypes": [
+                "break-in",
+                "breaking and entering",
+                "housebreaking"
+            ],
+            "derivation": [
+                "burglarious",
+                "burglarize",
+                "burgle"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "bur",
+            "gla",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u025crgl\u0259ri"
+    },
+    "frequency": 3.33
+}

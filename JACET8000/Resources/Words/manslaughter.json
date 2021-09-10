@@ -1,0 +1,27 @@
+{
+    "word": "manslaughter",
+    "results": [
+        {
+            "definition": "homicide without malice aforethought",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "homicide"
+            ],
+            "hasTypes": [
+                "chance-medley"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "man",
+            "slaugh",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6n,sl\u0254t\u0259r"
+    },
+    "frequency": 3.28
+}

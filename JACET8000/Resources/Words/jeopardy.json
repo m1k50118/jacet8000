@@ -1,0 +1,40 @@
+{
+    "word": "jeopardy",
+    "results": [
+        {
+            "definition": "a source of danger; a possibility of incurring loss or misfortune",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "endangerment",
+                "hazard",
+                "peril",
+                "risk"
+            ],
+            "typeOf": [
+                "danger"
+            ],
+            "hasTypes": [
+                "health hazard",
+                "moral hazard",
+                "occupational hazard",
+                "sword of damocles"
+            ],
+            "derivation": [
+                "jeopardise",
+                "jeopardize"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "jeop",
+            "ard",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0292\u025bp\u0259rdi"
+    },
+    "frequency": 3.34
+}

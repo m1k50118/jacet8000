@@ -1,0 +1,39 @@
+{
+    "word": "aquarium",
+    "results": [
+        {
+            "definition": "a tank or pool or bowl filled with water for keeping live fish and underwater animals",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "fish tank",
+                "marine museum"
+            ],
+            "typeOf": [
+                "vivarium",
+                "storage tank",
+                "tank"
+            ],
+            "hasTypes": [
+                "fishbowl",
+                "goldfish bowl",
+                "fish bowl"
+            ],
+            "hasInstances": [
+                "marineland"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "a",
+            "quar",
+            "i",
+            "um"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'kw\u025cri\u0259m"
+    },
+    "frequency": 3.41
+}

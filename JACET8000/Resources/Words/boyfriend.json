@@ -1,0 +1,34 @@
+{
+    "word": "boyfriend",
+    "results": [
+        {
+            "definition": "a man who is the lover of a man or woman",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "beau",
+                "fellow",
+                "swain"
+            ],
+            "typeOf": [
+                "adult male",
+                "lover",
+                "man"
+            ],
+            "examples": [
+                "if I'd known he was her boyfriend I wouldn't have asked",
+                "When the law changed, Pet could finally married his long-time boyfriend Jim"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "boy",
+            "friend"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u0254\u026a,fr\u025bnd"
+    },
+    "frequency": 4.95
+}

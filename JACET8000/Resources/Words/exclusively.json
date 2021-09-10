@@ -1,0 +1,34 @@
+{
+    "word": "exclusively",
+    "results": [
+        {
+            "definition": "without any others being included or involved",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "alone",
+                "entirely",
+                "only",
+                "solely"
+            ],
+            "pertainsTo": [
+                "exclusive"
+            ],
+            "examples": [
+                "he works for Mr. Smith exclusively"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ex",
+            "clu",
+            "sive",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026ak'sklus\u026avli"
+    },
+    "frequency": 3.38
+}

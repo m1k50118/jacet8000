@@ -1,0 +1,29 @@
+{
+    "word": "corridor",
+    "results": [
+        {
+            "definition": "an enclosed passageway; rooms usually open onto it",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "passageway"
+            ],
+            "hasTypes": [
+                "gallery",
+                "hall",
+                "hallway"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "cor",
+            "ri",
+            "dor"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0254r\u026ad\u0259r"
+    },
+    "frequency": 3.87
+}

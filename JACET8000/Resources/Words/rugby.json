@@ -1,0 +1,50 @@
+{
+    "word": "rugby",
+    "results": [
+        {
+            "definition": "a form of football played with an oval ball",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "rugby football",
+                "rugger"
+            ],
+            "hasCategories": [
+                "hook",
+                "goal-kick",
+                "hooker",
+                "knock on",
+                "scrum",
+                "scrummage",
+                "throw-in",
+                "winger",
+                "hack"
+            ],
+            "inRegion": [
+                "united kingdom",
+                "u.k.",
+                "uk",
+                "united kingdom of great britain and northern ireland",
+                "britain",
+                "great britain"
+            ],
+            "typeOf": [
+                "football",
+                "football game"
+            ],
+            "hasParts": [
+                "knock on"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "rug",
+            "by"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u0259gbi"
+    },
+    "frequency": 3.47
+}

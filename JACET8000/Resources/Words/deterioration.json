@@ -1,0 +1,64 @@
+{
+    "word": "deterioration",
+    "results": [
+        {
+            "definition": "process of changing to an inferior state",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "declension",
+                "decline in quality",
+                "worsening"
+            ],
+            "typeOf": [
+                "diminution",
+                "decline"
+            ],
+            "hasTypes": [
+                "falloff",
+                "slack",
+                "slump",
+                "falling off",
+                "drop-off"
+            ],
+            "derivation": [
+                "deteriorate"
+            ]
+        },
+        {
+            "definition": "a symptom of reduced quality or strength",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "impairment"
+            ],
+            "typeOf": [
+                "decay"
+            ],
+            "hasTypes": [
+                "corrosion",
+                "decrepitude",
+                "desolation",
+                "devastation",
+                "dilapidation",
+                "wear"
+            ],
+            "derivation": [
+                "deteriorate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 6,
+        "list": [
+            "de",
+            "te",
+            "ri",
+            "o",
+            "ra",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a,tiri\u0259're\u026a\u0283\u0259n"
+    },
+    "frequency": 2.81
+}

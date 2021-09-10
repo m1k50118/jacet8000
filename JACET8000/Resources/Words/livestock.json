@@ -1,0 +1,33 @@
+{
+    "word": "livestock",
+    "results": [
+        {
+            "definition": "any animals kept for use or profit",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "farm animal",
+                "stock"
+            ],
+            "hasCategories": [
+                "carry"
+            ],
+            "typeOf": [
+                "eutherian",
+                "eutherian mammal",
+                "placental",
+                "placental mammal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "live",
+            "stock"
+        ]
+    },
+    "pronunciation": {
+        "all": "'la\u026av,st\u0251k"
+    },
+    "frequency": 3.22
+}

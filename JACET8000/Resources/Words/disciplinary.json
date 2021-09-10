@@ -1,0 +1,63 @@
+{
+    "word": "disciplinary",
+    "results": [
+        {
+            "definition": "designed to promote discipline",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "corrective",
+                "disciplinal"
+            ],
+            "similarTo": [
+                "nonindulgent",
+                "strict"
+            ],
+            "derivation": [
+                "discipline"
+            ],
+            "examples": [
+                "the mother was stern and disciplinary"
+            ]
+        },
+        {
+            "definition": "relating to discipline in behavior",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "discipline"
+            ],
+            "derivation": [
+                "discipline"
+            ],
+            "examples": [
+                "disciplinary problems in the classroom"
+            ]
+        },
+        {
+            "definition": "relating to a specific field of academic study",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "discipline"
+            ],
+            "derivation": [
+                "discipline"
+            ],
+            "examples": [
+                "economics in its modern disciplinary sense"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "dis",
+            "ci",
+            "pli",
+            "nar",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u026as\u0259pl\u0259,n\u025bri"
+    },
+    "frequency": 3.24
+}

@@ -1,0 +1,50 @@
+{
+    "word": "contentious",
+    "results": [
+        {
+            "definition": "inclined or showing an inclination to dispute or disagree, even to engage in law suits",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "combative",
+                "disputatious",
+                "disputative",
+                "litigious"
+            ],
+            "similarTo": [
+                "argumentative"
+            ],
+            "derivation": [
+                "contention",
+                "contentiousness"
+            ],
+            "examples": [
+                "a style described as abrasive and contentious"
+            ]
+        },
+        {
+            "definition": "involving or likely to cause controversy",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "controversial"
+            ],
+            "derivation": [
+                "contention"
+            ],
+            "examples": [
+                "a central and contentious element of the book"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "con",
+            "ten",
+            "tious"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n't\u025bn\u0283\u0259s"
+    },
+    "frequency": 2.5
+}

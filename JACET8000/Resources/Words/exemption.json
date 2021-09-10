@@ -1,0 +1,70 @@
+{
+    "word": "exemption",
+    "results": [
+        {
+            "definition": "immunity from an obligation or duty",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "freedom"
+            ],
+            "typeOf": [
+                "unsusceptibility",
+                "immunity"
+            ],
+            "hasTypes": [
+                "grandfather clause",
+                "diplomatic immunity",
+                "indemnity",
+                "amnesty",
+                "impunity"
+            ],
+            "derivation": [
+                "exempt"
+            ]
+        },
+        {
+            "definition": "an act exempting someone",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "granting immunity",
+                "immunity"
+            ],
+            "typeOf": [
+                "release",
+                "waiver",
+                "discharge"
+            ],
+            "hasTypes": [
+                "official immunity",
+                "fix",
+                "sovereign immunity",
+                "testimonial immunity",
+                "use immunity"
+            ]
+        },
+        {
+            "definition": "a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.)",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "tax deduction",
+                "deduction",
+                "tax write-off"
+            ],
+            "examples": [
+                "additional exemptions are allowed for each dependent"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ex",
+            "emp",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026a\u0261'z\u025bmp\u0283\u0259n"
+    },
+    "frequency": 2.88
+}

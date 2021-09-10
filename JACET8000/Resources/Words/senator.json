@@ -1,0 +1,42 @@
+{
+    "word": "senator",
+    "results": [
+        {
+            "definition": "a member of a senate",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "legislator"
+            ],
+            "hasTypes": [
+                "state senator"
+            ],
+            "hasInstances": [
+                "glenn",
+                "hilary clinton",
+                "hilary rodham clinton",
+                "james william fulbright",
+                "john glenn",
+                "john herschel glenn jr.",
+                "clinton",
+                "william fulbright",
+                "fulbright"
+            ],
+            "derivation": [
+                "senatorial",
+                "senatorship"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "sen",
+            "a",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025bn\u0259t\u0259r"
+    },
+    "frequency": 4.2
+}

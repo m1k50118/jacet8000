@@ -1,0 +1,44 @@
+{
+    "word": "chimpanzee",
+    "results": [
+        {
+            "definition": "intelligent somewhat arboreal ape of equatorial African forests",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "chimp",
+                "pan troglodytes"
+            ],
+            "typeOf": [
+                "pongid",
+                "great ape"
+            ],
+            "hasTypes": [
+                "eastern chimpanzee",
+                "western chimpanzee",
+                "central chimpanzee",
+                "pygmy chimpanzee",
+                "bonobo",
+                "pan paniscus",
+                "pan troglodytes schweinfurthii",
+                "pan troglodytes troglodytes",
+                "pan troglodytes verus"
+            ],
+            "memberOf": [
+                "pan",
+                "genus pan"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "chim",
+            "pan",
+            "zee"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u02a7\u026amp\u00e6n'zi"
+    },
+    "frequency": 3.07
+}

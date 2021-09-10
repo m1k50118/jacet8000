@@ -1,0 +1,26 @@
+{
+    "word": "thursday",
+    "results": [
+        {
+            "definition": "the fifth day of the week; the fourth working day",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "th"
+            ],
+            "typeOf": [
+                "weekday"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "thurs",
+            "day"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u03b8\u025crzdi"
+    },
+    "frequency": 4.32
+}

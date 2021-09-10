@@ -1,0 +1,28 @@
+{
+    "word": "bookshop",
+    "results": [
+        {
+            "definition": "a shop where books are sold",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bookstall",
+                "bookstore"
+            ],
+            "typeOf": [
+                "shop",
+                "store"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "book",
+            "shop"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u028ak,\u0283\u0251p"
+    },
+    "frequency": 3.08
+}

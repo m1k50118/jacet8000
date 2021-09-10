@@ -1,0 +1,47 @@
+{
+    "word": "republic",
+    "results": [
+        {
+            "definition": "a political system in which the supreme power lies in a body of citizens who can elect people to represent them",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "commonwealth",
+                "democracy"
+            ],
+            "typeOf": [
+                "political system",
+                "form of government"
+            ],
+            "hasTypes": [
+                "parliamentary democracy",
+                "weimar republic"
+            ]
+        },
+        {
+            "definition": "a form of government whose head of state is not a monarch",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "political system",
+                "form of government"
+            ],
+            "hasInstances": [
+                "roman republic"
+            ],
+            "examples": [
+                "the head of state in a republic is usually a president"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "pub",
+            "lic"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'p\u0259bl\u026ak"
+    },
+    "frequency": 4.04
+}

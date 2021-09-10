@@ -1,0 +1,58 @@
+{
+    "word": "diplomatic",
+    "results": [
+        {
+            "definition": "using or marked by tact in dealing with sensitive matters or people",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "diplomatical"
+            ],
+            "also": [
+                "politic"
+            ],
+            "similarTo": [
+                "kid-glove",
+                "bland",
+                "smooth",
+                "suave",
+                "tactful",
+                "politic"
+            ],
+            "antonyms": [
+                "undiplomatic"
+            ],
+            "derivation": [
+                "diplomacy"
+            ],
+            "examples": [
+                "the hostess averted a confrontation with a diplomatic chenage of subject"
+            ]
+        },
+        {
+            "definition": "relating to or characteristic of diplomacy",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "diplomacy"
+            ],
+            "derivation": [
+                "diplomacy"
+            ],
+            "examples": [
+                "diplomatic immunity"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dip",
+            "lo",
+            "mat",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u026apl\u0259'm\u00e6t\u026ak"
+    },
+    "frequency": 3.52
+}

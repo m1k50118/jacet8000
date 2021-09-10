@@ -1,0 +1,37 @@
+{
+    "word": "lender",
+    "results": [
+        {
+            "definition": "someone who lends money or gives credit in business matters",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "loaner"
+            ],
+            "typeOf": [
+                "investor"
+            ],
+            "hasTypes": [
+                "loan shark",
+                "moneylender",
+                "pawnbroker",
+                "shylock",
+                "usurer"
+            ],
+            "antonyms": [
+                "borrower"
+            ],
+            "derivation": [
+                "lend"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "lend",
+            "er"
+        ]
+    },
+    "pronunciation": "'l\u025bnd\u025dr",
+    "frequency": 2.8
+}

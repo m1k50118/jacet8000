@@ -1,0 +1,50 @@
+{
+    "word": "pineapple",
+    "results": [
+        {
+            "definition": "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "ananas comosus",
+                "pineapple plant"
+            ],
+            "typeOf": [
+                "herb",
+                "herbaceous plant"
+            ],
+            "memberOf": [
+                "ananas",
+                "genus ananas"
+            ],
+            "hasParts": [
+                "ananas"
+            ]
+        },
+        {
+            "definition": "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "ananas"
+            ],
+            "typeOf": [
+                "edible fruit"
+            ],
+            "partOf": [
+                "pineapple plant",
+                "ananas comosus"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pine",
+            "ap",
+            "ple"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pa\u026an,\u00e6p\u0259l"
+    },
+    "frequency": 3.5
+}

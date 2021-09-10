@@ -1,0 +1,34 @@
+{
+    "word": "malignant",
+    "results": [
+        {
+            "definition": "dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)",
+            "partOfSpeech": "adjective",
+            "inCategory": [
+                "pathology"
+            ],
+            "similarTo": [
+                "cancerous"
+            ],
+            "antonyms": [
+                "benign"
+            ],
+            "derivation": [
+                "malignance",
+                "malignancy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ma",
+            "lig",
+            "nant"
+        ]
+    },
+    "pronunciation": {
+        "all": "m\u0259'l\u026agn\u0259nt"
+    },
+    "frequency": 3.23
+}

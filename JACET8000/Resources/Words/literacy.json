@@ -1,0 +1,35 @@
+{
+    "word": "literacy",
+    "results": [
+        {
+            "definition": "the ability to read and write",
+            "partOfSpeech": "noun",
+            "attribute": [
+                "illiterate"
+            ],
+            "typeOf": [
+                "accomplishment",
+                "acquirement",
+                "acquisition",
+                "attainment",
+                "skill"
+            ],
+            "antonyms": [
+                "illiteracy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "lit",
+            "er",
+            "a",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u026at\u0259r\u0259si"
+    },
+    "frequency": 2.7
+}

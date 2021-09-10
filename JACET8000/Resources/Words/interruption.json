@@ -1,0 +1,107 @@
+{
+    "word": "interruption",
+    "results": [
+        {
+            "definition": "an act of delaying or interrupting the continuity",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "break",
+                "disruption",
+                "gap"
+            ],
+            "typeOf": [
+                "holdup",
+                "delay"
+            ],
+            "hasTypes": [
+                "cut-in",
+                "insert",
+                "interjection",
+                "abruption",
+                "breaking off",
+                "interpolation",
+                "interpellation",
+                "barracking",
+                "heckling",
+                "interposition"
+            ],
+            "derivation": [
+                "interrupt"
+            ]
+        },
+        {
+            "definition": "a time interval during which there is a temporary cessation of something",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "break",
+                "intermission",
+                "pause",
+                "suspension"
+            ],
+            "typeOf": [
+                "time interval",
+                "interval"
+            ],
+            "hasTypes": [
+                "wait",
+                "blackout",
+                "caesura",
+                "dead air",
+                "delay",
+                "halftime",
+                "hold",
+                "lapse",
+                "letup",
+                "lull",
+                "postponement",
+                "relief",
+                "respite",
+                "rest",
+                "rest period",
+                "time-out",
+                "time lag"
+            ]
+        },
+        {
+            "definition": "some abrupt occurrence that interrupts an ongoing activity",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "break"
+            ],
+            "typeOf": [
+                "occurrent",
+                "happening",
+                "natural event",
+                "occurrence"
+            ],
+            "hasTypes": [
+                "hiatus",
+                "occultation",
+                "eclipse",
+                "disruption",
+                "reprieve",
+                "respite",
+                "suspension",
+                "abatement",
+                "punctuation",
+                "dislocation"
+            ],
+            "examples": [
+                "the telephone is an annoying interruption"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "in",
+            "ter",
+            "rup",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u026ant\u0259'r\u0259p\u0283\u0259n"
+    },
+    "frequency": 3.23
+}

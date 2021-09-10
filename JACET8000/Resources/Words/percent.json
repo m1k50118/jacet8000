@@ -1,0 +1,34 @@
+{
+    "word": "percent",
+    "results": [
+        {
+            "definition": "a proportion in relation to a whole (which is usually the amount per hundred)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "pct",
+                "per centum",
+                "percentage"
+            ],
+            "typeOf": [
+                "proportion"
+            ],
+            "hasTypes": [
+                "absentee rate",
+                "occupancy rate",
+                "unemployment rate",
+                "vacancy rate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "per",
+            "cent"
+        ]
+    },
+    "pronunciation": {
+        "all": "p\u0259r's\u025bnt"
+    },
+    "frequency": 4.4
+}

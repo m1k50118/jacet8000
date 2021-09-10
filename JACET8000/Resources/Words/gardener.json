@@ -1,0 +1,50 @@
+{
+    "word": "gardener",
+    "results": [
+        {
+            "definition": "someone who takes care of a garden",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "nurseryman"
+            ],
+            "typeOf": [
+                "horticulturist",
+                "plantsman"
+            ],
+            "hasTypes": [
+                "transplanter"
+            ],
+            "derivation": [
+                "garden"
+            ]
+        },
+        {
+            "definition": "someone employed to work in a garden",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "employee"
+            ],
+            "hasTypes": [
+                "groundkeeper",
+                "groundskeeper",
+                "groundsman",
+                "hedger"
+            ],
+            "derivation": [
+                "garden"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "gar",
+            "den",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0261\u0251rdn\u0259r"
+    },
+    "frequency": 3.65
+}

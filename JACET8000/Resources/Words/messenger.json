@@ -1,0 +1,40 @@
+{
+    "word": "messenger",
+    "results": [
+        {
+            "definition": "a person who carries a message",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "courier"
+            ],
+            "typeOf": [
+                "traveller",
+                "traveler"
+            ],
+            "hasTypes": [
+                "conveyor",
+                "dispatch rider",
+                "errand boy",
+                "herald",
+                "messenger boy",
+                "process-server",
+                "runner",
+                "bearer",
+                "trumpeter",
+                "conveyer"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mes",
+            "sen",
+            "ger"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u025bs\u026and\u0292\u0259r"
+    },
+    "frequency": 3.88
+}

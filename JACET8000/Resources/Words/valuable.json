@@ -1,0 +1,79 @@
+{
+    "word": "valuable",
+    "results": [
+        {
+            "definition": "having worth or merit or value",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "worthful"
+            ],
+            "similarTo": [
+                "worthy"
+            ],
+            "derivation": [
+                "valuableness",
+                "value"
+            ],
+            "examples": [
+                "a valuable friend"
+            ]
+        },
+        {
+            "definition": "having great material or monetary value especially for use or exchange",
+            "partOfSpeech": "adjective",
+            "also": [
+                "worthy",
+                "expensive",
+                "important",
+                "of import"
+            ],
+            "similarTo": [
+                "blue-chip",
+                "worth",
+                "invaluable",
+                "precious",
+                "priceless",
+                "rich",
+                "semiprecious"
+            ],
+            "antonyms": [
+                "worthless"
+            ],
+            "derivation": [
+                "valuableness",
+                "value"
+            ],
+            "examples": [
+                "a valuable diamond"
+            ]
+        },
+        {
+            "definition": "something of value",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "hoarded wealth",
+                "treasure"
+            ],
+            "hasTypes": [
+                "swag",
+                "precious metal"
+            ],
+            "examples": [
+                "all our valuables were stolen"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "val",
+            "u",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'v\u00e6lju\u0259b\u0259l"
+    },
+    "frequency": 4.14
+}

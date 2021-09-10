@@ -1,0 +1,61 @@
+{
+    "word": "unreasonable",
+    "results": [
+        {
+            "definition": "beyond normal limits",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "excessive",
+                "inordinate",
+                "undue"
+            ],
+            "similarTo": [
+                "immoderate"
+            ],
+            "examples": [
+                "unreasonable demands"
+            ]
+        },
+        {
+            "definition": "not reasonable; not showing good judgment",
+            "partOfSpeech": "adjective",
+            "also": [
+                "illogical",
+                "irrational",
+                "immoderate",
+                "unlogical"
+            ],
+            "attribute": [
+                "reasonableness"
+            ],
+            "similarTo": [
+                "undue",
+                "unjustified",
+                "untenable",
+                "unwarranted",
+                "counterintuitive",
+                "indefensible",
+                "mindless",
+                "reasonless",
+                "senseless"
+            ],
+            "antonyms": [
+                "reasonable"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "rea",
+            "son",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n'riz\u0259n\u0259b\u0259l"
+    },
+    "frequency": 3.48
+}

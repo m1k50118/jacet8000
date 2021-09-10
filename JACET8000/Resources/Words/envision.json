@@ -1,0 +1,67 @@
+{
+    "word": "envision",
+    "results": [
+        {
+            "definition": "picture to oneself; imagine possible",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "foresee"
+            ],
+            "typeOf": [
+                "ideate",
+                "imagine",
+                "envisage",
+                "conceive of"
+            ],
+            "derivation": [
+                "envisioning"
+            ],
+            "examples": [
+                "I cannot envision him as President"
+            ]
+        },
+        {
+            "definition": "imagine; conceive of; see in one's mind",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "fancy",
+                "figure",
+                "image",
+                "picture",
+                "project",
+                "see",
+                "visualise",
+                "visualize"
+            ],
+            "typeOf": [
+                "ideate",
+                "conceive of",
+                "imagine",
+                "envisage"
+            ],
+            "verbGroup": [
+                "visualize",
+                "realize",
+                "see",
+                "understand",
+                "visualise",
+                "realise"
+            ],
+            "derivation": [
+                "envisioning"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "en",
+            "vi",
+            "sion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bn'v\u026a\u0292\u0259n"
+    },
+    "frequency": 2.76
+}

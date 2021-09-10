@@ -1,0 +1,57 @@
+{
+    "word": "convoy",
+    "results": [
+        {
+            "definition": "a collection of merchant ships with an escort of warships",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "accumulation",
+                "aggregation",
+                "assemblage",
+                "collection"
+            ]
+        },
+        {
+            "definition": "a procession of land vehicles traveling together",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "procession"
+            ]
+        },
+        {
+            "definition": "escort in transit",
+            "partOfSpeech": "verb",
+            "entails": [
+                "protect"
+            ],
+            "typeOf": [
+                "escort"
+            ],
+            "examples": [
+                "the trucks convoyed the cars across the battle zone",
+                "the warships convoyed the merchant ships across the Pacific"
+            ]
+        },
+        {
+            "definition": "the act of escorting while in transit",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "escort",
+                "accompaniment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "con",
+            "voy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0251nvOi",
+        "noun": "'k\u0251nv\u0254\u026a",
+        "verb": "k\u0251n'v\u0254\u026a"
+    },
+    "frequency": 3.49
+}

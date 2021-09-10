@@ -1,0 +1,34 @@
+{
+    "word": "precision",
+    "results": [
+        {
+            "definition": "the quality of being reproducible in amount or performance",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "preciseness"
+            ],
+            "typeOf": [
+                "exactitude",
+                "exactness"
+            ],
+            "antonyms": [
+                "imprecision"
+            ],
+            "examples": [
+                "note the meticulous precision of his measurements"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pre",
+            "ci",
+            "sion"
+        ]
+    },
+    "pronunciation": {
+        "all": "pr\u026a's\u026a\u0292\u0259n"
+    },
+    "frequency": 3.43
+}

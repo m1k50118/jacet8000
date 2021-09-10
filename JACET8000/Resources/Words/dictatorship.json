@@ -1,0 +1,44 @@
+{
+    "word": "dictatorship",
+    "results": [
+        {
+            "definition": "a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "absolutism",
+                "authoritarianism",
+                "caesarism",
+                "despotism",
+                "monocracy",
+                "one-man rule",
+                "shogunate",
+                "stalinism",
+                "totalitarianism",
+                "tyranny"
+            ],
+            "typeOf": [
+                "autarchy",
+                "autocracy"
+            ],
+            "hasTypes": [
+                "police state"
+            ],
+            "derivation": [
+                "dictator"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dic",
+            "ta",
+            "tor",
+            "ship"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026ak'te\u026at\u0259r,\u0283\u026ap"
+    },
+    "frequency": 3.62
+}

@@ -1,0 +1,37 @@
+{
+    "word": "unfortunately",
+    "results": [
+        {
+            "definition": "by bad luck",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "alas",
+                "regrettably",
+                "unluckily"
+            ],
+            "antonyms": [
+                "fortunately"
+            ],
+            "pertainsTo": [
+                "unfortunate"
+            ],
+            "examples": [
+                "unfortunately it rained all day"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "for",
+            "tu",
+            "nate",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n'fo\u028artj\u028an\u0259tli"
+    },
+    "frequency": 4.52
+}

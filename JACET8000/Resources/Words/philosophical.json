@@ -1,0 +1,53 @@
+{
+    "word": "philosophical",
+    "results": [
+        {
+            "definition": "characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "philosophic"
+            ],
+            "similarTo": [
+                "unemotional"
+            ],
+            "derivation": [
+                "philosopher",
+                "philosophy"
+            ],
+            "examples": [
+                "philosophical resignation"
+            ]
+        },
+        {
+            "definition": "of or relating to philosophy or philosophers",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "philosophic"
+            ],
+            "pertainsTo": [
+                "philosophy"
+            ],
+            "derivation": [
+                "philosophy"
+            ],
+            "examples": [
+                "philosophical writing",
+                "a considerable knowledge of philosophical terminology"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "phil",
+            "o",
+            "soph",
+            "i",
+            "cal"
+        ]
+    },
+    "pronunciation": {
+        "all": ",f\u026al\u0259's\u0251f\u026ak\u0259l"
+    },
+    "frequency": 3.28
+}

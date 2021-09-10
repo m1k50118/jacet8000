@@ -1,0 +1,36 @@
+{
+    "word": "paranoid",
+    "results": [
+        {
+            "definition": "a person afflicted with paranoia",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "paranoiac"
+            ],
+            "typeOf": [
+                "psycho",
+                "psychotic",
+                "psychotic person"
+            ]
+        },
+        {
+            "definition": "suffering from paranoia",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "insane"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "par",
+            "a",
+            "noid"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u00e6r\u0259n\u0254\u026ad"
+    },
+    "frequency": 3.96
+}

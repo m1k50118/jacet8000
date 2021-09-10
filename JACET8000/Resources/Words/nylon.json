@@ -1,0 +1,36 @@
+{
+    "word": "nylon",
+    "results": [
+        {
+            "definition": "a synthetic fabric",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "cloth",
+                "fabric",
+                "material",
+                "textile"
+            ]
+        },
+        {
+            "definition": "a thermoplastic polyamide; a family of strong resilient synthetic fibers",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "polyamide",
+                "polymeric amide",
+                "man-made fiber",
+                "synthetic fiber"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ny",
+            "lon"
+        ]
+    },
+    "pronunciation": {
+        "all": "'na\u026al\u0251n"
+    },
+    "frequency": 2.89
+}

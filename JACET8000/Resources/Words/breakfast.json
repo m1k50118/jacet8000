@@ -1,0 +1,47 @@
+{
+    "word": "breakfast",
+    "results": [
+        {
+            "definition": "eat an early morning meal",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "eat"
+            ],
+            "examples": [
+                "We breakfast at seven"
+            ]
+        },
+        {
+            "definition": "provide breakfast for",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "feed",
+                "give"
+            ]
+        },
+        {
+            "definition": "the first meal of the day (usually in the morning)",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "repast",
+                "meal"
+            ],
+            "hasTypes": [
+                "continental breakfast",
+                "power breakfast",
+                "petit dejeuner"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "break",
+            "fast"
+        ]
+    },
+    "pronunciation": {
+        "all": "'br\u025bkf\u0259st"
+    },
+    "frequency": 4.7
+}

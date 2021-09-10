@@ -1,0 +1,62 @@
+{
+    "word": "residue",
+    "results": [
+        {
+            "definition": "something left after other parts have been taken away",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "balance",
+                "remainder",
+                "residual",
+                "residuum",
+                "rest"
+            ],
+            "typeOf": [
+                "constituent",
+                "component",
+                "part",
+                "component part",
+                "portion"
+            ],
+            "hasTypes": [
+                "remnant",
+                "leftover"
+            ],
+            "derivation": [
+                "residual",
+                "residuary"
+            ]
+        },
+        {
+            "definition": "matter that remains after something has been removed",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "matter"
+            ],
+            "hasTypes": [
+                "ash",
+                "cotton cake",
+                "cottonseed cake",
+                "crackling",
+                "dottle",
+                "greaves"
+            ],
+            "derivation": [
+                "residual",
+                "residuary"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "res",
+            "i",
+            "due"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025bz\u026a,du"
+    },
+    "frequency": 3.2
+}

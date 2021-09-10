@@ -1,0 +1,45 @@
+{
+    "word": "betrayal",
+    "results": [
+        {
+            "definition": "an act of deliberate betrayal",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "perfidy",
+                "treachery",
+                "treason"
+            ],
+            "typeOf": [
+                "knavery",
+                "dishonesty"
+            ],
+            "hasTypes": [
+                "double cross",
+                "sellout",
+                "double-crossing"
+            ],
+            "derivation": [
+                "betray"
+            ]
+        },
+        {
+            "definition": "the quality of aiding an enemy",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "subversiveness",
+                "traitorousness",
+                "treason"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "be",
+            "tray",
+            "al"
+        ]
+    },
+    "pronunciation": "b\u026a'tre\u026a\u028cl",
+    "frequency": 3.74
+}

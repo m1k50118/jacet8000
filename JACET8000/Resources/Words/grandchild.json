@@ -1,0 +1,30 @@
+{
+    "word": "grandchild",
+    "results": [
+        {
+            "definition": "a child of your son or daughter",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "issue",
+                "offspring",
+                "progeny"
+            ],
+            "hasTypes": [
+                "granddaughter",
+                "grandson",
+                "great grandchild"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "grand",
+            "child"
+        ]
+    },
+    "pronunciation": {
+        "all": "'gr\u00e6n,\u02a7a\u026ald"
+    },
+    "frequency": 3.38
+}

@@ -1,0 +1,34 @@
+{
+    "word": "fleeting",
+    "results": [
+        {
+            "definition": "lasting for a markedly brief time",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "fugitive",
+                "momentaneous",
+                "momentary"
+            ],
+            "similarTo": [
+                "short"
+            ],
+            "derivation": [
+                "fleetingness"
+            ],
+            "examples": [
+                "a fleeting glance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fleet",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "'flit\u026a\u014b"
+    },
+    "frequency": 3.23
+}

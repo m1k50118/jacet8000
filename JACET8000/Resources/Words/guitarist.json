@@ -1,0 +1,45 @@
+{
+    "word": "guitarist",
+    "results": [
+        {
+            "definition": "a musician who plays the guitar",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "guitar player"
+            ],
+            "typeOf": [
+                "player",
+                "instrumentalist",
+                "musician"
+            ],
+            "hasInstances": [
+                "huddie leadbetter",
+                "james marshall hendrix",
+                "jimi hendrix",
+                "king",
+                "leadbelly",
+                "ledbetter",
+                "riley b king",
+                "andres segovia",
+                "segovia",
+                "b. b. king",
+                "hendrix"
+            ],
+            "derivation": [
+                "guitar"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "gui",
+            "tar",
+            "ist"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0261\u026a't\u0251r\u026ast"
+    },
+    "frequency": 3.18
+}

@@ -1,0 +1,35 @@
+{
+    "word": "gratitude",
+    "results": [
+        {
+            "definition": "a feeling of thankfulness and appreciation",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "feeling"
+            ],
+            "hasTypes": [
+                "appreciativeness",
+                "gratefulness",
+                "thankfulness"
+            ],
+            "antonyms": [
+                "ingratitude"
+            ],
+            "examples": [
+                "he was overwhelmed with gratitude for their help"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "grat",
+            "i",
+            "tude"
+        ]
+    },
+    "pronunciation": {
+        "all": "'gr\u00e6t\u026a,tud"
+    },
+    "frequency": 3.85
+}

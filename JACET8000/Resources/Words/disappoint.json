@@ -1,0 +1,46 @@
+{
+    "word": "disappoint",
+    "results": [
+        {
+            "definition": "fail to meet the hopes or expectations of",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "let down"
+            ],
+            "typeOf": [
+                "baffle",
+                "foil",
+                "frustrate",
+                "queer",
+                "scotch",
+                "spoil",
+                "thwart",
+                "bilk",
+                "cross"
+            ],
+            "hasTypes": [
+                "betray",
+                "fail",
+                "come short",
+                "fall short",
+                "disenchant",
+                "disillusion"
+            ],
+            "derivation": [
+                "disappointment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "dis",
+            "ap",
+            "point"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u026as\u0259'p\u0254\u026ant"
+    },
+    "frequency": 3.89
+}

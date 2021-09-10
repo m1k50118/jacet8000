@@ -1,0 +1,34 @@
+{
+    "word": "feasible",
+    "results": [
+        {
+            "definition": "capable of being done with means at hand and circumstances as they are",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "executable",
+                "practicable",
+                "viable",
+                "workable"
+            ],
+            "similarTo": [
+                "possible"
+            ],
+            "derivation": [
+                "feasibility",
+                "feasibleness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "fea",
+            "si",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'fiz\u0259b\u0259l"
+    },
+    "frequency": 2.98
+}

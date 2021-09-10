@@ -1,0 +1,40 @@
+{
+    "word": "chuckle",
+    "results": [
+        {
+            "definition": "laugh quietly or with restraint",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "chortle",
+                "laugh softly"
+            ],
+            "typeOf": [
+                "express joy",
+                "express mirth",
+                "laugh"
+            ]
+        },
+        {
+            "definition": "a soft partly suppressed laugh",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "chortle"
+            ],
+            "typeOf": [
+                "laugh",
+                "laughter"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "chuck",
+            "le"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u02a7\u0259k\u0259l"
+    },
+    "frequency": 3.53
+}

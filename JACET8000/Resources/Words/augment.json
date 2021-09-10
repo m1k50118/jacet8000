@@ -1,0 +1,46 @@
+{
+    "word": "augment",
+    "results": [
+        {
+            "definition": "enlarge or increase",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "increase"
+            ],
+            "derivation": [
+                "augmentation",
+                "augmentative"
+            ],
+            "examples": [
+                "The recent speech of the president augmented tensions in the Near East"
+            ]
+        },
+        {
+            "definition": "grow or intensify",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "grow"
+            ],
+            "derivation": [
+                "augmentation",
+                "augmentative"
+            ],
+            "examples": [
+                "The pressure augmented"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "aug",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0254\u0261'm\u025bnt",
+        "noun": "'\u0254gm\u025bnt",
+        "verb": "\u0254\u0261'm\u025bnt"
+    },
+    "frequency": 2.27
+}

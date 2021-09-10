@@ -1,0 +1,76 @@
+{
+    "word": "deficiency",
+    "results": [
+        {
+            "definition": "lack of an adequate quantity or number",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "inadequacy",
+                "insufficiency"
+            ],
+            "typeOf": [
+                "amount"
+            ],
+            "hasTypes": [
+                "scarcity",
+                "shortage",
+                "shortfall",
+                "exiguity",
+                "slenderness",
+                "deficit",
+                "leanness",
+                "meagerness",
+                "meagreness",
+                "scantness",
+                "scantiness",
+                "scarceness",
+                "poorness"
+            ],
+            "derivation": [
+                "deficient"
+            ]
+        },
+        {
+            "definition": "the state of needing something that is absent or unavailable",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "lack",
+                "want"
+            ],
+            "typeOf": [
+                "demand",
+                "need"
+            ],
+            "hasTypes": [
+                "tightness",
+                "dearth",
+                "deficit",
+                "famine",
+                "mineral deficiency",
+                "shortage",
+                "shortness",
+                "stringency",
+                "absence"
+            ],
+            "derivation": [
+                "deficient"
+            ],
+            "examples": [
+                "water is the critical deficiency in desert regions"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "de",
+            "fi",
+            "cien",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a'f\u026a\u0283\u0259nsi"
+    },
+    "frequency": 3.04
+}

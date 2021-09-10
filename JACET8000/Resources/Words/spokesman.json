@@ -1,0 +1,26 @@
+{
+    "word": "spokesman",
+    "results": [
+        {
+            "definition": "a male spokesperson",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "interpreter",
+                "representative",
+                "spokesperson",
+                "voice"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "spokes",
+            "man"
+        ]
+    },
+    "pronunciation": {
+        "all": "'spo\u028aksm\u0259n"
+    },
+    "frequency": 3.21
+}

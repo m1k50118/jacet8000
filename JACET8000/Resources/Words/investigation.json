@@ -1,0 +1,72 @@
+{
+    "word": "investigation",
+    "results": [
+        {
+            "definition": "the work of inquiring into something thoroughly and systematically",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "investigating"
+            ],
+            "typeOf": [
+                "work"
+            ],
+            "hasTypes": [
+                "enumeration",
+                "examination",
+                "inquiry",
+                "numeration",
+                "analysis",
+                "police work",
+                "reckoning",
+                "research",
+                "scrutiny",
+                "search",
+                "tabulation",
+                "tally",
+                "tap",
+                "testing",
+                "wiretap",
+                "police investigation",
+                "count",
+                "counting",
+                "empiricism",
+                "enquiry"
+            ],
+            "derivation": [
+                "investigate"
+            ]
+        },
+        {
+            "definition": "an inquiry into unfamiliar or questionable activities",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "probe"
+            ],
+            "typeOf": [
+                "research",
+                "enquiry",
+                "inquiry"
+            ],
+            "hasTypes": [
+                "fishing expedition"
+            ],
+            "derivation": [
+                "investigate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "in",
+            "ves",
+            "ti",
+            "ga",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026an,v\u025bst\u0259'\u0261e\u026a\u0283\u0259n"
+    },
+    "frequency": 4.5
+}

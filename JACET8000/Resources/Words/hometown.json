@@ -1,0 +1,26 @@
+{
+    "word": "hometown",
+    "results": [
+        {
+            "definition": "the town (or city) where you grew up or where you have your principal residence",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "town"
+            ],
+            "examples": [
+                "he never went back to his hometown again"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "home",
+            "town"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ho\u028am,ta\u028an"
+    },
+    "frequency": 3.81
+}

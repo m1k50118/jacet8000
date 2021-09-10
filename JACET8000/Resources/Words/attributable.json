@@ -1,0 +1,45 @@
+{
+    "word": "attributable",
+    "results": [
+        {
+            "definition": "capable of being attributed",
+            "partOfSpeech": "adjective",
+            "attribute": [
+                "ascription",
+                "attribution"
+            ],
+            "similarTo": [
+                "ascribable",
+                "credited",
+                "due",
+                "imputable",
+                "referable",
+                "traceable"
+            ],
+            "antonyms": [
+                "unattributable"
+            ],
+            "derivation": [
+                "attribute"
+            ],
+            "examples": [
+                "the collapse of the movement was attributable to a lack of morale",
+                "an idea attributable to a Russian"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "at",
+            "trib",
+            "ut",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'tribj\u028at\u0259b\u0259l"
+    },
+    "frequency": 1.73
+}

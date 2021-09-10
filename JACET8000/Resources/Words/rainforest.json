@@ -1,0 +1,32 @@
+{
+    "word": "rainforest",
+    "results": [
+        {
+            "definition": "a forest with heavy annual rainfall",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "rain forest"
+            ],
+            "typeOf": [
+                "forest",
+                "wood",
+                "woods"
+            ],
+            "hasTypes": [
+                "selva",
+                "temperate rain forest",
+                "tropical rain forest"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "rain",
+            "for",
+            "est"
+        ]
+    },
+    "pronunciation": "'ra\u026an,f\u0254r\u028cst",
+    "frequency": 3.07
+}

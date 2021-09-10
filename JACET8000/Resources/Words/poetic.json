@@ -1,0 +1,77 @@
+{
+    "word": "poetic",
+    "results": [
+        {
+            "definition": "of or relating to poetry",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "poetical"
+            ],
+            "pertainsTo": [
+                "poetry"
+            ],
+            "derivation": [
+                "poetry"
+            ],
+            "examples": [
+                "poetic works",
+                "a poetic romance"
+            ]
+        },
+        {
+            "definition": "characteristic of or befitting poetry",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "poetical"
+            ],
+            "similarTo": [
+                "rhetorical"
+            ],
+            "derivation": [
+                "poetry"
+            ],
+            "examples": [
+                "poetic diction"
+            ]
+        },
+        {
+            "definition": "characterized by romantic imagery",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "figurative",
+                "nonliteral"
+            ],
+            "derivation": [
+                "poetry"
+            ],
+            "examples": [
+                "Turner's vision of the rainbow...was poetic"
+            ]
+        },
+        {
+            "definition": "of or relating to poets",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "poet"
+            ],
+            "derivation": [
+                "poet"
+            ],
+            "examples": [
+                "poetic insight"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "po",
+            "et",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": "po\u028a'\u025bt\u026ak"
+    },
+    "frequency": 3.52
+}

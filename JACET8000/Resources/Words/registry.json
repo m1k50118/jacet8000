@@ -1,0 +1,38 @@
+{
+    "word": "registry",
+    "results": [
+        {
+            "definition": "an official written record of names or events or transactions",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "register"
+            ],
+            "typeOf": [
+                "written account",
+                "written record"
+            ],
+            "hasTypes": [
+                "check register",
+                "cadaster",
+                "studbook",
+                "rent-roll",
+                "cadastre"
+            ],
+            "derivation": [
+                "register"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "reg",
+            "is",
+            "try"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025bd\u0292\u026astri"
+    },
+    "frequency": 3.19
+}

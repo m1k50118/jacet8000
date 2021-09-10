@@ -1,0 +1,36 @@
+{
+    "word": "landowner",
+    "results": [
+        {
+            "definition": "a holder or proprietor of land",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "landholder",
+                "property owner"
+            ],
+            "typeOf": [
+                "holder"
+            ],
+            "hasTypes": [
+                "franklin",
+                "freeholder",
+                "abutter",
+                "laird",
+                "landlord",
+                "squire"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "land",
+            "ow",
+            "ner"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u00e6nd,o\u028an\u0259r"
+    },
+    "frequency": 2.7
+}

@@ -1,0 +1,54 @@
+{
+    "word": "traditional",
+    "results": [
+        {
+            "definition": "consisting of or derived from tradition",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "handed-down",
+                "classical",
+                "conventional",
+                "classic",
+                "tralatitious",
+                "traditionalistic"
+            ],
+            "antonyms": [
+                "nontraditional"
+            ],
+            "derivation": [
+                "tradition"
+            ],
+            "examples": [
+                "traditional history",
+                "traditional morality"
+            ]
+        },
+        {
+            "definition": "pertaining to time-honored orthodox doctrines",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "orthodox"
+            ],
+            "derivation": [
+                "tradition",
+                "traditionality"
+            ],
+            "examples": [
+                "the simple security of traditional assumptions has vanished"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "tra",
+            "di",
+            "tion",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "tr\u0259'd\u026a\u0283\u0259n\u0259l"
+    },
+    "frequency": 4.04
+}

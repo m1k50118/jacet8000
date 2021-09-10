@@ -1,0 +1,47 @@
+{
+    "word": "seriously",
+    "results": [
+        {
+            "definition": "in a serious manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "earnestly",
+                "in earnest"
+            ],
+            "pertainsTo": [
+                "serious"
+            ],
+            "examples": [
+                "a play dealing seriously with the question of divorce"
+            ]
+        },
+        {
+            "definition": "to a severe or serious degree",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "badly",
+                "gravely",
+                "severely"
+            ],
+            "pertainsTo": [
+                "serious"
+            ],
+            "examples": [
+                "was seriously ill"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "se",
+            "ri",
+            "ous",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'si\u0259ri\u0259sli"
+    },
+    "frequency": 4.92
+}

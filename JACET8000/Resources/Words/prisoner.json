@@ -1,0 +1,43 @@
+{
+    "word": "prisoner",
+    "results": [
+        {
+            "definition": "a person who is confined; especially a prisoner of war",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "captive"
+            ],
+            "typeOf": [
+                "unfortunate",
+                "unfortunate person"
+            ],
+            "hasTypes": [
+                "detainee",
+                "hostage",
+                "inmate",
+                "internee",
+                "political detainee",
+                "political prisoner",
+                "pow",
+                "prisoner of war",
+                "surety",
+                "yard bird",
+                "con",
+                "yardbird",
+                "convict"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pris",
+            "on",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pr\u026az\u0259n\u0259r"
+    },
+    "frequency": 4.27
+}

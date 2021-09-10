@@ -1,0 +1,52 @@
+{
+    "word": "skepticism",
+    "results": [
+        {
+            "definition": "doubt about the truth of something",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "disbelief",
+                "incredulity",
+                "mental rejection"
+            ],
+            "typeOf": [
+                "uncertainty",
+                "doubt",
+                "doubtfulness",
+                "dubiety",
+                "dubiousness",
+                "incertitude"
+            ],
+            "derivation": [
+                "skeptical"
+            ]
+        },
+        {
+            "definition": "the disbelief in any claims of ultimate knowledge",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "agnosticism",
+                "scepticism"
+            ],
+            "typeOf": [
+                "unbelief",
+                "disbelief"
+            ],
+            "derivation": [
+                "skeptical"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "skep",
+            "ti",
+            "cism"
+        ]
+    },
+    "pronunciation": {
+        "all": "'sk\u025bpt\u026a,s\u026az\u0259m"
+    },
+    "frequency": 2.69
+}

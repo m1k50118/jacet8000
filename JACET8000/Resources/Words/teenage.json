@@ -1,0 +1,32 @@
+{
+    "word": "teenage",
+    "results": [
+        {
+            "definition": "being of the age 13 through 19",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "adolescent",
+                "teen",
+                "teenaged"
+            ],
+            "similarTo": [
+                "immature",
+                "young"
+            ],
+            "examples": [
+                "teenage mothers"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "teen",
+            "age"
+        ]
+    },
+    "pronunciation": {
+        "all": "'tine\u026ad\u0292"
+    },
+    "frequency": 3.74
+}

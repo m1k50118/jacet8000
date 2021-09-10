@@ -1,0 +1,48 @@
+{
+    "word": "retrospect",
+    "results": [
+        {
+            "definition": "look back upon (a period of time, sequence of events); remember",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "look back",
+                "review"
+            ],
+            "typeOf": [
+                "remember",
+                "think back"
+            ],
+            "derivation": [
+                "retrospection",
+                "retrospective"
+            ]
+        },
+        {
+            "definition": "contemplation of things past",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "contemplation",
+                "musing",
+                "reflection",
+                "reflexion",
+                "rumination",
+                "thoughtfulness"
+            ],
+            "examples": [
+                "in retrospect"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ret",
+            "ro",
+            "spect"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025btr\u0259,sp\u025bkt"
+    },
+    "frequency": 2.94
+}

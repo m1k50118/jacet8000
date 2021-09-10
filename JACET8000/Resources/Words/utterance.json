@@ -1,0 +1,76 @@
+{
+    "word": "utterance",
+    "results": [
+        {
+            "definition": "the use of uttered sounds for auditory communication",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "vocalization"
+            ],
+            "typeOf": [
+                "auditory communication"
+            ],
+            "hasTypes": [
+                "call",
+                "croak",
+                "croaking",
+                "cry",
+                "exclaiming",
+                "exclamation",
+                "expletive",
+                "exultation",
+                "groan",
+                "growling",
+                "hem",
+                "howl",
+                "howling",
+                "jubilation",
+                "laugh",
+                "laughter",
+                "moan",
+                "mumble",
+                "outcry",
+                "paging",
+                "yell",
+                "vociferation",
+                "ahem",
+                "profanity",
+                "pronunciation",
+                "rasp",
+                "rasping",
+                "rejoicing",
+                "roll call",
+                "shout",
+                "sigh",
+                "snarl",
+                "speaking",
+                "speech",
+                "speech production",
+                "splutter",
+                "sputter",
+                "suspiration",
+                "ululation"
+            ],
+            "hasParts": [
+                "phone",
+                "speech sound",
+                "sound"
+            ],
+            "derivation": [
+                "utter"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ut",
+            "ter",
+            "ance"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0259t\u0259r\u0259ns"
+    },
+    "frequency": 2.17
+}

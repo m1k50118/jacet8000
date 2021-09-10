@@ -1,0 +1,51 @@
+{
+    "word": "extravagant",
+    "results": [
+        {
+            "definition": "unrestrained, especially with regard to feelings",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "excessive",
+                "exuberant",
+                "overweening"
+            ],
+            "similarTo": [
+                "unrestrained"
+            ],
+            "derivation": [
+                "extravagance"
+            ],
+            "examples": [
+                "extravagant praise"
+            ]
+        },
+        {
+            "definition": "recklessly wasteful",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "prodigal",
+                "profligate",
+                "spendthrift"
+            ],
+            "similarTo": [
+                "wasteful"
+            ],
+            "derivation": [
+                "extravagance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ex",
+            "trav",
+            "a",
+            "gant"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026ak'str\u00e6v\u0259\u0261\u0259nt"
+    },
+    "frequency": 3.17
+}

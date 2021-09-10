@@ -1,0 +1,42 @@
+{
+    "word": "memorize",
+    "results": [
+        {
+            "definition": "commit to memory; learn by heart",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "con",
+                "learn",
+                "memorise"
+            ],
+            "typeOf": [
+                "hit the books",
+                "study"
+            ],
+            "hasTypes": [
+                "alternate",
+                "understudy"
+            ],
+            "derivation": [
+                "memorization",
+                "memorizer",
+                "memory"
+            ],
+            "examples": [
+                "Have you memorized your lines for the play yet?"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mem",
+            "o",
+            "rize"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u025bm\u0259,ra\u026az"
+    },
+    "frequency": 3.47
+}

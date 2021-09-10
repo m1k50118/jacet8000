@@ -1,0 +1,41 @@
+{
+    "word": "batsman",
+    "results": [
+        {
+            "definition": "(baseball) a ballplayer who is batting",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "batter",
+                "hitter",
+                "slugger"
+            ],
+            "inCategory": [
+                "baseball",
+                "baseball game",
+                "ball"
+            ],
+            "typeOf": [
+                "ballplayer",
+                "baseball player"
+            ],
+            "hasTypes": [
+                "whiffer",
+                "bunter",
+                "designated hitter",
+                "pinch hitter",
+                "switch-hitter"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "bats",
+            "man"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u00e6tsm\u0259n"
+    },
+    "frequency": 2.3
+}

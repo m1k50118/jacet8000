@@ -1,0 +1,57 @@
+{
+    "word": "unemployed",
+    "results": [
+        {
+            "definition": "people who are involuntarily out of work (considered as a group)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "unemployed people"
+            ],
+            "usageOf": [
+                "plural form",
+                "plural"
+            ],
+            "typeOf": [
+                "people"
+            ],
+            "examples": [
+                "the long-term unemployed need assistance"
+            ]
+        },
+        {
+            "definition": "not engaged in a gainful occupation",
+            "partOfSpeech": "adjective",
+            "also": [
+                "idle"
+            ],
+            "similarTo": [
+                "pink-slipped",
+                "jobless",
+                "laid-off",
+                "out of work",
+                "discharged",
+                "dismissed",
+                "fired",
+                "idle"
+            ],
+            "antonyms": [
+                "employed"
+            ],
+            "examples": [
+                "unemployed workers marched on the capital"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "un",
+            "em",
+            "ployed"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259n\u025bm'pl\u0254\u026ad"
+    },
+    "frequency": 3.78
+}

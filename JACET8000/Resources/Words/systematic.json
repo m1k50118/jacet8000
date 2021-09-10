@@ -1,0 +1,48 @@
+{
+    "word": "systematic",
+    "results": [
+        {
+            "definition": "of or relating to taxonomy",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "taxonomic",
+                "taxonomical"
+            ],
+            "inCategory": [
+                "biological science",
+                "biology"
+            ]
+        },
+        {
+            "definition": "characterized by order and planning",
+            "partOfSpeech": "adjective",
+            "also": [
+                "organized",
+                "regular"
+            ],
+            "antonyms": [
+                "unsystematic"
+            ],
+            "derivation": [
+                "system"
+            ],
+            "examples": [
+                "the investigation was very systematic",
+                "a systematic administrator"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "sys",
+            "tem",
+            "at",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": ",s\u026ast\u0259'm\u00e6t\u026ak"
+    },
+    "frequency": 2.96
+}

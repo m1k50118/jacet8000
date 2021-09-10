@@ -1,0 +1,47 @@
+{
+    "word": "immigration",
+    "results": [
+        {
+            "definition": "migration into a place (especially migration to a country of which you are not a native in order to settle there)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "in-migration"
+            ],
+            "typeOf": [
+                "migration"
+            ],
+            "hasTypes": [
+                "aliyah"
+            ],
+            "derivation": [
+                "immigrate"
+            ]
+        },
+        {
+            "definition": "the body of immigrants arriving during a specified interval",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "body"
+            ],
+            "derivation": [
+                "immigrate"
+            ],
+            "examples": [
+                "the increased immigration strengthened the colony"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "im",
+            "mi",
+            "gra",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u026am\u0259'gre\u026a\u0283\u0259n"
+    },
+    "frequency": 3.65
+}

@@ -1,0 +1,58 @@
+{
+    "word": "endurance",
+    "results": [
+        {
+            "definition": "a state of surviving; remaining alive",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "survival"
+            ],
+            "typeOf": [
+                "animation",
+                "life",
+                "living",
+                "aliveness"
+            ],
+            "hasTypes": [
+                "subsistence"
+            ],
+            "derivation": [
+                "endure"
+            ]
+        },
+        {
+            "definition": "the power to withstand hardship or stress",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "strength"
+            ],
+            "hasTypes": [
+                "tolerance",
+                "toughness",
+                "long-sufferance",
+                "long-suffering",
+                "stamina",
+                "staying power",
+                "sufferance"
+            ],
+            "derivation": [
+                "endure"
+            ],
+            "examples": [
+                "the marathon tests a runner's endurance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "en",
+            "dur",
+            "ance"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bn'd\u028ar\u0259ns"
+    },
+    "frequency": 3.23
+}

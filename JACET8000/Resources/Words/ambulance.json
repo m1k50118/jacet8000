@@ -1,0 +1,31 @@
+{
+    "word": "ambulance",
+    "results": [
+        {
+            "definition": "a vehicle that takes people to and from hospitals",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "auto",
+                "automobile",
+                "car",
+                "machine",
+                "motorcar"
+            ],
+            "hasTypes": [
+                "funny wagon"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "am",
+            "bu",
+            "lance"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u00e6mbj\u0259l\u0259ns"
+    },
+    "frequency": 4.4
+}

@@ -1,0 +1,37 @@
+{
+    "word": "autobiography",
+    "results": [
+        {
+            "definition": "a biography of yourself",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "biography",
+                "life",
+                "life history",
+                "life story"
+            ],
+            "hasTypes": [
+                "memoir"
+            ],
+            "derivation": [
+                "autobiographer",
+                "autobiographical"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 6,
+        "list": [
+            "au",
+            "to",
+            "bi",
+            "og",
+            "ra",
+            "phy"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0254t\u0259ba\u026a'\u0251gr\u0259fi"
+    },
+    "frequency": 2.97
+}

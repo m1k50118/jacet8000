@@ -1,0 +1,55 @@
+{
+    "word": "spirituality",
+    "results": [
+        {
+            "definition": "property or income owned by a church",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "church property",
+                "spiritualty"
+            ],
+            "typeOf": [
+                "belongings",
+                "holding",
+                "property"
+            ],
+            "hasTypes": [
+                "benefice",
+                "temporalty",
+                "temporality",
+                "ecclesiastical benefice"
+            ]
+        },
+        {
+            "definition": "concern with things of the spirit",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "otherworldliness",
+                "spiritism",
+                "spiritualism"
+            ],
+            "typeOf": [
+                "internality",
+                "inwardness"
+            ],
+            "derivation": [
+                "spiritual"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 6,
+        "list": [
+            "spir",
+            "it",
+            "u",
+            "al",
+            "i",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": ",sp\u026ar\u026a\u02a7u'\u00e6l\u026ati"
+    },
+    "frequency": 3.16
+}

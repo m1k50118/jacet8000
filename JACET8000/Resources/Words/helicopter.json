@@ -1,0 +1,42 @@
+{
+    "word": "helicopter",
+    "results": [
+        {
+            "definition": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "chopper",
+                "eggbeater",
+                "whirlybird"
+            ],
+            "typeOf": [
+                "heavier-than-air craft"
+            ],
+            "hasTypes": [
+                "shuttle helicopter",
+                "single-rotor helicopter",
+                "skyhook",
+                "cargo helicopter"
+            ],
+            "hasParts": [
+                "vane",
+                "landing skid",
+                "rotor",
+                "blade"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "hel",
+            "i",
+            "cop",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u025bl\u0259,k\u0251pt\u0259r"
+    },
+    "frequency": 4.13
+}

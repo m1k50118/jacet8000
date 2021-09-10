@@ -1,0 +1,63 @@
+{
+    "word": "generosity",
+    "results": [
+        {
+            "definition": "acting generously",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "unselfishness"
+            ],
+            "typeOf": [
+                "share-out",
+                "sharing"
+            ],
+            "derivation": [
+                "generous"
+            ]
+        },
+        {
+            "definition": "the trait of being willing to give your money or time",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "generousness"
+            ],
+            "attribute": [
+                "generous",
+                "stingy",
+                "ungenerous"
+            ],
+            "typeOf": [
+                "kindness"
+            ],
+            "hasTypes": [
+                "unselfishness",
+                "liberalness",
+                "bounteousness",
+                "bounty",
+                "charitableness",
+                "liberality",
+                "bigheartedness"
+            ],
+            "antonyms": [
+                "stinginess"
+            ],
+            "derivation": [
+                "generous"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "gen",
+            "er",
+            "os",
+            "i",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u0292\u025bn\u0259'r\u0251s\u026ati"
+    },
+    "frequency": 3.47
+}

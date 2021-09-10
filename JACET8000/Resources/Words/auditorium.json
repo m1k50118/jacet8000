@@ -1,0 +1,29 @@
+{
+    "word": "auditorium",
+    "results": [
+        {
+            "definition": "the area of a theater or concert hall where the audience sits",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "area"
+            ],
+            "hasTypes": [
+                "assembly hall"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "au",
+            "di",
+            "to",
+            "ri",
+            "um"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0254d\u026a'to\u028ari\u0259m"
+    },
+    "frequency": 3.25
+}

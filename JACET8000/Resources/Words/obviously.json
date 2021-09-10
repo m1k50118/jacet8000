@@ -1,0 +1,37 @@
+{
+    "word": "obviously",
+    "results": [
+        {
+            "definition": "unmistakably (`plain' is often used informally for `plainly')",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "apparently",
+                "evidently",
+                "manifestly",
+                "patently",
+                "plain",
+                "plainly"
+            ],
+            "usageOf": [
+                "colloquialism"
+            ],
+            "pertainsTo": [
+                "obvious"
+            ],
+            "examples": [
+                "the answer is obviously wrong"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ob",
+            "vi",
+            "ous",
+            "ly"
+        ]
+    },
+    "pronunciation": "'\u0251bvi\u028csli",
+    "frequency": 4.73
+}

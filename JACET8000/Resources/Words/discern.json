@@ -1,0 +1,41 @@
+{
+    "word": "discern",
+    "results": [
+        {
+            "definition": "detect with the senses",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "distinguish",
+                "make out",
+                "pick out",
+                "recognise",
+                "recognize",
+                "spot",
+                "tell apart"
+            ],
+            "entails": [
+                "comprehend",
+                "perceive"
+            ],
+            "hasTypes": [
+                "discriminate",
+                "resolve"
+            ],
+            "derivation": [
+                "discernible",
+                "discernment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "dis",
+            "cern"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a's\u025crn"
+    },
+    "frequency": 2.47
+}

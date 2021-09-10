@@ -1,0 +1,37 @@
+{
+    "word": "outbreak",
+    "results": [
+        {
+            "definition": "a sudden violent spontaneous occurrence (usually of some undesirable condition)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "eruption",
+                "irruption"
+            ],
+            "typeOf": [
+                "happening",
+                "natural event",
+                "occurrence",
+                "occurrent"
+            ],
+            "hasTypes": [
+                "epidemic",
+                "recrudescence"
+            ],
+            "examples": [
+                "the outbreak of hostilities"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "out",
+            "break"
+        ]
+    },
+    "pronunciation": {
+        "all": "'a\u028at,bre\u026ak"
+    },
+    "frequency": 3.26
+}

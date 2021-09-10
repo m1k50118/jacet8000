@@ -1,0 +1,36 @@
+{
+    "word": "magnificent",
+    "results": [
+        {
+            "definition": "characterized by grandeur",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "brilliant",
+                "glorious",
+                "splendid"
+            ],
+            "similarTo": [
+                "impressive"
+            ],
+            "derivation": [
+                "magnificence"
+            ],
+            "examples": [
+                "magnificent cathedrals"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "mag",
+            "nif",
+            "i",
+            "cent"
+        ]
+    },
+    "pronunciation": {
+        "all": "m\u00e6\u0261'n\u026af\u026as\u0259nt"
+    },
+    "frequency": 4.04
+}

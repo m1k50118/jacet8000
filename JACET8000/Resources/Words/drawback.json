@@ -1,0 +1,30 @@
+{
+    "word": "drawback",
+    "results": [
+        {
+            "definition": "the quality of being a hindrance",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "disadvantage"
+            ],
+            "hasTypes": [
+                "catch",
+                "gimmick"
+            ],
+            "examples": [
+                "he pointed out all the drawbacks to my plan"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "draw",
+            "back"
+        ]
+    },
+    "pronunciation": {
+        "all": "'dr\u0254,b\u00e6k"
+    },
+    "frequency": 2.52
+}

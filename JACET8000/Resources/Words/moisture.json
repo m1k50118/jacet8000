@@ -1,0 +1,31 @@
+{
+    "word": "moisture",
+    "results": [
+        {
+            "definition": "wetness caused by water",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "wet"
+            ],
+            "typeOf": [
+                "wetness"
+            ],
+            "derivation": [
+                "moisten",
+                "moisturise",
+                "moisturize"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "mois",
+            "ture"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u0254\u026as\u02a7\u0259r"
+    },
+    "frequency": 3.26
+}

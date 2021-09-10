@@ -1,0 +1,46 @@
+{
+    "word": "manuscript",
+    "results": [
+        {
+            "definition": "handwritten book or document",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "holograph"
+            ],
+            "typeOf": [
+                "autograph"
+            ],
+            "hasTypes": [
+                "scroll",
+                "leaf-book",
+                "palimpsest",
+                "codex",
+                "roll"
+            ]
+        },
+        {
+            "definition": "the form of a literary work submitted for publication",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "ms"
+            ],
+            "typeOf": [
+                "written material",
+                "piece of writing",
+                "writing"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "man",
+            "u",
+            "script"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6nj\u0259,skr\u026apt"
+    },
+    "frequency": 3.58
+}

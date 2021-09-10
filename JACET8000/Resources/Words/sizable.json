@@ -1,0 +1,51 @@
+{
+    "word": "sizable",
+    "results": [
+        {
+            "definition": "fairly large in size",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "ample",
+                "sizeable"
+            ],
+            "similarTo": [
+                "big",
+                "large"
+            ],
+            "examples": [
+                "a sizable fortune"
+            ]
+        },
+        {
+            "definition": "large in amount or extent or degree",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "goodish",
+                "goodly",
+                "healthy",
+                "hefty",
+                "respectable",
+                "sizeable",
+                "tidy"
+            ],
+            "similarTo": [
+                "considerable"
+            ],
+            "examples": [
+                "a sizable fortune"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "siz",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'sa\u026az\u0259b\u0259l"
+    },
+    "frequency": 2.67
+}

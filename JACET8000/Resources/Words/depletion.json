@@ -1,0 +1,48 @@
+{
+    "word": "depletion",
+    "results": [
+        {
+            "definition": "the act of decreasing something markedly",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "diminution",
+                "decrease",
+                "reduction",
+                "step-down"
+            ],
+            "hasTypes": [
+                "using up",
+                "drain",
+                "exhaustion",
+                "expenditure",
+                "consumption"
+            ],
+            "derivation": [
+                "deplete"
+            ]
+        },
+        {
+            "definition": "the state of being depleted",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "temporary state"
+            ],
+            "hasTypes": [
+                "salt depletion"
+            ],
+            "derivation": [
+                "deplete"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "de",
+            "ple",
+            "tion"
+        ]
+    },
+    "pronunciation": "d\u026a'pli\u0283\u028cn",
+    "frequency": 2.36
+}

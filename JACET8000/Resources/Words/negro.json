@@ -1,0 +1,53 @@
+{
+    "word": "negro",
+    "results": [
+        {
+            "definition": "a person with African ancestry,",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "african-american",
+                "black",
+                "negroid"
+            ],
+            "typeOf": [
+                "somebody",
+                "someone",
+                "soul",
+                "mortal",
+                "person",
+                "individual"
+            ],
+            "hasTypes": [
+                "pickaninny",
+                "picaninny",
+                "piccaninny",
+                "soul brother"
+            ],
+            "usageOf": [
+                "archaism"
+            ]
+        },
+        {
+            "definition": "having skin rich in melanin pigments",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "colored",
+                "coloured"
+            ],
+            "similarTo": [
+                "black"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ne",
+            "gro"
+        ]
+    },
+    "pronunciation": {
+        "all": "'nigro\u028a"
+    },
+    "frequency": 3.76
+}

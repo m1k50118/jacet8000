@@ -1,0 +1,33 @@
+{
+    "word": "cove",
+    "results": [
+        {
+            "definition": "a small inlet",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "inlet",
+                "recess"
+            ],
+            "hasTypes": [
+                "lough"
+            ]
+        },
+        {
+            "definition": "small or narrow cave in the side of a cliff or mountain",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "cave"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "cove"
+        ]
+    },
+    "pronunciation": {
+        "all": "ko\u028av"
+    },
+    "frequency": 3.3
+}

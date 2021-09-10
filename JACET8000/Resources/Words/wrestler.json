@@ -1,0 +1,43 @@
+{
+    "word": "wrestler",
+    "results": [
+        {
+            "definition": "combatant who tries to throw opponent to the ground",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "grappler",
+                "matman"
+            ],
+            "typeOf": [
+                "fighter",
+                "belligerent",
+                "scrapper",
+                "combatant",
+                "battler"
+            ],
+            "hasTypes": [
+                "lightweight",
+                "middleweight",
+                "sumo wrestler",
+                "bantamweight",
+                "welterweight",
+                "featherweight",
+                "flyweight",
+                "heavyweight",
+                "light heavyweight"
+            ],
+            "derivation": [
+                "wrestle"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "wres",
+            "tler"
+        ]
+    },
+    "pronunciation": "'r\u025bs\u028cl\u025dr",
+    "frequency": 3.5
+}

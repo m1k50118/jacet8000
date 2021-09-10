@@ -1,0 +1,40 @@
+{
+    "word": "often",
+    "results": [
+        {
+            "definition": "frequently or in great quantities",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "a great deal",
+                "much"
+            ]
+        },
+        {
+            "definition": "many times at short intervals",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "frequently",
+                "oft",
+                "oftentimes",
+                "ofttimes"
+            ],
+            "antonyms": [
+                "rarely"
+            ],
+            "examples": [
+                "we often met over a cup of coffee"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "of",
+            "ten"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0254f\u0259n"
+    },
+    "frequency": 4.91
+}

@@ -1,0 +1,33 @@
+{
+    "word": "electron",
+    "results": [
+        {
+            "definition": "an elementary particle with negative charge",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "negatron"
+            ],
+            "typeOf": [
+                "lepton"
+            ],
+            "hasTypes": [
+                "delta ray",
+                "free electron",
+                "photoelectron",
+                "valence electron"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "e",
+            "lec",
+            "tron"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026a'l\u025bktr\u0251n"
+    },
+    "frequency": 3.08
+}

@@ -1,0 +1,62 @@
+{
+    "word": "intercept",
+    "results": [
+        {
+            "definition": "tap a telephone or telegraph wire to get information",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "bug",
+                "tap",
+                "wiretap"
+            ],
+            "typeOf": [
+                "eavesdrop",
+                "listen in"
+            ]
+        },
+        {
+            "definition": "seize on its way",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "stop"
+            ],
+            "typeOf": [
+                "grab",
+                "catch",
+                "take hold of"
+            ],
+            "hasTypes": [
+                "cut off",
+                "cut out"
+            ],
+            "derivation": [
+                "interception",
+                "interceptor"
+            ],
+            "examples": [
+                "The fighter plane was ordered to intercept an aircraft that had entered the country's airspace"
+            ]
+        },
+        {
+            "definition": "the point at which a line intersects a coordinate axis",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "point"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "in",
+            "ter",
+            "cept"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u026ant\u0259r's\u025bpt",
+        "noun": ",\u026ant\u0259r,s\u025bpt",
+        "verb": ",\u026ant\u0259r's\u025bpt"
+    },
+    "frequency": 3.44
+}

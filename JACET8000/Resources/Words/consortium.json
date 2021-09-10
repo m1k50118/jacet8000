@@ -1,0 +1,35 @@
+{
+    "word": "consortium",
+    "results": [
+        {
+            "definition": "an association of companies for some definite purpose",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "pool",
+                "syndicate"
+            ],
+            "typeOf": [
+                "association"
+            ],
+            "hasTypes": [
+                "cartel",
+                "combine",
+                "corporate trust",
+                "trust"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "sor",
+            "ti",
+            "um"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n's\u0254r\u0283i\u0259m"
+    },
+    "frequency": 2.72
+}

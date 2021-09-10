@@ -1,0 +1,38 @@
+{
+    "word": "mucosa",
+    "results": [
+        {
+            "definition": "mucus-secreting membrane lining all body cavities or passages that communicate with the exterior",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "mucous membrane"
+            ],
+            "typeOf": [
+                "tissue layer",
+                "membrane"
+            ],
+            "hasTypes": [
+                "hymen",
+                "conjunctiva",
+                "virginal membrane",
+                "maidenhead",
+                "endometrium"
+            ],
+            "derivation": [
+                "mucosal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mu",
+            "co",
+            "sa"
+        ]
+    },
+    "pronunciation": {
+        "all": "mju'ko\u028as\u0259"
+    },
+    "frequency": 2.12
+}

@@ -1,0 +1,59 @@
+{
+    "word": "domination",
+    "results": [
+        {
+            "definition": "power to dominate or defeat",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "mastery",
+                "supremacy"
+            ],
+            "typeOf": [
+                "dominance",
+                "ascendancy",
+                "ascendence",
+                "ascendency",
+                "ascendance",
+                "control"
+            ],
+            "hasTypes": [
+                "transcendency",
+                "superiority",
+                "transcendence"
+            ],
+            "derivation": [
+                "dominate"
+            ]
+        },
+        {
+            "definition": "social control by dominating",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "social control"
+            ],
+            "hasTypes": [
+                "monopolization",
+                "subordination",
+                "bossism",
+                "mastery",
+                "monopolisation"
+            ],
+            "derivation": [
+                "dominate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dom",
+            "i",
+            "na",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u0251m\u0259'ne\u026a\u0283\u0259n"
+    },
+    "frequency": 3.42
+}

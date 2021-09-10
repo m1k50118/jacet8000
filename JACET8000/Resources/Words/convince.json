@@ -1,0 +1,36 @@
+{
+    "word": "convince",
+    "results": [
+        {
+            "definition": "make (someone) agree, understand, or realize the truth or validity of something",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "convert",
+                "win over"
+            ],
+            "typeOf": [
+                "persuade"
+            ],
+            "hasTypes": [
+                "disarm"
+            ],
+            "derivation": [
+                "convincible"
+            ],
+            "examples": [
+                "He had finally convinced several customers of the advantages of his product"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "con",
+            "vince"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n'v\u026ans"
+    },
+    "frequency": 4.29
+}

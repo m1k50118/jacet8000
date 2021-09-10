@@ -1,0 +1,39 @@
+{
+    "word": "intersect",
+    "results": [
+        {
+            "definition": "meet at a point",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "cross"
+            ],
+            "typeOf": [
+                "meet",
+                "see",
+                "encounter",
+                "come across",
+                "run across",
+                "run into"
+            ],
+            "hasTypes": [
+                "cross"
+            ],
+            "derivation": [
+                "intersectant",
+                "intersection"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "in",
+            "ter",
+            "sect"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u026ant\u0259r's\u025bkt"
+    },
+    "frequency": 2.94
+}

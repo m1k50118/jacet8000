@@ -1,0 +1,32 @@
+{
+    "word": "belonging",
+    "results": [
+        {
+            "definition": "happiness felt in a secure relationship",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "happiness"
+            ],
+            "hasTypes": [
+                "closeness",
+                "comfortableness",
+                "intimacy"
+            ],
+            "examples": [
+                "with his classmates he felt a sense of belonging"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "be",
+            "long",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "b\u026a'l\u0254\u014b\u026a\u014b"
+    },
+    "frequency": 3.45
+}

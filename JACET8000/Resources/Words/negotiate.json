@@ -1,0 +1,62 @@
+{
+    "word": "negotiate",
+    "results": [
+        {
+            "definition": "succeed in passing through, around, or over",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "negociate"
+            ],
+            "typeOf": [
+                "pass"
+            ]
+        },
+        {
+            "definition": "discuss the terms of an arrangement",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "negociate",
+                "talk terms"
+            ],
+            "typeOf": [
+                "talk over",
+                "discuss",
+                "hash out"
+            ],
+            "hasTypes": [
+                "dicker",
+                "intercede",
+                "arbitrate",
+                "liaise",
+                "mediate",
+                "renegociate",
+                "renegotiate",
+                "intermediate",
+                "bargain",
+                "broker"
+            ],
+            "derivation": [
+                "negotiable",
+                "negotiant",
+                "negotiation",
+                "negotiator"
+            ],
+            "examples": [
+                "They negotiated the sale of the house"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ne",
+            "go",
+            "ti",
+            "ate"
+        ]
+    },
+    "pronunciation": {
+        "all": "n\u026a'\u0261o\u028a\u0283\u026a,e\u026at"
+    },
+    "frequency": 3.9
+}

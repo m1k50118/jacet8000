@@ -1,0 +1,45 @@
+{
+    "word": "december",
+    "results": [
+        {
+            "definition": "the last (12th) month of the year",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dec"
+            ],
+            "typeOf": [
+                "gregorian calendar month"
+            ],
+            "hasParts": [
+                "christmas",
+                "christmas day",
+                "christmastide",
+                "christmastime",
+                "dec 25",
+                "december 31",
+                "yuletide",
+                "yule",
+                "mid-december",
+                "new year's eve",
+                "noel",
+                "xmas"
+            ],
+            "partOf": [
+                "gregorian calendar",
+                "new style calendar"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "de",
+            "cem",
+            "ber"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a's\u025bmb\u0259r"
+    },
+    "frequency": 4.11
+}

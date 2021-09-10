@@ -1,0 +1,31 @@
+{
+    "word": "hepatitis",
+    "results": [
+        {
+            "definition": "inflammation of the liver caused by a virus or a toxin",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "infectious disease",
+                "liver disease"
+            ],
+            "hasTypes": [
+                "delta hepatitis",
+                "hepatitis delta",
+                "viral hepatitis"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "hep",
+            "a",
+            "ti",
+            "tis"
+        ]
+    },
+    "pronunciation": {
+        "all": ",h\u025bp\u0259'ta\u026at\u026as"
+    },
+    "frequency": 3.14
+}

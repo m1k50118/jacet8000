@@ -1,0 +1,20 @@
+{
+    "word": "healthcare",
+    "results": [
+        {
+            "definition": "the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "health care"
+            ],
+            "typeOf": [
+                "aid",
+                "attention",
+                "care",
+                "tending"
+            ]
+        }
+    ],
+    "pronunciation": "'h\u025bl\u03b8,k\u025br",
+    "frequency": 2.96
+}

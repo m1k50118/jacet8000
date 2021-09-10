@@ -1,0 +1,46 @@
+{
+    "word": "tournament",
+    "results": [
+        {
+            "definition": "a sporting competition in which contestants play a series of games to decide the winner",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "tourney"
+            ],
+            "typeOf": [
+                "competition",
+                "contest"
+            ],
+            "hasTypes": [
+                "elimination tournament",
+                "open",
+                "round robin",
+                "world cup"
+            ]
+        },
+        {
+            "definition": "a series of jousts between knights contesting for a prize",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "contest",
+                "competition"
+            ],
+            "hasParts": [
+                "joust",
+                "tilt"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "tour",
+            "na",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "'t\u028arn\u0259m\u0259nt"
+    },
+    "frequency": 3.94
+}

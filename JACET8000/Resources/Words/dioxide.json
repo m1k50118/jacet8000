@@ -1,0 +1,33 @@
+{
+    "word": "dioxide",
+    "results": [
+        {
+            "definition": "an oxide containing two atoms of oxygen in the molecule",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "oxide"
+            ],
+            "hasTypes": [
+                "carbonic acid gas",
+                "chlorine dioxide",
+                "co2",
+                "nitrogen dioxide",
+                "sulfur dioxide",
+                "carbon dioxide",
+                "sulphur dioxide"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "di",
+            "ox",
+            "ide"
+        ]
+    },
+    "pronunciation": {
+        "all": "da\u026a'\u0251ksa\u026ad"
+    },
+    "frequency": 3.44
+}

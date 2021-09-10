@@ -1,0 +1,44 @@
+{
+    "word": "observatory",
+    "results": [
+        {
+            "definition": "a structure commanding a wide view of its surroundings",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "lookout",
+                "lookout station",
+                "observation tower"
+            ],
+            "typeOf": [
+                "construction",
+                "structure"
+            ],
+            "hasTypes": [
+                "observation dome",
+                "widow's walk"
+            ]
+        },
+        {
+            "definition": "a building designed and equipped to observe astronomical phenomena",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "building",
+                "edifice"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ob",
+            "ser",
+            "va",
+            "to",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259b'z\u025crv\u0259,to\u028ari"
+    },
+    "frequency": 3.2
+}

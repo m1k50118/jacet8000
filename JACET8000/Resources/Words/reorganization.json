@@ -1,0 +1,54 @@
+{
+    "word": "reorganization",
+    "results": [
+        {
+            "definition": "the imposition of a new organization; organizing differently (often involving extensive and drastic changes)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "reorganisation",
+                "shake-up",
+                "shakeup"
+            ],
+            "typeOf": [
+                "organisation",
+                "organization"
+            ],
+            "derivation": [
+                "reorganize"
+            ],
+            "examples": [
+                "a committee was appointed to oversee the reorganization of the curriculum"
+            ]
+        },
+        {
+            "definition": "an extensive alteration of the structure of a corporation or government",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "alteration",
+                "revision"
+            ],
+            "derivation": [
+                "reorganize"
+            ],
+            "examples": [
+                "after the takeover there was a thorough reorganization",
+                "the reorganization was prescribed by federal bankruptcy laws"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 6,
+        "list": [
+            "re",
+            "or",
+            "gan",
+            "i",
+            "za",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",ri\u0254rg\u0259n\u026a'ze\u026a\u0283\u0259n"
+    },
+    "frequency": 2.33
+}

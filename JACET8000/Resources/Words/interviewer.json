@@ -1,0 +1,32 @@
+{
+    "word": "interviewer",
+    "results": [
+        {
+            "definition": "a person who conducts an interview",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "asker",
+                "enquirer",
+                "inquirer",
+                "querier",
+                "questioner"
+            ],
+            "derivation": [
+                "interview"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "in",
+            "ter",
+            "view",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u026ant\u0259r,vju\u0259r"
+    },
+    "frequency": 3.1
+}

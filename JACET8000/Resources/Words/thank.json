@@ -1,0 +1,30 @@
+{
+    "word": "thank",
+    "results": [
+        {
+            "definition": "express gratitude or show appreciation to",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "give thanks"
+            ],
+            "typeOf": [
+                "convey"
+            ],
+            "hasTypes": [
+                "acknowledge",
+                "recognise",
+                "recognize"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "thank"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u03b8\u00e6\u014bk"
+    },
+    "frequency": 5.99
+}

@@ -1,0 +1,34 @@
+{
+    "word": "tourism",
+    "results": [
+        {
+            "definition": "the business of providing services to tourists",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "touristry"
+            ],
+            "typeOf": [
+                "business",
+                "business enterprise",
+                "commercial enterprise"
+            ],
+            "hasTypes": [
+                "ecotourism"
+            ],
+            "derivation": [
+                "tourist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "tour",
+            "ism"
+        ]
+    },
+    "pronunciation": {
+        "all": "'t\u028ar\u026az\u0259m"
+    },
+    "frequency": 3.3
+}

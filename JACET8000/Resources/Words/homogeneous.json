@@ -1,0 +1,52 @@
+{
+    "word": "homogeneous",
+    "results": [
+        {
+            "definition": "all of the same or similar kind or nature",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "homogenous"
+            ],
+            "also": [
+                "uniform",
+                "undiversified",
+                "same",
+                "unvarying"
+            ],
+            "similarTo": [
+                "self-coloured",
+                "consistent",
+                "solid",
+                "uniform",
+                "homogenised",
+                "homogenized",
+                "self-colored"
+            ],
+            "antonyms": [
+                "heterogeneous"
+            ],
+            "derivation": [
+                "homogeneity",
+                "homogeneousness",
+                "homogeny"
+            ],
+            "examples": [
+                "a close-knit homogeneous group"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ho",
+            "mo",
+            "ge",
+            "ne",
+            "ous"
+        ]
+    },
+    "pronunciation": {
+        "all": ",ho\u028am\u0259'd\u0292ini\u0259s"
+    },
+    "frequency": 2.03
+}

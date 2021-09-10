@@ -1,0 +1,31 @@
+{
+    "word": "shareholder",
+    "results": [
+        {
+            "definition": "someone who holds shares of stock in a corporation",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "shareowner",
+                "stockholder"
+            ],
+            "typeOf": [
+                "investor"
+            ],
+            "hasTypes": [
+                "stockholder of record"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "share",
+            "hold",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0283\u025c,ho\u028ald\u0259r"
+    },
+    "frequency": 2.87
+}

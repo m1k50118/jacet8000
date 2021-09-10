@@ -1,0 +1,36 @@
+{
+    "word": "thou",
+    "results": [
+        {
+            "definition": "the cardinal number that is the product of 10 and 100",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "1000",
+                "chiliad",
+                "g",
+                "grand",
+                "k",
+                "m",
+                "one thousand",
+                "thousand",
+                "yard"
+            ],
+            "typeOf": [
+                "large integer"
+            ],
+            "hasTypes": [
+                "millenary"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "thou"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u00f0a\u028a"
+    },
+    "frequency": 4.28
+}

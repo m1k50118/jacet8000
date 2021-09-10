@@ -1,0 +1,39 @@
+{
+    "word": "interactive",
+    "results": [
+        {
+            "definition": "capable of acting on or influencing each other",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "interactional"
+            ],
+            "similarTo": [
+                "mutual",
+                "reciprocal"
+            ],
+            "derivation": [
+                "interact"
+            ]
+        },
+        {
+            "definition": "used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "synergistic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "in",
+            "ter",
+            "ac",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u026ant\u0259r'\u00e6kt\u026av"
+    },
+    "frequency": 2.78
+}

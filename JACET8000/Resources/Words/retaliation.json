@@ -1,0 +1,40 @@
+{
+    "word": "retaliation",
+    "results": [
+        {
+            "definition": "action taken in return for an injury or offense",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "revenge"
+            ],
+            "typeOf": [
+                "paying back",
+                "return",
+                "getting even"
+            ],
+            "hasTypes": [
+                "vengeance",
+                "reprisal",
+                "payback",
+                "retribution"
+            ],
+            "derivation": [
+                "retaliate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "re",
+            "tal",
+            "i",
+            "a",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a,t\u00e6li'e\u026a\u0283\u0259n"
+    },
+    "frequency": 3.15
+}

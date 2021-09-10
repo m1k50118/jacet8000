@@ -1,0 +1,35 @@
+{
+    "word": "cumulative",
+    "results": [
+        {
+            "definition": "increasing by successive addition",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "accumulative"
+            ],
+            "similarTo": [
+                "additive"
+            ],
+            "derivation": [
+                "cumulate"
+            ],
+            "examples": [
+                "the benefits are cumulative",
+                "the eventual accumulative effect of these substances"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cu",
+            "mu",
+            "la",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "'kjumj\u0259,le\u026at\u026av"
+    },
+    "frequency": 2.4
+}

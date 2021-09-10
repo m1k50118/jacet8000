@@ -1,0 +1,31 @@
+{
+    "word": "drainage",
+    "results": [
+        {
+            "definition": "emptying something accomplished by allowing liquid to run out of it",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "drain"
+            ],
+            "typeOf": [
+                "emptying",
+                "evacuation",
+                "voidance"
+            ],
+            "derivation": [
+                "drain"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "drain",
+            "age"
+        ]
+    },
+    "pronunciation": {
+        "all": "'dre\u026an\u026ad\u0292"
+    },
+    "frequency": 3.06
+}

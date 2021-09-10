@@ -1,0 +1,47 @@
+{
+    "word": "gunman",
+    "results": [
+        {
+            "definition": "a person who shoots a gun (as regards their ability)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "gun"
+            ],
+            "typeOf": [
+                "shooter",
+                "shot"
+            ]
+        },
+        {
+            "definition": "a professional killer who uses a gun",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "gun",
+                "gun for hire",
+                "gunslinger",
+                "hired gun",
+                "hit man",
+                "hitman",
+                "shooter",
+                "torpedo",
+                "triggerman"
+            ],
+            "typeOf": [
+                "liquidator",
+                "manslayer",
+                "murderer"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "gun",
+            "man"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0261\u0259nm\u0259n"
+    },
+    "frequency": 3.18
+}

@@ -1,0 +1,26 @@
+{
+    "word": "cottage",
+    "results": [
+        {
+            "definition": "a small house with a single story",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bungalow"
+            ],
+            "typeOf": [
+                "house"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "cot",
+            "tage"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0251t\u026ad\u0292"
+    },
+    "frequency": 3.73
+}

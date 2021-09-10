@@ -1,0 +1,34 @@
+{
+    "word": "usually",
+    "results": [
+        {
+            "definition": "under normal conditions",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "commonly",
+                "normally",
+                "ordinarily",
+                "unremarkably"
+            ],
+            "pertainsTo": [
+                "usual"
+            ],
+            "examples": [
+                "usually she was late"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "u",
+            "su",
+            "al",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ju\u0292u\u0259li"
+    },
+    "frequency": 4.78
+}

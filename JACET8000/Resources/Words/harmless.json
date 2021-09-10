@@ -1,0 +1,40 @@
+{
+    "word": "harmless",
+    "results": [
+        {
+            "definition": "not causing or capable of causing harm",
+            "partOfSpeech": "adjective",
+            "also": [
+                "safe",
+                "benign",
+                "benignant",
+                "painless",
+                "atoxic",
+                "innocuous",
+                "nontoxic"
+            ],
+            "similarTo": [
+                "innocent",
+                "innocuous"
+            ],
+            "antonyms": [
+                "harmful"
+            ],
+            "examples": [
+                "harmless bacteria",
+                "rendered the bomb harmless"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "harm",
+            "less"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u0251rml\u026as"
+    },
+    "frequency": 3.83
+}

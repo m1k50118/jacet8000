@@ -1,0 +1,48 @@
+{
+    "word": "controversy",
+    "results": [
+        {
+            "definition": "a contentious speech act; a dispute where there is strong disagreement",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "arguing",
+                "argument",
+                "contention",
+                "contestation",
+                "disceptation",
+                "disputation",
+                "tilt"
+            ],
+            "typeOf": [
+                "conflict",
+                "difference",
+                "difference of opinion",
+                "dispute"
+            ],
+            "hasTypes": [
+                "polemic",
+                "argle-bargle",
+                "sparring",
+                "argy-bargy",
+                "fight",
+                "firestorm"
+            ],
+            "derivation": [
+                "controversial"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "tro",
+            "ver",
+            "sy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0251ntr\u0259,v\u025crsi"
+    },
+    "frequency": 3.29
+}

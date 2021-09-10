@@ -1,0 +1,38 @@
+{
+    "word": "after",
+    "results": [
+        {
+            "definition": "happening at a time subsequent to a reference time",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "afterward",
+                "afterwards",
+                "later",
+                "later on",
+                "subsequently"
+            ],
+            "examples": [
+                "it didn't happen until afterward",
+                "two hours after that"
+            ]
+        },
+        {
+            "definition": "located farther aft",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "aft"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "af",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u00e6ft\u0259r"
+    },
+    "frequency": 5.88
+}

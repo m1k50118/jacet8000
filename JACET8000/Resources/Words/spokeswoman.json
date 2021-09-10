@@ -1,0 +1,27 @@
+{
+    "word": "spokeswoman",
+    "results": [
+        {
+            "definition": "a female spokesperson",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "interpreter",
+                "representative",
+                "spokesperson",
+                "voice"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "spokes",
+            "wom",
+            "an"
+        ]
+    },
+    "pronunciation": {
+        "all": "'spo\u028aks,w\u028am\u0259n"
+    },
+    "frequency": 2.12
+}

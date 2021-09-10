@@ -1,0 +1,36 @@
+{
+    "word": "momentarily",
+    "results": [
+        {
+            "definition": "at any moment",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "momently"
+            ]
+        },
+        {
+            "definition": "for an instant or moment",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "momently"
+            ],
+            "examples": [
+                "we paused momentarily before proceeding"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "mo",
+            "men",
+            "tar",
+            "i",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'mo\u028am\u0259n't\u025cr\u0259li"
+    },
+    "frequency": 3.12
+}

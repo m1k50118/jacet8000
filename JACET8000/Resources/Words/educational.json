@@ -1,0 +1,46 @@
+{
+    "word": "educational",
+    "results": [
+        {
+            "definition": "providing knowledge",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "informative",
+                "instructive"
+            ],
+            "derivation": [
+                "education"
+            ],
+            "examples": [
+                "an educational film"
+            ]
+        },
+        {
+            "definition": "relating to the process of education",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "education"
+            ],
+            "derivation": [
+                "education"
+            ],
+            "examples": [
+                "educational psychology"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ed",
+            "u",
+            "ca",
+            "tion",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u025bd\u0292\u028a'ke\u026a\u0283\u0259n\u0259l"
+    },
+    "frequency": 3.53
+}

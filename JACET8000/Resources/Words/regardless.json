@@ -1,0 +1,44 @@
+{
+    "word": "regardless",
+    "results": [
+        {
+            "definition": "in spite of everything; without regard to drawbacks",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "disregarding",
+                "disregardless",
+                "irrespective",
+                "no matter"
+            ],
+            "examples": [
+                "he carried on regardless of the difficulties"
+            ]
+        },
+        {
+            "definition": "(usually followed by `of') without due thought or consideration",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "careless"
+            ],
+            "similarTo": [
+                "heedless",
+                "unheeding"
+            ],
+            "examples": [
+                "crushing the blooms with regardless tread"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "gard",
+            "less"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'\u0261\u0251rdl\u026as"
+    },
+    "frequency": 3.74
+}

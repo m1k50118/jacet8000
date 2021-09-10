@@ -1,0 +1,40 @@
+{
+    "word": "recognizable",
+    "results": [
+        {
+            "definition": "capable of being recognized",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "placeable",
+                "recognisable"
+            ],
+            "similarTo": [
+                "identifiable"
+            ]
+        },
+        {
+            "definition": "easily perceived; easy to become aware of",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "perceptible"
+            ],
+            "examples": [
+                "this situation produces recognizable stress symptoms"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "rec",
+            "og",
+            "niz",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025bk\u0259\u0261,na\u026az\u0259b\u0259l"
+    },
+    "frequency": 2.87
+}

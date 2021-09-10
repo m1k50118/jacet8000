@@ -1,0 +1,61 @@
+{
+    "word": "impatience",
+    "results": [
+        {
+            "definition": "a lack of patience; irritation with anything that causes delay",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "restlessness"
+            ],
+            "typeOf": [
+                "vexation",
+                "botheration",
+                "irritation",
+                "annoyance"
+            ],
+            "derivation": [
+                "impatient"
+            ]
+        },
+        {
+            "definition": "a dislike of anything that causes delay",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "ill nature"
+            ],
+            "hasTypes": [
+                "intolerance"
+            ],
+            "antonyms": [
+                "patience"
+            ],
+            "derivation": [
+                "impatient"
+            ]
+        },
+        {
+            "definition": "a restless desire for change and excitement",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "restlessness",
+                "fidgetiness",
+                "fidget"
+            ],
+            "derivation": [
+                "impatient"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "im",
+            "pa",
+            "tience"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026am'pe\u026a\u0283\u0259ns"
+    },
+    "frequency": 2.89
+}

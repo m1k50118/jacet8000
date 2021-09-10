@@ -1,0 +1,32 @@
+{
+    "word": "nostalgia",
+    "results": [
+        {
+            "definition": "longing for something past",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "hungriness",
+                "longing",
+                "yearning"
+            ],
+            "hasTypes": [
+                "homesickness"
+            ],
+            "derivation": [
+                "nostalgic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "nos",
+            "tal",
+            "gia"
+        ]
+    },
+    "pronunciation": {
+        "all": "n\u0251'st\u00e6ld\u0292i\u0259"
+    },
+    "frequency": 3.2
+}

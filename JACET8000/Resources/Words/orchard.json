@@ -1,0 +1,34 @@
+{
+    "word": "orchard",
+    "results": [
+        {
+            "definition": "garden consisting of a small cultivated wood without undergrowth",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "grove",
+                "plantation",
+                "woodlet"
+            ],
+            "typeOf": [
+                "garden"
+            ],
+            "hasTypes": [
+                "apple orchard",
+                "lemon grove",
+                "orange grove",
+                "peach orchard"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "or",
+            "chard"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0254r\u02a7\u0259rd"
+    },
+    "frequency": 3.21
+}

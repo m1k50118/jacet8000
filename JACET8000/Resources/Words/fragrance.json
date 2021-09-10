@@ -1,0 +1,59 @@
+{
+    "word": "fragrance",
+    "results": [
+        {
+            "definition": "a pleasingly sweet olfactory property",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bouquet",
+                "fragrancy",
+                "redolence",
+                "sweetness"
+            ],
+            "typeOf": [
+                "smell",
+                "odor",
+                "odour",
+                "olfactory property",
+                "scent",
+                "aroma"
+            ],
+            "derivation": [
+                "fragrant"
+            ]
+        },
+        {
+            "definition": "a distinctive odor that is pleasant",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "aroma",
+                "perfume",
+                "scent"
+            ],
+            "typeOf": [
+                "olfactory perception",
+                "odor",
+                "olfactory sensation",
+                "odour",
+                "smell"
+            ],
+            "hasTypes": [
+                "incense"
+            ],
+            "derivation": [
+                "fragrant"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fra",
+            "grance"
+        ]
+    },
+    "pronunciation": {
+        "all": "'fre\u026agr\u0259ns"
+    },
+    "frequency": 3.71
+}

@@ -1,0 +1,27 @@
+{
+    "word": "fingertip",
+    "results": [
+        {
+            "definition": "the end (tip) of a finger",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "tip"
+            ],
+            "partOf": [
+                "finger"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "fin",
+            "ger",
+            "tip"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u026a\u014b\u0261\u0259r,t\u026ap"
+    },
+    "frequency": 2.3
+}

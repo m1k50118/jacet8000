@@ -1,0 +1,36 @@
+{
+    "word": "width",
+    "results": [
+        {
+            "definition": "the extent of something from side to side",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "breadth"
+            ],
+            "attribute": [
+                "broad",
+                "narrow",
+                "wide"
+            ],
+            "typeOf": [
+                "dimension"
+            ],
+            "hasTypes": [
+                "wideness",
+                "broadness",
+                "narrowness",
+                "beam"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "width"
+        ]
+    },
+    "pronunciation": {
+        "all": "w\u026ad\u03b8"
+    },
+    "frequency": 3.16
+}

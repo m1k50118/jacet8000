@@ -1,0 +1,39 @@
+{
+    "word": "basement",
+    "results": [
+        {
+            "definition": "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "cellar"
+            ],
+            "typeOf": [
+                "floor",
+                "level",
+                "storey",
+                "story"
+            ],
+            "hasTypes": [
+                "cellarage"
+            ]
+        },
+        {
+            "definition": "the ground floor facade or interior in Renaissance architecture",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "support"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "base",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "'be\u026asm\u0259nt"
+    },
+    "frequency": 4.29
+}

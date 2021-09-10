@@ -1,0 +1,40 @@
+{
+    "word": "significantly",
+    "results": [
+        {
+            "definition": "in an important way or to an important degree",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "importantly"
+            ],
+            "pertainsTo": [
+                "significant"
+            ]
+        },
+        {
+            "definition": "in a significant manner",
+            "partOfSpeech": null,
+            "antonyms": [
+                "insignificantly"
+            ],
+            "pertainsTo": [
+                "significant"
+            ],
+            "examples": [
+                "our budget will be significantly affected by these new cuts"
+            ]
+        },
+        {
+            "definition": "in a statistically significant way",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "significant"
+            ],
+            "examples": [
+                "the two groups differed significantly"
+            ]
+        }
+    ],
+    "pronunciation": "s\u026a\u0261'n\u026af\u026ak\u028cntli",
+    "frequency": 3.12
+}

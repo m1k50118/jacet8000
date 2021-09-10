@@ -1,0 +1,69 @@
+{
+    "word": "exciting",
+    "results": [
+        {
+            "definition": "creating or arousing excitement",
+            "partOfSpeech": "adjective",
+            "also": [
+                "interesting",
+                "provocative",
+                "sexy",
+                "stimulating"
+            ],
+            "attribute": [
+                "excitement",
+                "fervor",
+                "fervour",
+                "inflammation",
+                "excitation"
+            ],
+            "similarTo": [
+                "galvanizing",
+                "glamorous",
+                "glamourous",
+                "heady",
+                "intoxicating",
+                "thrilling",
+                "tickling",
+                "tingling",
+                "titillating",
+                "breathless",
+                "breathtaking",
+                "elating",
+                "electric",
+                "electrifying",
+                "exhilarating",
+                "galvanic",
+                "galvanising"
+            ],
+            "antonyms": [
+                "unexciting"
+            ],
+            "examples": [
+                "an exciting account of her trip"
+            ]
+        },
+        {
+            "definition": "stimulating interest and discussion",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "stimulating"
+            ],
+            "examples": [
+                "an exciting novel"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ex",
+            "cit",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026ak'sa\u026at\u026a\u014b"
+    },
+    "frequency": 4.48
+}

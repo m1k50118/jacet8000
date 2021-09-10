@@ -1,0 +1,46 @@
+{
+    "word": "distinctive",
+    "results": [
+        {
+            "definition": "capable of being classified",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "classifiable"
+            ],
+            "similarTo": [
+                "identifiable"
+            ],
+            "derivation": [
+                "distinctiveness"
+            ]
+        },
+        {
+            "definition": "of a feature that helps to distinguish a person or thing",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "typical"
+            ],
+            "similarTo": [
+                "characteristic"
+            ],
+            "derivation": [
+                "distinctiveness"
+            ],
+            "examples": [
+                "Jerusalem has a distinctive Middle East flavor"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "dis",
+            "tinc",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a'st\u026a\u014bkt\u026av"
+    },
+    "frequency": 3.25
+}

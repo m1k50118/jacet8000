@@ -1,0 +1,55 @@
+{
+    "word": "exacerbate",
+    "results": [
+        {
+            "definition": "exasperate or irritate",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "aggravate",
+                "exasperate"
+            ],
+            "typeOf": [
+                "anger"
+            ],
+            "derivation": [
+                "exacerbation"
+            ]
+        },
+        {
+            "definition": "make worse",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "aggravate",
+                "exasperate",
+                "worsen"
+            ],
+            "typeOf": [
+                "change",
+                "alter",
+                "modify"
+            ],
+            "hasTypes": [
+                "degrade",
+                "inflame",
+                "irritate",
+                "cheapen"
+            ],
+            "derivation": [
+                "exacerbation"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ex",
+            "ac",
+            "er",
+            "bate"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026a\u0261'z\u00e6s\u0259r,be\u026at"
+    },
+    "frequency": 2.43
+}

@@ -1,0 +1,40 @@
+{
+    "word": "globally",
+    "results": [
+        {
+            "definition": "throughout the world",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "internationally"
+            ],
+            "pertainsTo": [
+                "global"
+            ],
+            "examples": [
+                "this is globally significant"
+            ]
+        },
+        {
+            "definition": "with respect to the whole earth",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "global"
+            ],
+            "examples": [
+                "think globally, not locally"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "glob",
+            "al",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'glo\u028ab\u0259lli"
+    },
+    "frequency": 2.69
+}

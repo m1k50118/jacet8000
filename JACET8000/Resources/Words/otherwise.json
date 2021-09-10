@@ -1,0 +1,37 @@
+{
+    "word": "otherwise",
+    "results": [
+        {
+            "definition": "in another and different manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "differently"
+            ],
+            "examples": [
+                "she thought otherwise"
+            ]
+        },
+        {
+            "definition": "other than as supposed or expected",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "other"
+            ],
+            "examples": [
+                "the outcome was otherwise"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "oth",
+            "er",
+            "wise"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0259\u00f0\u0259r,wa\u026az"
+    },
+    "frequency": 4.82
+}

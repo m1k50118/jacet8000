@@ -1,0 +1,30 @@
+{
+    "word": "visibly",
+    "results": [
+        {
+            "definition": "in a visible manner",
+            "partOfSpeech": null,
+            "antonyms": [
+                "invisibly"
+            ],
+            "pertainsTo": [
+                "visible"
+            ],
+            "examples": [
+                "he was visibly upset"
+            ]
+        },
+        {
+            "definition": "so as to be visible",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "visible"
+            ],
+            "examples": [
+                "the sign was visibly displayed"
+            ]
+        }
+    ],
+    "pronunciation": "'v\u026az\u028cbli",
+    "frequency": 2.24
+}

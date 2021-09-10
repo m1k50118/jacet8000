@@ -1,0 +1,59 @@
+{
+    "word": "governor",
+    "results": [
+        {
+            "definition": "a control that maintains a steady speed in a machine (as by controlling the supply of fuel)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "regulator"
+            ],
+            "typeOf": [
+                "control",
+                "controller"
+            ],
+            "hasTypes": [
+                "flywheel",
+                "timer"
+            ],
+            "derivation": [
+                "govern"
+            ]
+        },
+        {
+            "definition": "the head of a state government",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "politician"
+            ],
+            "hasTypes": [
+                "nawab",
+                "proconsul",
+                "satrap",
+                "vicereine",
+                "bey",
+                "viceroy",
+                "eparch",
+                "governor general",
+                "military governor",
+                "nabob"
+            ],
+            "derivation": [
+                "govern",
+                "governorship",
+                "gubernatorial"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "gov",
+            "er",
+            "nor"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0261\u0259v\u0259rn\u0259r"
+    },
+    "frequency": 4.25
+}

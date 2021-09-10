@@ -1,0 +1,40 @@
+{
+    "word": "nominee",
+    "results": [
+        {
+            "definition": "a politician who is running for public office",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "campaigner",
+                "candidate"
+            ],
+            "typeOf": [
+                "political leader",
+                "politician",
+                "politico",
+                "pol"
+            ],
+            "hasTypes": [
+                "stalking-horse",
+                "write-in",
+                "dark horse",
+                "write-in candidate",
+                "favorite son",
+                "running mate",
+                "spoiler"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "nom",
+            "i",
+            "nee"
+        ]
+    },
+    "pronunciation": {
+        "all": ",n\u0251m\u0259'ni"
+    },
+    "frequency": 2.63
+}

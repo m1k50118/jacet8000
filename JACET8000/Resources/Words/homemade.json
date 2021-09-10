@@ -1,0 +1,33 @@
+{
+    "word": "homemade",
+    "results": [
+        {
+            "definition": "made or produced in the home or by yourself",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "do-it-yourself",
+                "home-baked",
+                "home-brewed",
+                "home-cured",
+                "homespun"
+            ],
+            "antonyms": [
+                "factory-made"
+            ],
+            "examples": [
+                "homemade bread"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "home",
+            "made"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ho\u028am'me\u026ad"
+    },
+    "frequency": 3.49
+}

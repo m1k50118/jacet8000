@@ -1,0 +1,41 @@
+{
+    "word": "dried",
+    "results": [
+        {
+            "definition": "preserved by removing natural moisture",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "dehydrated",
+                "desiccated"
+            ],
+            "similarTo": [
+                "preserved"
+            ],
+            "examples": [
+                "dried beef",
+                "dried fruit"
+            ]
+        },
+        {
+            "definition": "not still wet",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "dry"
+            ],
+            "examples": [
+                "the ink has dried",
+                "a face marked with dried tears"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "dried"
+        ]
+    },
+    "pronunciation": {
+        "all": "dra\u026ad"
+    },
+    "frequency": 3.91
+}

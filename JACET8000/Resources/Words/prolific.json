@@ -1,0 +1,45 @@
+{
+    "word": "prolific",
+    "results": [
+        {
+            "definition": "bearing in abundance especially offspring",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "fertile"
+            ],
+            "similarTo": [
+                "fruitful"
+            ],
+            "examples": [
+                "flying foxes are extremely prolific",
+                "a prolific pear tree"
+            ]
+        },
+        {
+            "definition": "intellectually productive",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "fecund",
+                "fertile"
+            ],
+            "similarTo": [
+                "productive"
+            ],
+            "examples": [
+                "a prolific writer"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pro",
+            "lif",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": "pro\u028a'l\u026af\u026ak"
+    },
+    "frequency": 2.57
+}

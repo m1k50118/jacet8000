@@ -1,0 +1,41 @@
+{
+    "word": "steadily",
+    "results": [
+        {
+            "definition": "in a steady manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "steady"
+            ],
+            "antonyms": [
+                "unsteadily"
+            ],
+            "pertainsTo": [
+                "steady"
+            ],
+            "examples": [
+                "he could still walk steadily"
+            ]
+        },
+        {
+            "definition": "at a steady rate or pace",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "steady"
+            ],
+            "examples": [
+                "his interest eroded steadily"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "stead",
+            "i",
+            "ly"
+        ]
+    },
+    "pronunciation": "'st\u025bd\u028cli",
+    "frequency": 3.07
+}

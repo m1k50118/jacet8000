@@ -1,0 +1,33 @@
+{
+    "word": "financial",
+    "results": [
+        {
+            "definition": "involving financial matters",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "fiscal"
+            ],
+            "antonyms": [
+                "nonfinancial"
+            ],
+            "pertainsTo": [
+                "finance"
+            ],
+            "derivation": [
+                "finance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "fi",
+            "nan",
+            "cial"
+        ]
+    },
+    "pronunciation": {
+        "all": "f\u026a'n\u00e6n\u0283\u0259l"
+    },
+    "frequency": 4.19
+}

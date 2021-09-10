@@ -1,0 +1,33 @@
+{
+    "word": "northwestern",
+    "results": [
+        {
+            "definition": "situated in or oriented toward the northwest",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "northwest",
+                "northwesterly"
+            ],
+            "similarTo": [
+                "north"
+            ]
+        },
+        {
+            "definition": "of a region of the United States generally including Washington; Oregon; Idaho; and sometimes Montana; Wyoming",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "western"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "north",
+            "west",
+            "ern"
+        ]
+    },
+    "pronunciation": ",n\u0254r\u03b8'w\u025bst\u025drn",
+    "frequency": 2.93
+}

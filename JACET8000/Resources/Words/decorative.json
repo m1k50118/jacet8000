@@ -1,0 +1,36 @@
+{
+    "word": "decorative",
+    "results": [
+        {
+            "definition": "serving an esthetic rather than a useful purpose",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "cosmetic",
+                "ornamental"
+            ],
+            "similarTo": [
+                "nonfunctional"
+            ],
+            "derivation": [
+                "decorate",
+                "decorativeness"
+            ],
+            "examples": [
+                "the buildings were utilitarian rather than decorative"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dec",
+            "o",
+            "ra",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u025bk\u0259r\u0259t\u026av"
+    },
+    "frequency": 2.84
+}

@@ -1,0 +1,31 @@
+{
+    "word": "cherish",
+    "results": [
+        {
+            "definition": "be fond of; be attached to",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "care for",
+                "hold dear",
+                "treasure"
+            ],
+            "typeOf": [
+                "love"
+            ],
+            "hasTypes": [
+                "yearn"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "cher",
+            "ish"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u02a7\u025br\u026a\u0283"
+    },
+    "frequency": 3.63
+}

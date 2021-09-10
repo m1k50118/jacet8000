@@ -1,0 +1,53 @@
+{
+    "word": "allergic",
+    "results": [
+        {
+            "definition": "having an allergy or peculiar or excessive susceptibility (especially to a specific factor)",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "hypersensitised",
+                "hypersensitive",
+                "hypersensitized",
+                "sensitised",
+                "sensitized",
+                "supersensitised",
+                "supersensitive",
+                "supersensitized"
+            ],
+            "similarTo": [
+                "susceptible"
+            ],
+            "derivation": [
+                "allergy"
+            ],
+            "examples": [
+                "allergic children"
+            ]
+        },
+        {
+            "definition": "characterized by or caused by allergy",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "allergy"
+            ],
+            "derivation": [
+                "allergy"
+            ],
+            "examples": [
+                "an allergic reaction"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "al",
+            "ler",
+            "gic"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'l\u025crd\u0292\u026ak"
+    },
+    "frequency": 3.9
+}

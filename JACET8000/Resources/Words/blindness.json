@@ -1,0 +1,39 @@
+{
+    "word": "blindness",
+    "results": [
+        {
+            "definition": "the state of being blind or lacking sight",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "cecity",
+                "sightlessness"
+            ],
+            "typeOf": [
+                "vision defect",
+                "visual defect",
+                "visual disorder",
+                "visual impairment"
+            ],
+            "hasTypes": [
+                "snow-blindness",
+                "anopia",
+                "snowblindness",
+                "eyelessness",
+                "figural blindness",
+                "legal blindness"
+            ],
+            "derivation": [
+                "blind"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "blind",
+            "ness"
+        ]
+    },
+    "pronunciation": "'bla\u026andn\u028cs",
+    "frequency": 3.21
+}

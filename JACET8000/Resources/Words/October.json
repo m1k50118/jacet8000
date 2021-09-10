@@ -1,0 +1,39 @@
+{
+    "word": "october",
+    "results": [
+        {
+            "definition": "the month following September and preceding November",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "oct"
+            ],
+            "typeOf": [
+                "gregorian calendar month"
+            ],
+            "hasParts": [
+                "discovery day",
+                "united nations day",
+                "october 24",
+                "columbus day",
+                "mid-october",
+                "october 12"
+            ],
+            "partOf": [
+                "gregorian calendar",
+                "new style calendar"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "oc",
+            "to",
+            "ber"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0251k'to\u028ab\u0259r"
+    },
+    "frequency": 4.11
+}

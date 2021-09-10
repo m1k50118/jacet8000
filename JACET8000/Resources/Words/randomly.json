@@ -1,0 +1,33 @@
+{
+    "word": "randomly",
+    "results": [
+        {
+            "definition": "in a random manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "arbitrarily",
+                "at random",
+                "every which way",
+                "haphazardly",
+                "indiscriminately",
+                "willy-nilly"
+            ],
+            "pertainsTo": [
+                "random"
+            ],
+            "examples": [
+                "the houses were randomly scattered"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ran",
+            "dom",
+            "ly"
+        ]
+    },
+    "pronunciation": "'r\u00e6nd\u028cmli",
+    "frequency": 3.21
+}

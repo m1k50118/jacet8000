@@ -1,0 +1,22 @@
+{
+    "word": "roadside",
+    "results": [
+        {
+            "definition": "edge of a way or road or path",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "wayside"
+            ],
+            "typeOf": [
+                "edge"
+            ],
+            "partOf": [
+                "way"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": "'ro\u028adsa\u026ad"
+    },
+    "frequency": 3.15
+}

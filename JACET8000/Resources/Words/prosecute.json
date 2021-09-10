@@ -1,0 +1,64 @@
+{
+    "word": "prosecute",
+    "results": [
+        {
+            "definition": "carry out or participate in an activity; be involved in",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "engage",
+                "pursue"
+            ],
+            "typeOf": [
+                "act",
+                "move"
+            ],
+            "hasTypes": [
+                "politick",
+                "practice",
+                "close",
+                "commit"
+            ],
+            "derivation": [
+                "prosecution"
+            ]
+        },
+        {
+            "definition": "conduct a prosecution in a court of law",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "move",
+                "act"
+            ],
+            "derivation": [
+                "prosecution",
+                "prosecutor"
+            ]
+        },
+        {
+            "definition": "bring a criminal action against (in a trial)",
+            "partOfSpeech": null,
+            "antonyms": [
+                "defend"
+            ],
+            "derivation": [
+                "prosecution",
+                "prosecutor"
+            ],
+            "examples": [
+                "The State of California prosecuted O.J. Simpson"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pros",
+            "e",
+            "cute"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pr\u0251s\u0259,kjut"
+    },
+    "frequency": 3.25
+}

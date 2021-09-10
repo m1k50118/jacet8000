@@ -1,0 +1,48 @@
+{
+    "word": "ancestor",
+    "results": [
+        {
+            "definition": "someone from whom you are descended (but usually more remote than a grandparent)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "antecedent",
+                "ascendant",
+                "ascendent",
+                "root"
+            ],
+            "typeOf": [
+                "relative",
+                "relation"
+            ],
+            "hasTypes": [
+                "forbear",
+                "forebear",
+                "forefather",
+                "foremother",
+                "primogenitor",
+                "progenitor",
+                "ancestress",
+                "sire",
+                "father"
+            ],
+            "antonyms": [
+                "descendant"
+            ],
+            "derivation": [
+                "ancestral"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "an",
+            "ces",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u00e6ns\u025bst\u0259r"
+    },
+    "frequency": 3.45
+}

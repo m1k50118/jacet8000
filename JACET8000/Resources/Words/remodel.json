@@ -1,0 +1,47 @@
+{
+    "word": "remodel",
+    "results": [
+        {
+            "definition": "cast or model anew",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "recast",
+                "reforge"
+            ],
+            "typeOf": [
+                "redo",
+                "refashion",
+                "remake",
+                "make over"
+            ]
+        },
+        {
+            "definition": "do over, as of (part of) a house",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "reconstruct",
+                "redo"
+            ],
+            "typeOf": [
+                "modify",
+                "change",
+                "alter"
+            ],
+            "examples": [
+                "We are remodeling these rooms"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "mod",
+            "el"
+        ]
+    },
+    "pronunciation": {
+        "all": "ri'm\u0251d\u0259l"
+    },
+    "frequency": 2.57
+}

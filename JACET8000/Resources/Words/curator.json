@@ -1,0 +1,33 @@
+{
+    "word": "curator",
+    "results": [
+        {
+            "definition": "the custodian of a collection (as a museum or library)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "conservator"
+            ],
+            "typeOf": [
+                "custodian",
+                "keeper",
+                "steward"
+            ],
+            "derivation": [
+                "curatorial",
+                "curatorship"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "cu",
+            "ra",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "kj\u028a're\u026at\u0259r"
+    },
+    "frequency": 3.15
+}

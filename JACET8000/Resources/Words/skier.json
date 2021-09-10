@@ -1,0 +1,24 @@
+{
+    "word": "skier",
+    "results": [
+        {
+            "definition": "someone who skis",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "athlete",
+                "jock"
+            ],
+            "hasTypes": [
+                "langlaufer",
+                "ski jumper"
+            ],
+            "derivation": [
+                "ski"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": "'ski\u0259r"
+    },
+    "frequency": 2.87
+}

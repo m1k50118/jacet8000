@@ -1,0 +1,23 @@
+{
+    "word": "detainee",
+    "results": [
+        {
+            "definition": "some held in custody",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "political detainee"
+            ],
+            "typeOf": [
+                "captive",
+                "prisoner"
+            ],
+            "derivation": [
+                "detain"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": ",dite\u026a'ni"
+    },
+    "frequency": 2.7
+}

@@ -1,0 +1,37 @@
+{
+    "word": "random",
+    "results": [
+        {
+            "definition": "lacking any definite plan or order or purpose; governed by or depending on chance",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "ergodic",
+                "haphazard",
+                "hit-or-miss",
+                "stochastic"
+            ],
+            "antonyms": [
+                "nonrandom"
+            ],
+            "derivation": [
+                "randomness"
+            ],
+            "examples": [
+                "a random choice",
+                "bombs fell at random",
+                "random movements"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ran",
+            "dom"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u00e6nd\u0259m"
+    },
+    "frequency": 4.03
+}

@@ -1,0 +1,47 @@
+{
+    "word": "projector",
+    "results": [
+        {
+            "definition": "an optical device for projecting a beam of light",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "optical device"
+            ],
+            "derivation": [
+                "projectionist"
+            ]
+        },
+        {
+            "definition": "an optical instrument that projects an enlarged image onto a screen",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "optical instrument"
+            ],
+            "hasTypes": [
+                "film projector",
+                "front projector",
+                "movie projector",
+                "overhead projector",
+                "cine projector",
+                "slide projector",
+                "epidiascope"
+            ],
+            "derivation": [
+                "project",
+                "projectionist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pro",
+            "jec",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "pr\u0259'd\u0292\u025bkt\u0259r"
+    },
+    "frequency": 3.26
+}

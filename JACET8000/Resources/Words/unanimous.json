@@ -1,0 +1,49 @@
+{
+    "word": "unanimous",
+    "results": [
+        {
+            "definition": "in complete agreement",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "consentaneous",
+                "consentient"
+            ],
+            "similarTo": [
+                "accordant"
+            ],
+            "derivation": [
+                "unanimity"
+            ],
+            "examples": [
+                "a unanimous decision"
+            ]
+        },
+        {
+            "definition": "acting together as a single undiversified whole",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "solid",
+                "whole"
+            ],
+            "similarTo": [
+                "undiversified"
+            ],
+            "derivation": [
+                "unanimity"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "u",
+            "nan",
+            "i",
+            "mous"
+        ]
+    },
+    "pronunciation": {
+        "all": "ju'n\u00e6n\u0259m\u0259s"
+    },
+    "frequency": 3.26
+}

@@ -1,0 +1,41 @@
+{
+    "word": "sincerely",
+    "results": [
+        {
+            "definition": "written formula for ending a letter",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "sincerely yours"
+            ]
+        },
+        {
+            "definition": "with sincerity; without pretense",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "truly",
+                "unfeignedly"
+            ],
+            "antonyms": [
+                "insincerely"
+            ],
+            "pertainsTo": [
+                "sincere"
+            ],
+            "examples": [
+                "she praised him sincerely for his victory"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "sin",
+            "cere",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "s\u026an'si\u0259li"
+    },
+    "frequency": 3.71
+}

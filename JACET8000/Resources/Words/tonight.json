@@ -1,0 +1,35 @@
+{
+    "word": "tonight",
+    "results": [
+        {
+            "definition": "during the night of the present day",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "this evening",
+                "this night"
+            ],
+            "examples": [
+                "drop by tonight"
+            ]
+        },
+        {
+            "definition": "the present or immediately coming night",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "nowadays",
+                "present"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "to",
+            "night"
+        ]
+    },
+    "pronunciation": {
+        "all": "t\u0259'na\u026at"
+    },
+    "frequency": 5.48
+}

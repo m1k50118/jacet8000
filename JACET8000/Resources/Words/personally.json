@@ -1,0 +1,54 @@
+{
+    "word": "personally",
+    "results": [
+        {
+            "definition": "in the flesh; without involving anyone else",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "in person"
+            ],
+            "pertainsTo": [
+                "personal"
+            ],
+            "examples": [
+                "I went there personally"
+            ]
+        },
+        {
+            "definition": "in a personal way",
+            "partOfSpeech": null,
+            "antonyms": [
+                "impersonally"
+            ],
+            "pertainsTo": [
+                "personal"
+            ],
+            "examples": [
+                "he took her comments personally"
+            ]
+        },
+        {
+            "definition": "as a person",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "personal"
+            ],
+            "examples": [
+                "he is personally repulsive"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "per",
+            "son",
+            "al",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u025crs\u0259n\u0259li"
+    },
+    "frequency": 4.48
+}

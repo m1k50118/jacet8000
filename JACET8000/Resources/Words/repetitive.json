@@ -1,0 +1,53 @@
+{
+    "word": "repetitive",
+    "results": [
+        {
+            "definition": "repetitive and persistent",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "insistent"
+            ],
+            "similarTo": [
+                "continual"
+            ],
+            "derivation": [
+                "repeat",
+                "repetitiveness"
+            ]
+        },
+        {
+            "definition": "characterized by repetition",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "repetitious"
+            ],
+            "similarTo": [
+                "iterative",
+                "reiterative"
+            ],
+            "antonyms": [
+                "nonrepetitive"
+            ],
+            "derivation": [
+                "repeat",
+                "repetitiveness"
+            ],
+            "examples": [
+                "repetitive movement"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "re",
+            "pet",
+            "i",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'p\u025bt\u026at\u026av"
+    },
+    "frequency": 2.73
+}

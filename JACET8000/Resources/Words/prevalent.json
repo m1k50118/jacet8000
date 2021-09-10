@@ -1,0 +1,34 @@
+{
+    "word": "prevalent",
+    "results": [
+        {
+            "definition": "most frequent or common",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "dominant",
+                "predominant",
+                "prevailing",
+                "rife"
+            ],
+            "similarTo": [
+                "frequent"
+            ],
+            "derivation": [
+                "prevail",
+                "prevalence"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "prev",
+            "a",
+            "lent"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pr\u025bv\u0259l\u0259nt"
+    },
+    "frequency": 2.59
+}

@@ -1,0 +1,37 @@
+{
+    "word": "pesticide",
+    "results": [
+        {
+            "definition": "a chemical used to kill pests (as rodents or insects)",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "chemical substance",
+                "chemical"
+            ],
+            "hasTypes": [
+                "arsenical",
+                "insect powder",
+                "insecticide",
+                "pediculicide",
+                "phosphine",
+                "scabicide",
+                "sheep dip",
+                "acaracide",
+                "spray",
+                "acaricide"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pes",
+            "ti",
+            "cide"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u025bst\u026a,sa\u026ad"
+    },
+    "frequency": 3.05
+}

@@ -1,0 +1,34 @@
+{
+    "word": "clubhouse",
+    "results": [
+        {
+            "definition": "a building that is occupied by a social club",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "club"
+            ],
+            "typeOf": [
+                "building",
+                "edifice"
+            ],
+            "hasParts": [
+                "clubroom",
+                "reading room"
+            ],
+            "examples": [
+                "the clubhouse needed a new roof"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "club",
+            "house"
+        ]
+    },
+    "pronunciation": {
+        "all": "'kl\u0259b,ha\u028as"
+    },
+    "frequency": 3.26
+}

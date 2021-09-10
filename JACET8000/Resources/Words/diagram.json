@@ -1,0 +1,53 @@
+{
+    "word": "diagram",
+    "results": [
+        {
+            "definition": "make a schematic or technical drawing of that shows interactions among variables or how something is constructed",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "plot"
+            ],
+            "typeOf": [
+                "draw"
+            ],
+            "hasTypes": [
+                "graph"
+            ],
+            "derivation": [
+                "diagramming"
+            ]
+        },
+        {
+            "definition": "a drawing intended to explain how something works; a drawing showing the relation between the parts",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "drawing"
+            ],
+            "hasTypes": [
+                "horoscope",
+                "schematic",
+                "schematic drawing",
+                "venn's diagram",
+                "venn diagram",
+                "zodiac",
+                "block diagram"
+            ],
+            "derivation": [
+                "diagrammatic",
+                "diagrammatical"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "di",
+            "a",
+            "gram"
+        ]
+    },
+    "pronunciation": {
+        "all": "'da\u026a\u0259,gr\u00e6m"
+    },
+    "frequency": 3.02
+}

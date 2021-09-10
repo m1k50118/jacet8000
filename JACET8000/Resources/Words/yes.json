@@ -1,0 +1,28 @@
+{
+    "word": "yes",
+    "results": [
+        {
+            "definition": "an affirmative",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "affirmative"
+            ],
+            "antonyms": [
+                "no"
+            ],
+            "examples": [
+                "I was hoping for a yes"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "yes"
+        ]
+    },
+    "pronunciation": {
+        "all": "j\u025bs"
+    },
+    "frequency": 6.36
+}

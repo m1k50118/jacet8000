@@ -1,0 +1,38 @@
+{
+    "word": "uranium",
+    "results": [
+        {
+            "definition": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "atomic number 92",
+                "u"
+            ],
+            "typeOf": [
+                "metal",
+                "metallic element"
+            ],
+            "hasTypes": [
+                "uranium 235",
+                "uranium 238"
+            ],
+            "substanceOf": [
+                "pitchblende",
+                "uraninite"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "u",
+            "ra",
+            "ni",
+            "um"
+        ]
+    },
+    "pronunciation": {
+        "all": "j\u028a're\u026ani\u0259m"
+    },
+    "frequency": 3.33
+}

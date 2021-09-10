@@ -1,0 +1,37 @@
+{
+    "word": "regional",
+    "results": [
+        {
+            "definition": "related or limited to a particular region",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "territorial"
+            ],
+            "examples": [
+                "a regional dialect"
+            ]
+        },
+        {
+            "definition": "characteristic of a region",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "region"
+            ],
+            "examples": [
+                "regional flora"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "gion",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "'rid\u0292\u025cn\u0259l"
+    },
+    "frequency": 3.63
+}

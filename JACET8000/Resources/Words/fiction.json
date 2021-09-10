@@ -1,0 +1,58 @@
+{
+    "word": "fiction",
+    "results": [
+        {
+            "definition": "a deliberately false or improbable account",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "fable",
+                "fabrication"
+            ],
+            "typeOf": [
+                "untruth",
+                "falsehood",
+                "falsity"
+            ],
+            "hasTypes": [
+                "canard"
+            ],
+            "derivation": [
+                "fictional",
+                "fictionalize",
+                "fictitious"
+            ]
+        },
+        {
+            "definition": "a literary work based on the imagination and not necessarily on fact",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "literary work",
+                "literary composition"
+            ],
+            "hasTypes": [
+                "fantasy",
+                "novel",
+                "phantasy",
+                "story",
+                "dystopia",
+                "utopia"
+            ],
+            "derivation": [
+                "fictional",
+                "fictionalize",
+                "fictitious"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fic",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u026ak\u0283\u0259n"
+    },
+    "frequency": 3.99
+}

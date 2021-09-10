@@ -1,0 +1,32 @@
+{
+    "word": "cafeteria",
+    "results": [
+        {
+            "definition": "a restaurant where you serve yourself and pay a cashier",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "eatery",
+                "eating house",
+                "eating place",
+                "restaurant"
+            ],
+            "hasTypes": [
+                "automat"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "caf",
+            "e",
+            "te",
+            "ri",
+            "a"
+        ]
+    },
+    "pronunciation": {
+        "all": ",k\u00e6f\u026a'tiri\u0259"
+    },
+    "frequency": 3.61
+}

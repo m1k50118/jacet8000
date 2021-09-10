@@ -1,0 +1,38 @@
+{
+    "word": "skillet",
+    "results": [
+        {
+            "definition": "a pan used for frying foods",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "frying pan",
+                "frypan"
+            ],
+            "typeOf": [
+                "cooking pan",
+                "pan"
+            ],
+            "hasTypes": [
+                "spider",
+                "electric frying pan"
+            ],
+            "hasParts": [
+                "handle",
+                "hold",
+                "handgrip",
+                "grip"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "skil",
+            "let"
+        ]
+    },
+    "pronunciation": {
+        "all": "'sk\u026al\u026at"
+    },
+    "frequency": 2.8
+}

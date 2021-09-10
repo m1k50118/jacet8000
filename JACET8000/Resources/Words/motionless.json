@@ -1,0 +1,33 @@
+{
+    "word": "motionless",
+    "results": [
+        {
+            "definition": "not in physical motion",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "inactive",
+                "static",
+                "still"
+            ],
+            "similarTo": [
+                "nonmoving",
+                "unmoving"
+            ],
+            "derivation": [
+                "motionlessness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mo",
+            "tion",
+            "less"
+        ]
+    },
+    "pronunciation": {
+        "all": "'mo\u028a\u0283\u0259nl\u026as"
+    },
+    "frequency": 2.8
+}

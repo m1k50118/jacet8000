@@ -1,0 +1,50 @@
+{
+    "word": "telegraph",
+    "results": [
+        {
+            "definition": "send cables, wires, or telegrams",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "cable",
+                "wire"
+            ],
+            "inCategory": [
+                "telegraphy"
+            ],
+            "typeOf": [
+                "telecommunicate"
+            ],
+            "derivation": [
+                "telegrapher",
+                "telegraphist"
+            ]
+        },
+        {
+            "definition": "apparatus used to communicate at a distance over a wire (usually in Morse code)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "telegraphy"
+            ],
+            "typeOf": [
+                "apparatus",
+                "setup"
+            ],
+            "derivation": [
+                "telegrapher",
+                "telegraphic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "tel",
+            "e",
+            "graph"
+        ]
+    },
+    "pronunciation": {
+        "all": "'t\u025bl\u0259,gr\u00e6f"
+    },
+    "frequency": 3.25
+}

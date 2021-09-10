@@ -1,0 +1,34 @@
+{
+    "word": "fortnight",
+    "results": [
+        {
+            "definition": "a period of fourteen consecutive days",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "two weeks"
+            ],
+            "typeOf": [
+                "period",
+                "period of time",
+                "time period"
+            ],
+            "derivation": [
+                "fortnightly"
+            ],
+            "examples": [
+                "most major tennis tournaments last a fortnight"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fort",
+            "night"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u0254rt,n\u026at"
+    },
+    "frequency": 3.1
+}

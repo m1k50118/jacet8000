@@ -1,0 +1,51 @@
+{
+    "word": "excessive",
+    "results": [
+        {
+            "definition": "unrestrained, especially with regard to feelings",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "extravagant",
+                "exuberant",
+                "overweening"
+            ],
+            "similarTo": [
+                "unrestrained"
+            ],
+            "derivation": [
+                "excessiveness"
+            ]
+        },
+        {
+            "definition": "beyond normal limits",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "inordinate",
+                "undue",
+                "unreasonable"
+            ],
+            "similarTo": [
+                "immoderate"
+            ],
+            "derivation": [
+                "exceed",
+                "excessiveness"
+            ],
+            "examples": [
+                "excessive charges"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ex",
+            "ces",
+            "sive"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026ak's\u025bs\u026av"
+    },
+    "frequency": 3.53
+}

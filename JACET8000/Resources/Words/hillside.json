@@ -1,0 +1,31 @@
+{
+    "word": "hillside",
+    "results": [
+        {
+            "definition": "the side or slope of a hill",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "incline",
+                "side",
+                "slope"
+            ],
+            "hasTypes": [
+                "brae"
+            ],
+            "partOf": [
+                "hill"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "hill",
+            "side"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u026al,sa\u026ad"
+    },
+    "frequency": 2.93
+}

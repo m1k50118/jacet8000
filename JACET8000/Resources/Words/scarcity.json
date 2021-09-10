@@ -1,0 +1,42 @@
+{
+    "word": "scarcity",
+    "results": [
+        {
+            "definition": "a small and inadequate amount",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "scarceness"
+            ],
+            "typeOf": [
+                "inadequacy",
+                "deficiency",
+                "insufficiency"
+            ],
+            "hasTypes": [
+                "rareness",
+                "dearth",
+                "rarity",
+                "infrequency",
+                "paucity"
+            ],
+            "antonyms": [
+                "abundance"
+            ],
+            "derivation": [
+                "scarce"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "scar",
+            "ci",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": "'sk\u025crs\u026ati"
+    },
+    "frequency": 2.68
+}

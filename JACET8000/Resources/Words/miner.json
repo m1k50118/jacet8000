@@ -1,0 +1,43 @@
+{
+    "word": "miner",
+    "results": [
+        {
+            "definition": "laborer who works in a mine",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "mineworker"
+            ],
+            "typeOf": [
+                "jack",
+                "laborer",
+                "labourer",
+                "manual laborer"
+            ],
+            "hasTypes": [
+                "gold panner",
+                "pitman",
+                "placer miner",
+                "prospector",
+                "coal miner",
+                "strip miner",
+                "collier",
+                "gold digger",
+                "gold miner"
+            ],
+            "derivation": [
+                "mine"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "min",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ma\u026an\u0259r"
+    },
+    "frequency": 3.19
+}

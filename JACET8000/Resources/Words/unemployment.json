@@ -1,0 +1,32 @@
+{
+    "word": "unemployment",
+    "results": [
+        {
+            "definition": "the state of being unemployed or not having a job",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "state"
+            ],
+            "antonyms": [
+                "employment"
+            ],
+            "examples": [
+                "unemployment is a serious social evil",
+                "the rate of unemployment is an indicator of the health of an economy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "un",
+            "em",
+            "ploy",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259n\u026am'pl\u0254\u026am\u0259nt"
+    },
+    "frequency": 3.6
+}

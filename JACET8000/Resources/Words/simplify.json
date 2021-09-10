@@ -1,0 +1,40 @@
+{
+    "word": "simplify",
+    "results": [
+        {
+            "definition": "make simpler or easier or reduce in complexity or extent",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "alter",
+                "change",
+                "modify"
+            ],
+            "hasTypes": [
+                "oversimplify",
+                "reduce"
+            ],
+            "antonyms": [
+                "complicate"
+            ],
+            "derivation": [
+                "simplification"
+            ],
+            "examples": [
+                "We had to simplify the instructions",
+                "this move will simplify our lives"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "sim",
+            "pli",
+            "fy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u026ampl\u0259,fa\u026a"
+    },
+    "frequency": 2.89
+}

@@ -1,0 +1,34 @@
+{
+    "word": "festive",
+    "results": [
+        {
+            "definition": "offering fun and gaiety",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "festal",
+                "gay",
+                "merry"
+            ],
+            "similarTo": [
+                "joyous"
+            ],
+            "derivation": [
+                "festivity"
+            ],
+            "examples": [
+                "a festive (or festal) occasion"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "fes",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u025bst\u026av"
+    },
+    "frequency": 3.18
+}

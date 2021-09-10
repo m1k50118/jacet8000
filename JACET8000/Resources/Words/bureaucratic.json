@@ -1,0 +1,33 @@
+{
+    "word": "bureaucratic",
+    "results": [
+        {
+            "definition": "of or relating to or resembling a bureaucrat or bureaucracy",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "bureaucracy",
+                "bureaucrat"
+            ],
+            "derivation": [
+                "bureaucracy"
+            ],
+            "examples": [
+                "his bureaucratic behavior annoyed his colleagues",
+                "a bureaucratic nightmare"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "bu",
+            "reau",
+            "crat",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": ",bj\u028ar\u0259'kr\u00e6t\u026ak"
+    },
+    "frequency": 2.89
+}

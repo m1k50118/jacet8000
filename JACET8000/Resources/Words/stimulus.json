@@ -1,0 +1,49 @@
+{
+    "word": "stimulus",
+    "results": [
+        {
+            "definition": "any stimulating information or event; acts to arouse action",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "input",
+                "stimulant",
+                "stimulation"
+            ],
+            "typeOf": [
+                "information"
+            ],
+            "hasTypes": [
+                "cue",
+                "discriminative stimulus",
+                "elicitation",
+                "evocation",
+                "induction",
+                "kick",
+                "negative stimulation",
+                "negative stimulus",
+                "positive stimulus",
+                "reinforcement",
+                "reinforcer",
+                "reinforcing stimulus",
+                "turn-on",
+                "conditioned stimulus",
+                "turnoff"
+            ],
+            "derivation": [
+                "stimulate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "stim",
+            "u",
+            "lus"
+        ]
+    },
+    "pronunciation": {
+        "all": "st\u026at\u026am\u0259l\u00e6nt"
+    },
+    "frequency": 2.83
+}

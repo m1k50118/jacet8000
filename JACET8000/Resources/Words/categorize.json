@@ -1,0 +1,46 @@
+{
+    "word": "categorize",
+    "results": [
+        {
+            "definition": "place into or assign to a category",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "categorise"
+            ],
+            "entails": [
+                "compare"
+            ],
+            "typeOf": [
+                "reason"
+            ],
+            "hasTypes": [
+                "classify",
+                "separate",
+                "sort",
+                "assort",
+                "sort out",
+                "class"
+            ],
+            "derivation": [
+                "categorization",
+                "category"
+            ],
+            "examples": [
+                "Children learn early on to categorize"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cat",
+            "e",
+            "go",
+            "rize"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u00e6t\u0259\u0261\u0259,ra\u026az"
+    },
+    "frequency": 2.45
+}

@@ -1,0 +1,34 @@
+{
+    "word": "proximal",
+    "results": [
+        {
+            "definition": "situated nearest to point of attachment or origin",
+            "partOfSpeech": "adjective",
+            "inCategory": [
+                "anatomy",
+                "general anatomy"
+            ],
+            "antonyms": [
+                "distal"
+            ],
+            "derivation": [
+                "proximity"
+            ],
+            "examples": [
+                "the proximal end of a bone"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "prox",
+            "i",
+            "mal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pr\u0251ks\u0259m\u0259l"
+    },
+    "frequency": 2.24
+}

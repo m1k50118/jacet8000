@@ -1,0 +1,38 @@
+{
+    "word": "demographic",
+    "results": [
+        {
+            "definition": "a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)",
+            "partOfSpeech": "noun",
+            "inCategory": [
+                "statistics"
+            ],
+            "typeOf": [
+                "statistic"
+            ]
+        },
+        {
+            "definition": "of or relating to demography",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "demography"
+            ],
+            "examples": [
+                "demographic surveys"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "de",
+            "mo",
+            "graph",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": ",dim\u0259'gr\u00e6f\u026ak"
+    },
+    "frequency": 2.97
+}

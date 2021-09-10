@@ -1,0 +1,31 @@
+{
+    "word": "contractual",
+    "results": [
+        {
+            "definition": "relating to or part of a binding legal agreement",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "contract"
+            ],
+            "derivation": [
+                "contract"
+            ],
+            "examples": [
+                "contractual obligations"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "trac",
+            "tu",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n'tr\u00e6k\u02a7u\u0259l"
+    },
+    "frequency": 2.4
+}

@@ -1,0 +1,37 @@
+{
+    "word": "donate",
+    "results": [
+        {
+            "definition": "give to a charity or good cause",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "gift",
+                "give",
+                "present"
+            ],
+            "hasTypes": [
+                "pledge",
+                "subscribe"
+            ],
+            "derivation": [
+                "donation"
+            ],
+            "examples": [
+                "I donated blood to the Red Cross for the victims of the earthquake",
+                "donate money to the orphanage",
+                "She donates to her favorite charity every month"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "do",
+            "nate"
+        ]
+    },
+    "pronunciation": {
+        "all": "'do\u028ane\u026at"
+    },
+    "frequency": 3.75
+}

@@ -1,0 +1,19 @@
+{
+    "word": "laptop",
+    "results": [
+        {
+            "definition": "a portable computer small enough to use in your lap",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "laptop computer"
+            ],
+            "typeOf": [
+                "portable computer"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": "'l\u00e6pt\u0251p"
+    },
+    "frequency": 3.63
+}

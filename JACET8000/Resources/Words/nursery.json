@@ -1,0 +1,34 @@
+{
+    "word": "nursery",
+    "results": [
+        {
+            "definition": "a child's room for a baby",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "baby's room"
+            ],
+            "typeOf": [
+                "child's room"
+            ],
+            "hasTypes": [
+                "day care center",
+                "day nursery"
+            ],
+            "derivation": [
+                "nurse"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "nurs",
+            "er",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'n\u025crs\u0259ri"
+    },
+    "frequency": 3.68
+}

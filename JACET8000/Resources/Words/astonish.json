@@ -1,0 +1,34 @@
+{
+    "word": "astonish",
+    "results": [
+        {
+            "definition": "affect with wonder",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "amaze",
+                "astound"
+            ],
+            "typeOf": [
+                "surprise"
+            ],
+            "hasTypes": [
+                "dazzle"
+            ],
+            "derivation": [
+                "astonishment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "a",
+            "ston",
+            "ish"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'st\u0251n\u026a\u0283"
+    },
+    "frequency": 2.5
+}

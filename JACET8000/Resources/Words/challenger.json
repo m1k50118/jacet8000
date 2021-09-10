@@ -1,0 +1,55 @@
+{
+    "word": "challenger",
+    "results": [
+        {
+            "definition": "the contestant you hope to defeat",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "competition",
+                "competitor",
+                "contender",
+                "rival"
+            ],
+            "typeOf": [
+                "contestant"
+            ],
+            "hasTypes": [
+                "champion",
+                "comer",
+                "enemy",
+                "favorite",
+                "favourite",
+                "finalist",
+                "foe",
+                "front-runner",
+                "king",
+                "queen",
+                "runner-up",
+                "scratch",
+                "second best",
+                "semifinalist",
+                "street fighter",
+                "tier",
+                "tilter",
+                "title-holder",
+                "champ",
+                "world-beater"
+            ],
+            "derivation": [
+                "challenge"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "chal",
+            "leng",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u02a7\u00e6l\u026and\u0292\u0259r"
+    },
+    "frequency": 3.23
+}

@@ -1,0 +1,36 @@
+{
+    "word": "homework",
+    "results": [
+        {
+            "definition": "preparatory school work done outside school (especially at home)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "prep",
+                "preparation"
+            ],
+            "typeOf": [
+                "schoolwork",
+                "school assignment"
+            ],
+            "partOf": [
+                "educational activity",
+                "instruction",
+                "pedagogy",
+                "didactics",
+                "teaching",
+                "education"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "home",
+            "work"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ho\u028am,w\u025crk"
+    },
+    "frequency": 4.3
+}

@@ -1,0 +1,48 @@
+{
+    "word": "assassination",
+    "results": [
+        {
+            "definition": "an attack intended to ruin someone's reputation",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "blackwash",
+                "character assassination"
+            ],
+            "typeOf": [
+                "traducement",
+                "calumny",
+                "defamation",
+                "hatchet job",
+                "obloquy",
+                "calumniation"
+            ],
+            "derivation": [
+                "assassinate"
+            ]
+        },
+        {
+            "definition": "murder of a public figure by surprise attack",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "execution",
+                "slaying",
+                "murder"
+            ],
+            "derivation": [
+                "assassinate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "as",
+            "sas",
+            "si",
+            "na",
+            "tion"
+        ]
+    },
+    "pronunciation": "\u028c,s\u00e6s\u028c'ne\u026a\u0283\u028cn",
+    "frequency": 3.68
+}

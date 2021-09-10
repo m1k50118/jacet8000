@@ -1,0 +1,35 @@
+{
+    "word": "humidity",
+    "results": [
+        {
+            "definition": "wetness in the atmosphere",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "humidness"
+            ],
+            "typeOf": [
+                "wetness"
+            ],
+            "hasTypes": [
+                "mugginess"
+            ],
+            "derivation": [
+                "humid",
+                "humidify"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "hu",
+            "mid",
+            "i",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": "hju'm\u026ad\u026ati"
+    },
+    "frequency": 3.21
+}

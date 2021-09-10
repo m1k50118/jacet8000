@@ -1,0 +1,38 @@
+{
+    "word": "reconciliation",
+    "results": [
+        {
+            "definition": "the reestablishing of cordial relations",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "rapprochement"
+            ],
+            "typeOf": [
+                "cooperation"
+            ],
+            "derivation": [
+                "reconcile"
+            ]
+        },
+        {
+            "definition": "getting two things to correspond",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "balancing"
+            ],
+            "typeOf": [
+                "equalisation",
+                "equalization",
+                "leveling"
+            ],
+            "derivation": [
+                "reconcile"
+            ],
+            "examples": [
+                "the reconciliation of his checkbook and the bank statement"
+            ]
+        }
+    ],
+    "pronunciation": ",r\u025bk\u028cn,s\u026ali'e\u026a\u0283\u028cn",
+    "frequency": 3.21
+}

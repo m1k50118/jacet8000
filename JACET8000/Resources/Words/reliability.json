@@ -1,0 +1,33 @@
+{
+    "word": "reliability",
+    "results": [
+        {
+            "definition": "the quality of being dependable or reliable",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dependability",
+                "dependableness",
+                "reliableness"
+            ],
+            "typeOf": [
+                "responsibility",
+                "responsibleness"
+            ],
+            "hasTypes": [
+                "reproducibility",
+                "duplicability",
+                "solidness",
+                "solidity",
+                "infallibility"
+            ],
+            "antonyms": [
+                "unreliability"
+            ],
+            "derivation": [
+                "reliable"
+            ]
+        }
+    ],
+    "pronunciation": "ri,la\u026a\u028c'b\u026al\u028cti",
+    "frequency": 2.62
+}

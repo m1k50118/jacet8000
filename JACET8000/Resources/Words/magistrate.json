@@ -1,0 +1,34 @@
+{
+    "word": "magistrate",
+    "results": [
+        {
+            "definition": "a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offenses)",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "judge",
+                "jurist",
+                "justice"
+            ],
+            "hasTypes": [
+                "justice of the peace",
+                "stipendiary",
+                "stipendiary magistrate"
+            ],
+            "derivation": [
+                "magisterial"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mag",
+            "is",
+            "trate"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6d\u0292\u026a,stre\u026at"
+    },
+    "frequency": 3.42
+}

@@ -1,0 +1,44 @@
+{
+    "word": "cigarette",
+    "results": [
+        {
+            "definition": "finely ground tobacco wrapped in paper; for smoking",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "butt",
+                "cigaret",
+                "coffin nail",
+                "fag"
+            ],
+            "typeOf": [
+                "smoke",
+                "roll of tobacco"
+            ],
+            "hasTypes": [
+                "cubeb cigarette",
+                "filter-tipped cigarette",
+                "joint",
+                "marijuana cigarette",
+                "reefer",
+                "spliff",
+                "stick",
+                "cubeb"
+            ],
+            "hasParts": [
+                "cigarette butt"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "cig",
+            "a",
+            "rette"
+        ]
+    },
+    "pronunciation": {
+        "all": ",s\u026a\u0261\u0259'r\u025bt"
+    },
+    "frequency": 4.51
+}

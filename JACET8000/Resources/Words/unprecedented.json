@@ -1,0 +1,33 @@
+{
+    "word": "unprecedented",
+    "results": [
+        {
+            "definition": "having no precedent; novel",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "new",
+                "unexampled"
+            ],
+            "antonyms": [
+                "precedented"
+            ],
+            "examples": [
+                "an unprecedented expansion in population and industry"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "prec",
+            "e",
+            "dent",
+            "ed"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n'pr\u025bs\u026a,d\u025bnt\u026ad"
+    },
+    "frequency": 3.41
+}

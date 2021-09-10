@@ -1,0 +1,50 @@
+{
+    "word": "together",
+    "results": [
+        {
+            "definition": "with cooperation and interchange",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "unitedly"
+            ],
+            "examples": [
+                "we worked together on the project"
+            ]
+        },
+        {
+            "definition": "with a common plan",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "in concert"
+            ]
+        },
+        {
+            "definition": "mentally and emotionally stable",
+            "partOfSpeech": "adjective",
+            "usageOf": [
+                "colloquialism"
+            ],
+            "similarTo": [
+                "unneurotic"
+            ],
+            "derivation": [
+                "togetherness"
+            ],
+            "examples": [
+                "she's really together"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "to",
+            "geth",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "t\u028a'\u0261\u025b\u00f0\u0259r"
+    },
+    "frequency": 5.61
+}

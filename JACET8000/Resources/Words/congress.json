@@ -1,0 +1,96 @@
+{
+    "word": "congress",
+    "results": [
+        {
+            "definition": "the social act of assembling for some common purpose",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "coming together",
+                "meeting"
+            ],
+            "typeOf": [
+                "assemblage",
+                "gathering",
+                "assembly"
+            ],
+            "hasTypes": [
+                "visit",
+                "rendezvous",
+                "session",
+                "socialisation",
+                "socialising",
+                "socialization",
+                "socializing"
+            ],
+            "examples": [
+                "the lovers met discreetly for the purposes of sexual congress"
+            ]
+        },
+        {
+            "definition": "the legislature of the United States government",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "u.s. congress",
+                "united states congress",
+                "us congress"
+            ],
+            "typeOf": [
+                "general assembly",
+                "law-makers",
+                "legislative body",
+                "legislative assembly",
+                "legislature"
+            ],
+            "hasMembers": [
+                "u.s. house of representatives",
+                "united states house of representatives",
+                "united states senate",
+                "us house",
+                "us house of representatives",
+                "us senate",
+                "house of representatives",
+                "senate",
+                "u.s. house",
+                "u.s. senate"
+            ],
+            "memberOf": [
+                "legislative branch"
+            ]
+        },
+        {
+            "definition": "a meeting of elected or appointed representatives",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "meeting",
+                "group meeting"
+            ],
+            "hasTypes": [
+                "continental congress"
+            ]
+        },
+        {
+            "definition": "a national legislative assembly",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "law-makers",
+                "legislative body",
+                "legislature",
+                "general assembly",
+                "legislative assembly"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "con",
+            "gress"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u0251\u014br\u025bs",
+        "noun": "'k\u0251\u014bgr\u026as",
+        "verb": "k\u0259n'gr\u025bs"
+    },
+    "frequency": 4
+}

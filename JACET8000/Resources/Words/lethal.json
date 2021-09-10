@@ -1,0 +1,33 @@
+{
+    "word": "lethal",
+    "results": [
+        {
+            "definition": "of an instrument of certain death",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "deadly"
+            ],
+            "similarTo": [
+                "fatal"
+            ],
+            "derivation": [
+                "lethality"
+            ],
+            "examples": [
+                "lethal weapon",
+                "a lethal injection"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "le",
+            "thal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'li\u03b8\u0259l"
+    },
+    "frequency": 3.71
+}

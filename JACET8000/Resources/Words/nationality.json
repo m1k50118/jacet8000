@@ -1,0 +1,44 @@
+{
+    "word": "nationality",
+    "results": [
+        {
+            "definition": "people having common origins or traditions and often comprising a nation",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "people"
+            ],
+            "derivation": [
+                "national"
+            ],
+            "examples": [
+                "immigrants of the same nationality often seek each other out",
+                "such images define their sense of nationality"
+            ]
+        },
+        {
+            "definition": "the status of belonging to a particular nation by birth or naturalization",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "position",
+                "status"
+            ],
+            "derivation": [
+                "national"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "na",
+            "tion",
+            "al",
+            "i",
+            "ty"
+        ]
+    },
+    "pronunciation": {
+        "all": ",n\u00e6\u0283\u0259'n\u00e6l\u026ati"
+    },
+    "frequency": 3.17
+}

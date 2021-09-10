@@ -1,0 +1,57 @@
+{
+    "word": "advantageous",
+    "results": [
+        {
+            "definition": "giving an advantage",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "favorable",
+                "favourable"
+            ],
+            "also": [
+                "profitable",
+                "expedient",
+                "opportune"
+            ],
+            "similarTo": [
+                "good",
+                "beneficial",
+                "plus",
+                "positive",
+                "discriminatory",
+                "preferential"
+            ],
+            "antonyms": [
+                "disadvantageous"
+            ],
+            "derivation": [
+                "advantage",
+                "advantageousness"
+            ],
+            "examples": [
+                "a contract advantageous to our country",
+                "socially advantageous to entertain often"
+            ]
+        },
+        {
+            "definition": "appropriate for achieving a particular end; implies a lack of concern for fairness",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "expedient"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ad",
+            "van",
+            "ta",
+            "geous"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u00e6dv\u0259n'te\u026ad\u0292\u0259s"
+    },
+    "frequency": 2.64
+}

@@ -1,0 +1,41 @@
+{
+    "word": "countless",
+    "results": [
+        {
+            "definition": "too numerous to be counted",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "infinite",
+                "innumerable",
+                "innumerous",
+                "multitudinous",
+                "myriad",
+                "numberless",
+                "uncounted",
+                "unnumberable",
+                "unnumbered",
+                "unnumerable"
+            ],
+            "similarTo": [
+                "incalculable"
+            ],
+            "derivation": [
+                "countlessness"
+            ],
+            "examples": [
+                "countless hours"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "count",
+            "less"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ka\u028antl\u026as"
+    },
+    "frequency": 3.63
+}

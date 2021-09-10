@@ -1,0 +1,37 @@
+{
+    "word": "advocacy",
+    "results": [
+        {
+            "definition": "active support of an idea or cause etc.; especially the act of pleading or arguing for something",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "protagonism"
+            ],
+            "typeOf": [
+                "support"
+            ],
+            "hasTypes": [
+                "drumbeat",
+                "insistence",
+                "insistency",
+                "urging"
+            ],
+            "derivation": [
+                "advocate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ad",
+            "vo",
+            "ca",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u00e6dv\u0259k\u0259si"
+    },
+    "frequency": 2.27
+}

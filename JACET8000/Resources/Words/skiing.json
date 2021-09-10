@@ -1,0 +1,38 @@
+{
+    "word": "skiing",
+    "results": [
+        {
+            "definition": "a sport in which participants must travel on skis",
+            "partOfSpeech": "noun",
+            "hasCategories": [
+                "piste"
+            ],
+            "typeOf": [
+                "athletics",
+                "sport"
+            ],
+            "hasTypes": [
+                "ski jumping",
+                "cross-country skiing"
+            ],
+            "hasParts": [
+                "traversal",
+                "traverse"
+            ],
+            "derivation": [
+                "ski"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ski",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ski\u026a\u014b"
+    },
+    "frequency": 3.73
+}

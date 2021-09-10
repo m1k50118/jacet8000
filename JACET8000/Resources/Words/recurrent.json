@@ -1,0 +1,32 @@
+{
+    "word": "recurrent",
+    "results": [
+        {
+            "definition": "recurring again and again",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "perennial",
+                "repeated"
+            ],
+            "similarTo": [
+                "continual"
+            ],
+            "derivation": [
+                "recur",
+                "recurrence"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "cur",
+            "rent"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'k\u025cr\u0259nt"
+    },
+    "frequency": 2.45
+}

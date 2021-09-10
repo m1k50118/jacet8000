@@ -1,0 +1,85 @@
+{
+    "word": "export",
+    "results": [
+        {
+            "definition": "commodities (goods or services) sold to a foreign country",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "exportation"
+            ],
+            "typeOf": [
+                "good",
+                "commodity",
+                "trade good"
+            ],
+            "antonyms": [
+                "import"
+            ]
+        },
+        {
+            "definition": "cause to spread in another part of the world",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "spread",
+                "distribute"
+            ],
+            "examples": [
+                "The Russians exported Marxism to Africa"
+            ]
+        },
+        {
+            "definition": "sell or transfer abroad",
+            "partOfSpeech": "verb",
+            "inCategory": [
+                "commerce",
+                "commercialism",
+                "mercantilism"
+            ],
+            "typeOf": [
+                "merchandise",
+                "trade"
+            ],
+            "hasTypes": [
+                "smuggle"
+            ],
+            "antonyms": [
+                "import"
+            ],
+            "derivation": [
+                "exportation",
+                "exporter",
+                "exporting"
+            ],
+            "examples": [
+                "we export less than we import and have a negative trade balance"
+            ]
+        },
+        {
+            "definition": "transfer (electronic data) out of a database or document in a format that can be used by other programs",
+            "partOfSpeech": "verb",
+            "inCategory": [
+                "computing",
+                "computer science"
+            ],
+            "typeOf": [
+                "transfer"
+            ],
+            "antonyms": [
+                "import"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "ex",
+            "port"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bk'spo\u028art",
+        "noun": "'\u026akspo\u028art",
+        "verb": "\u026ak'spo\u028art"
+    },
+    "frequency": 3.41
+}

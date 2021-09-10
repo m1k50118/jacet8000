@@ -1,0 +1,39 @@
+{
+    "word": "centimeter",
+    "results": [
+        {
+            "definition": "a metric unit of length equal to one hundredth of a meter",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "centimetre",
+                "cm"
+            ],
+            "typeOf": [
+                "metric linear unit"
+            ],
+            "hasParts": [
+                "millimeter",
+                "millimetre",
+                "mm"
+            ],
+            "partOf": [
+                "decimetre",
+                "dm",
+                "decimeter"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cen",
+            "ti",
+            "me",
+            "ter"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025bnt\u0259,mit\u0259r"
+    },
+    "frequency": 2.91
+}

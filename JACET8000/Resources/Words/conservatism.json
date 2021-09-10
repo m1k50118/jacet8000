@@ -1,0 +1,34 @@
+{
+    "word": "conservatism",
+    "results": [
+        {
+            "definition": "a political or theological orientation advocating the preservation of the best in society and opposing radical changes",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "conservativism"
+            ],
+            "typeOf": [
+                "ideology",
+                "political orientation",
+                "political theory"
+            ],
+            "hasTypes": [
+                "neoconservatism",
+                "reaction"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "serv",
+            "a",
+            "tism"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n's\u025crv\u0259,t\u026az\u0259m"
+    },
+    "frequency": 2.17
+}

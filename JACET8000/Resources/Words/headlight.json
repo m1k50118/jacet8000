@@ -1,0 +1,36 @@
+{
+    "word": "headlight",
+    "results": [
+        {
+            "definition": "a powerful light with reflector; attached to the front of an automobile or locomotive",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "headlamp"
+            ],
+            "typeOf": [
+                "light",
+                "light source"
+            ],
+            "hasTypes": [
+                "foglamp"
+            ],
+            "hasParts": [
+                "fresnel lens"
+            ],
+            "partOf": [
+                "electrical system"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "head",
+            "light"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u025bd,la\u026at"
+    },
+    "frequency": 2.89
+}

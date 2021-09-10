@@ -1,0 +1,47 @@
+{
+    "word": "membership",
+    "results": [
+        {
+            "definition": "the body of members of an organization or group",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "rank"
+            ],
+            "typeOf": [
+                "body"
+            ],
+            "memberOf": [
+                "organisation",
+                "organization"
+            ],
+            "derivation": [
+                "member"
+            ],
+            "examples": [
+                "they polled their membership"
+            ]
+        },
+        {
+            "definition": "the state of being a member",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "relationship"
+            ],
+            "derivation": [
+                "member"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "mem",
+            "ber",
+            "ship"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u025bmb\u0259r,\u0283\u026ap"
+    },
+    "frequency": 3.5
+}

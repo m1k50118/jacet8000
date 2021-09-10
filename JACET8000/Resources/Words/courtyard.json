@@ -1,0 +1,38 @@
+{
+    "word": "courtyard",
+    "results": [
+        {
+            "definition": "an area wholly or partly surrounded by walls or buildings",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "court"
+            ],
+            "typeOf": [
+                "area"
+            ],
+            "hasTypes": [
+                "atrium",
+                "bailey",
+                "cloister",
+                "parvis",
+                "food court",
+                "forecourt"
+            ],
+            "partOf": [
+                "edifice",
+                "building"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "court",
+            "yard"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ko\u028art,j\u0251rd"
+    },
+    "frequency": 3.58
+}

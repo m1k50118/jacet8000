@@ -1,0 +1,54 @@
+{
+    "word": "congratulation",
+    "results": [
+        {
+            "definition": "(usually plural) an expression of pleasure at the success or good fortune of another",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "felicitation"
+            ],
+            "usageOf": [
+                "plural",
+                "plural form"
+            ],
+            "typeOf": [
+                "expression",
+                "verbal expression",
+                "verbalism"
+            ],
+            "derivation": [
+                "congratulate"
+            ],
+            "examples": [
+                "I sent them my sincere congratulations on their marriage"
+            ]
+        },
+        {
+            "definition": "the act of acknowledging that someone has an occasion for celebration",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "felicitation"
+            ],
+            "typeOf": [
+                "speech act"
+            ],
+            "derivation": [
+                "congratulate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "con",
+            "grat",
+            "u",
+            "la",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n,gr\u00e6\u02a7\u0259'le\u026a\u0283\u0259n"
+    },
+    "frequency": 3.17
+}

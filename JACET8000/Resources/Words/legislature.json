@@ -1,0 +1,63 @@
+{
+    "word": "legislature",
+    "results": [
+        {
+            "definition": "persons who make or amend or repeal laws",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "general assembly",
+                "law-makers",
+                "legislative assembly",
+                "legislative body"
+            ],
+            "hasCategories": [
+                "uninominal",
+                "scrutin uninomial system",
+                "scrutin uninominal voting system",
+                "sergeant at arms",
+                "serjeant-at-arms",
+                "single-member system",
+                "uninominal system",
+                "uninominal voting system",
+                "one-member",
+                "appropriation"
+            ],
+            "typeOf": [
+                "assembly"
+            ],
+            "hasTypes": [
+                "united states congress",
+                "us congress",
+                "senate",
+                "u.s. congress",
+                "parliament",
+                "duma",
+                "house",
+                "legislative council",
+                "congress",
+                "diet"
+            ],
+            "memberOf": [
+                "regime",
+                "authorities",
+                "government"
+            ],
+            "derivation": [
+                "legislate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "leg",
+            "is",
+            "la",
+            "ture"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u025bd\u0292\u026as,le\u026a\u02a7\u0259r"
+    },
+    "frequency": 2.83
+}

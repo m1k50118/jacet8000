@@ -1,0 +1,37 @@
+{
+    "word": "radioactive",
+    "results": [
+        {
+            "definition": "exhibiting or caused by radioactivity",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "hot"
+            ],
+            "antonyms": [
+                "nonradioactive"
+            ],
+            "derivation": [
+                "radioactivity"
+            ],
+            "examples": [
+                "radioactive isotope",
+                "radioactive decay",
+                "radioactive fallout"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "ra",
+            "di",
+            "o",
+            "ac",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": ",re\u026adio\u028a'\u00e6kt\u026av"
+    },
+    "frequency": 3.46
+}

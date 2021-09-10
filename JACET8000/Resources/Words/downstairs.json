@@ -1,0 +1,47 @@
+{
+    "word": "downstairs",
+    "results": [
+        {
+            "definition": "on or of lower floors of a building",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "downstair"
+            ],
+            "similarTo": [
+                "ground-floor"
+            ],
+            "antonyms": [
+                "upstairs"
+            ],
+            "examples": [
+                "the downstairs (or downstair) phone"
+            ]
+        },
+        {
+            "definition": "on a floor below",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "below",
+                "down the stairs",
+                "on a lower floor"
+            ],
+            "antonyms": [
+                "upstairs"
+            ],
+            "examples": [
+                "the tenants live downstairs"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "down",
+            "stairs"
+        ]
+    },
+    "pronunciation": {
+        "all": "'da\u028an,st\u00e6\u0259rz"
+    },
+    "frequency": 4.51
+}

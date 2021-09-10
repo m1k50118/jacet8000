@@ -1,0 +1,43 @@
+{
+    "word": "continuously",
+    "results": [
+        {
+            "definition": "with unflagging resolve",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "ceaselessly",
+                "endlessly",
+                "incessantly",
+                "unceasingly",
+                "unendingly"
+            ],
+            "pertainsTo": [
+                "continuous"
+            ]
+        },
+        {
+            "definition": "at every point",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "continuous"
+            ],
+            "examples": [
+                "The function is continuously differentiable"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "con",
+            "tin",
+            "u",
+            "ous",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "k\u0259n't\u026anju\u0259sli"
+    },
+    "frequency": 3.43
+}

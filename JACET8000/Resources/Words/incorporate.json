@@ -1,0 +1,97 @@
+{
+    "word": "incorporate",
+    "results": [
+        {
+            "definition": "make into a whole or make part of a whole",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "integrate"
+            ],
+            "typeOf": [
+                "compound",
+                "combine"
+            ],
+            "hasTypes": [
+                "fold",
+                "build in",
+                "re-incorporate",
+                "reintegrate"
+            ],
+            "derivation": [
+                "incorporation"
+            ],
+            "examples": [
+                "She incorporated his suggestions into her proposal"
+            ]
+        },
+        {
+            "definition": "include or contain; have as a component",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "comprise",
+                "contain"
+            ],
+            "typeOf": [
+                "include"
+            ],
+            "derivation": [
+                "incorporation"
+            ]
+        },
+        {
+            "definition": "formed or united into a whole",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "incorporated",
+                "integrated",
+                "merged",
+                "unified"
+            ],
+            "similarTo": [
+                "united"
+            ]
+        },
+        {
+            "definition": "form a corporation",
+            "partOfSpeech": "verb",
+            "inCategory": [
+                "business sector",
+                "business"
+            ],
+            "typeOf": [
+                "create",
+                "make"
+            ]
+        },
+        {
+            "definition": "unite or merge with something already in existence",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "take in",
+                "gather in"
+            ],
+            "derivation": [
+                "incorporation",
+                "incorporative"
+            ],
+            "examples": [
+                "incorporate this document with those pertaining to the same case"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "in",
+            "cor",
+            "po",
+            "rate"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026an'k\u0254rp\u0259r\u026at",
+        "adjective": "\u026an'k\u0254rp\u0259r\u026at",
+        "verb": "\u026an'k\u0254rp\u0259,re\u026at"
+    },
+    "frequency": 2.87
+}

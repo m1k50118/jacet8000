@@ -1,0 +1,42 @@
+{
+    "word": "amino",
+    "results": [
+        {
+            "definition": "the radical -NH2",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "amino group"
+            ],
+            "typeOf": [
+                "chemical group",
+                "group",
+                "radical"
+            ],
+            "hasTypes": [
+                "glucosamine"
+            ]
+        },
+        {
+            "definition": "pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "aminic"
+            ],
+            "pertainsTo": [
+                "amine"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "a",
+            "mi",
+            "no"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'mino\u028a"
+    },
+    "frequency": 2.67
+}

@@ -1,0 +1,37 @@
+{
+    "word": "etcetera",
+    "results": [
+        {
+            "definition": "continuing in the same way",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "and so forth",
+                "and so on",
+                "etc."
+            ]
+        },
+        {
+            "definition": "additional unspecified odds and ends; more of the same",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "stuff"
+            ],
+            "examples": [
+                "his report was full of etceteras"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "et",
+            "cet",
+            "er",
+            "a"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025bt's\u025bt\u0259r\u0259"
+    },
+    "frequency": 2.95
+}

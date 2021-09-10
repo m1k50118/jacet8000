@@ -1,0 +1,41 @@
+{
+    "word": "outright",
+    "results": [
+        {
+            "definition": "without any delay",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "in a flash",
+                "instantaneously",
+                "instantly"
+            ],
+            "examples": [
+                "he was killed outright"
+            ]
+        },
+        {
+            "definition": "without reservation or exception",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "straight-out",
+                "unlimited"
+            ],
+            "similarTo": [
+                "unqualified"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "out",
+            "right"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u00e6\u028at'ra\u026at",
+        "adjective": "'a\u028at,ra\u026at",
+        "adverb": "'a\u028at'ra\u026at"
+    },
+    "frequency": 3.04
+}

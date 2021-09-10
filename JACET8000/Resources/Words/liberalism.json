@@ -1,0 +1,43 @@
+{
+    "word": "liberalism",
+    "results": [
+        {
+            "definition": "an economic theory advocating free competition and a self-regulating market",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "economic theory"
+            ],
+            "derivation": [
+                "liberalistic"
+            ]
+        },
+        {
+            "definition": "a political orientation that favors social progress by reform and by changing laws rather than by revolution",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "ideology",
+                "political orientation",
+                "political theory"
+            ],
+            "hasTypes": [
+                "neoliberalism"
+            ],
+            "derivation": [
+                "liberalistic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "lib",
+            "er",
+            "al",
+            "ism"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u026ab\u0259r\u0259,l\u026az\u0259m"
+    },
+    "frequency": 2.52
+}

@@ -1,0 +1,35 @@
+{
+    "word": "workforce",
+    "results": [
+        {
+            "definition": "the force of workers available",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "hands",
+                "manpower",
+                "men",
+                "work force"
+            ],
+            "typeOf": [
+                "force",
+                "personnel"
+            ],
+            "hasTypes": [
+                "complement",
+                "full complement"
+            ],
+            "hasMembers": [
+                "work party",
+                "crew",
+                "gang"
+            ],
+            "hasParts": [
+                "shift"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": "'w\u025crkfo\u028ars"
+    },
+    "frequency": 2.83
+}

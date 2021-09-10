@@ -1,0 +1,31 @@
+{
+    "word": "brigade",
+    "results": [
+        {
+            "definition": "army unit smaller than a division",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "army unit"
+            ]
+        },
+        {
+            "definition": "form or unite into a brigade",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "aggroup",
+                "group"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "bri",
+            "gade"
+        ]
+    },
+    "pronunciation": {
+        "all": "br\u026a'\u0261e\u026ad"
+    },
+    "frequency": 3.72
+}

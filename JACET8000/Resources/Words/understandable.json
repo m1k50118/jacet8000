@@ -1,0 +1,37 @@
+{
+    "word": "understandable",
+    "results": [
+        {
+            "definition": "capable of being apprehended or understood",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "apprehensible",
+                "graspable",
+                "intelligible",
+                "perceivable"
+            ],
+            "similarTo": [
+                "comprehendible",
+                "comprehensible"
+            ],
+            "derivation": [
+                "understand",
+                "understandability"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "der",
+            "stand",
+            "a",
+            "ble"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u0259nd\u0259r'st\u00e6nd\u0259b\u0259l"
+    },
+    "frequency": 3.47
+}

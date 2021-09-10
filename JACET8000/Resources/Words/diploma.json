@@ -1,0 +1,34 @@
+{
+    "word": "diploma",
+    "results": [
+        {
+            "definition": "a document certifying the successful completion of a course of study",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "sheepskin"
+            ],
+            "typeOf": [
+                "certificate",
+                "certification",
+                "credential",
+                "credentials"
+            ],
+            "hasTypes": [
+                "higher national diploma",
+                "hnd"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "di",
+            "plo",
+            "ma"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u026a'plo\u028am\u0259"
+    },
+    "frequency": 3.5
+}

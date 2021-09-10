@@ -1,0 +1,43 @@
+{
+    "word": "likewise",
+    "results": [
+        {
+            "definition": "in like or similar manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "similarly"
+            ],
+            "examples": [
+                "some people have little power to do good, and have likewise little strength to resist evil"
+            ]
+        },
+        {
+            "definition": "in addition",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "also",
+                "as well",
+                "besides",
+                "too"
+            ]
+        },
+        {
+            "definition": "equally",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "alike"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "like",
+            "wise"
+        ]
+    },
+    "pronunciation": {
+        "all": "'la\u026ak,wa\u026az"
+    },
+    "frequency": 3.6
+}

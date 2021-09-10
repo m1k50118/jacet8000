@@ -1,0 +1,34 @@
+{
+    "word": "driveway",
+    "results": [
+        {
+            "definition": "a road leading up to a private house",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "drive",
+                "private road"
+            ],
+            "typeOf": [
+                "road",
+                "route"
+            ],
+            "hasParts": [
+                "turnaround"
+            ],
+            "examples": [
+                "they parked in the driveway"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "drive",
+            "way"
+        ]
+    },
+    "pronunciation": {
+        "all": "'dra\u026av,we\u026a"
+    },
+    "frequency": 3.45
+}

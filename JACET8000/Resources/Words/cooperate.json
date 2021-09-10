@@ -1,0 +1,43 @@
+{
+    "word": "cooperate",
+    "results": [
+        {
+            "definition": "work together on a common enterprise of project",
+            "partOfSpeech": "verb",
+            "synonyms": [
+                "collaborate",
+                "get together",
+                "join forces"
+            ],
+            "typeOf": [
+                "work"
+            ],
+            "hasTypes": [
+                "collaborate",
+                "go along",
+                "play along"
+            ],
+            "verbGroup": [
+                "collaborate"
+            ],
+            "derivation": [
+                "cooperation",
+                "cooperative",
+                "cooperator"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "co",
+            "op",
+            "er",
+            "ate"
+        ]
+    },
+    "pronunciation": {
+        "all": "ko\u028a'\u0251p\u0259,re\u026at"
+    },
+    "frequency": 3.94
+}

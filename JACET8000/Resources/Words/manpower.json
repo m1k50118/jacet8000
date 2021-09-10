@@ -1,0 +1,43 @@
+{
+    "word": "manpower",
+    "results": [
+        {
+            "definition": "the force of workers available",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "hands",
+                "men",
+                "work force",
+                "workforce"
+            ],
+            "typeOf": [
+                "force",
+                "personnel"
+            ],
+            "hasTypes": [
+                "complement",
+                "full complement"
+            ],
+            "hasMembers": [
+                "work party",
+                "crew",
+                "gang"
+            ],
+            "hasParts": [
+                "shift"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "man",
+            "pow",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u00e6n,pa\u028a\u0259r"
+    },
+    "frequency": 3.27
+}

@@ -1,0 +1,41 @@
+{
+    "word": "narrator",
+    "results": [
+        {
+            "definition": "someone who tells a story",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "storyteller",
+                "teller"
+            ],
+            "typeOf": [
+                "verbalizer",
+                "speaker",
+                "talker",
+                "utterer",
+                "verbaliser"
+            ],
+            "hasTypes": [
+                "fabulist",
+                "griot",
+                "raconteur",
+                "anecdotist"
+            ],
+            "derivation": [
+                "narrate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "nar",
+            "ra",
+            "tor"
+        ]
+    },
+    "pronunciation": {
+        "all": "n\u0259're\u026at\u0259r"
+    },
+    "frequency": 4.46
+}

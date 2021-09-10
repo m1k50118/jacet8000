@@ -1,0 +1,32 @@
+{
+    "word": "petal",
+    "results": [
+        {
+            "definition": "part of the perianth that is usually brightly colored",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "flower petal"
+            ],
+            "typeOf": [
+                "floral leaf"
+            ],
+            "partOf": [
+                "corolla"
+            ],
+            "derivation": [
+                "petalous"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "pet",
+            "al"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u025bt\u0259l"
+    },
+    "frequency": 2.99
+}

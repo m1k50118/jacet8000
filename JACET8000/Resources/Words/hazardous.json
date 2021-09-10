@@ -1,0 +1,36 @@
+{
+    "word": "hazardous",
+    "results": [
+        {
+            "definition": "involving risk or danger",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "risky",
+                "wild"
+            ],
+            "similarTo": [
+                "dangerous",
+                "unsafe"
+            ],
+            "derivation": [
+                "hazard",
+                "hazardousness"
+            ],
+            "examples": [
+                "skydiving is a hazardous sport"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "haz",
+            "ard",
+            "ous"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u00e6z\u0259rd\u0259s"
+    },
+    "frequency": 3.1
+}

@@ -1,0 +1,44 @@
+{
+    "word": "punitive",
+    "results": [
+        {
+            "definition": "inflicting punishment",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "punitory"
+            ],
+            "similarTo": [
+                "correctional",
+                "penal",
+                "penitentiary",
+                "retaliative",
+                "retaliatory",
+                "retributive",
+                "retributory",
+                "vindicatory"
+            ],
+            "antonyms": [
+                "rehabilitative"
+            ],
+            "derivation": [
+                "punish"
+            ],
+            "examples": [
+                "punitive justice",
+                "punitive damages"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pu",
+            "ni",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "'pjun\u026at\u026av"
+    },
+    "frequency": 2.76
+}

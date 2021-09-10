@@ -1,0 +1,25 @@
+{
+    "word": "backyard",
+    "results": [
+        {
+            "definition": "the grounds in back of a house",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "curtilage",
+                "grounds",
+                "yard"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "back",
+            "yard"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u00e6k'j\u0251rd"
+    },
+    "frequency": 3.79
+}

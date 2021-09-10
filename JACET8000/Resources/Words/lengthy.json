@@ -1,0 +1,36 @@
+{
+    "word": "lengthy",
+    "results": [
+        {
+            "definition": "relatively long in duration; tediously protracted",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "drawn-out",
+                "extended",
+                "prolonged",
+                "protracted"
+            ],
+            "similarTo": [
+                "long"
+            ],
+            "derivation": [
+                "length",
+                "lengthiness"
+            ],
+            "examples": [
+                "a lengthy visit from her mother-in-law"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "length",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'l\u025b\u014bk\u03b8i"
+    },
+    "frequency": 2.9
+}

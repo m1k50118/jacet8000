@@ -1,0 +1,48 @@
+{
+    "word": "empowerment",
+    "results": [
+        {
+            "definition": "the act of conferring legality or sanction or formal warrant",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "authorisation",
+                "authorization"
+            ],
+            "typeOf": [
+                "direction",
+                "management"
+            ],
+            "hasTypes": [
+                "commissioning",
+                "delegating",
+                "delegation",
+                "deputation",
+                "enfranchisement",
+                "license",
+                "loan approval",
+                "permission",
+                "permit",
+                "relegating",
+                "relegation",
+                "rubber stamp",
+                "certification",
+                "sanction",
+                "commission"
+            ],
+            "derivation": [
+                "empower"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "em",
+            "pow",
+            "er",
+            "ment"
+        ]
+    },
+    "pronunciation": "\u026am'pa\u028a\u025drm\u028cnt",
+    "frequency": 2.43
+}

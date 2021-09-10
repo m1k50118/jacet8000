@@ -1,0 +1,50 @@
+{
+    "word": "gently",
+    "results": [
+        {
+            "definition": "in a gentle manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "mildly"
+            ],
+            "pertainsTo": [
+                "gentle"
+            ],
+            "examples": [
+                "he talked gently to the injured animal"
+            ]
+        },
+        {
+            "definition": "with little weight or force",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "lightly",
+                "softly"
+            ],
+            "pertainsTo": [
+                "gentle"
+            ]
+        },
+        {
+            "definition": "in a gradual manner",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "gentle"
+            ],
+            "examples": [
+                "a gently sloping terrain"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "gen",
+            "tly"
+        ]
+    },
+    "pronunciation": {
+        "all": "d\u0292\u025bntli"
+    },
+    "frequency": 4.06
+}

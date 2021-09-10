@@ -1,0 +1,34 @@
+{
+    "word": "seminar",
+    "results": [
+        {
+            "definition": "a course offered for a small group of advanced students",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "class",
+                "course",
+                "course of instruction",
+                "course of study"
+            ]
+        },
+        {
+            "definition": "any meeting for an exchange of ideas",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "conference"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "sem",
+            "i",
+            "nar"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u025bm\u0259,n\u0251r"
+    },
+    "frequency": 3.48
+}

@@ -1,0 +1,37 @@
+{
+    "word": "abolition",
+    "results": [
+        {
+            "definition": "the act of abolishing a system or practice or institution (especially abolishing slavery)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "abolishment"
+            ],
+            "typeOf": [
+                "conclusion",
+                "ending",
+                "termination"
+            ],
+            "derivation": [
+                "abolish",
+                "abolitionary"
+            ],
+            "examples": [
+                "the abolition of capital punishment"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ab",
+            "o",
+            "li",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u00e6b\u0259'l\u026a\u0283\u0259n"
+    },
+    "frequency": 2.54
+}

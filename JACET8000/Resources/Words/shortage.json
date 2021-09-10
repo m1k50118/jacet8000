@@ -1,0 +1,45 @@
+{
+    "word": "shortage",
+    "results": [
+        {
+            "definition": "an acute insufficiency",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dearth",
+                "famine"
+            ],
+            "typeOf": [
+                "deficiency",
+                "lack",
+                "want"
+            ]
+        },
+        {
+            "definition": "the property of being an amount by which something is less than expected or required",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "deficit",
+                "shortfall"
+            ],
+            "typeOf": [
+                "insufficiency",
+                "deficiency",
+                "inadequacy"
+            ],
+            "hasTypes": [
+                "oxygen deficit"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "short",
+            "age"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0283\u0254rt\u026ad\u0292"
+    },
+    "frequency": 3.41
+}

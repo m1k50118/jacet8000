@@ -1,0 +1,31 @@
+{
+    "word": "affective",
+    "results": [
+        {
+            "definition": "characterized by emotion",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "affectional",
+                "emotive"
+            ],
+            "similarTo": [
+                "emotional"
+            ],
+            "derivation": [
+                "affect"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "af",
+            "fec",
+            "tive"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'f\u025bkt\u026av"
+    },
+    "frequency": 2.03
+}

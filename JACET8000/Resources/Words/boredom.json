@@ -1,0 +1,31 @@
+{
+    "word": "boredom",
+    "results": [
+        {
+            "definition": "the feeling of being bored by something tedious",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "ennui",
+                "tedium"
+            ],
+            "typeOf": [
+                "dissatisfaction"
+            ],
+            "hasTypes": [
+                "blahs",
+                "fatigue"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "bore",
+            "dom"
+        ]
+    },
+    "pronunciation": {
+        "all": "'bo\u028ard\u0259m"
+    },
+    "frequency": 3.52
+}

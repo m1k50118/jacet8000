@@ -1,0 +1,45 @@
+{
+    "word": "uprising",
+    "results": [
+        {
+            "definition": "organized opposition to authority; a conflict in which one faction tries to wrest control from another",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "insurrection",
+                "rebellion",
+                "revolt",
+                "rising"
+            ],
+            "typeOf": [
+                "battle",
+                "conflict",
+                "struggle"
+            ],
+            "hasTypes": [
+                "mutiny",
+                "insurgence",
+                "insurgency",
+                "intifada",
+                "intifadah"
+            ],
+            "hasInstances": [
+                "great revolt",
+                "peasant's revolt",
+                "sepoy mutiny",
+                "indian mutiny"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "up",
+            "ris",
+            "ing"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u0259p,ra\u026azi\u014b"
+    },
+    "frequency": 3.29
+}

@@ -1,0 +1,51 @@
+{
+    "word": "disappointment",
+    "results": [
+        {
+            "definition": "a feeling of dissatisfaction that results when your expectations are not realized",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "letdown"
+            ],
+            "typeOf": [
+                "dissatisfaction"
+            ],
+            "hasTypes": [
+                "defeat",
+                "frustration"
+            ],
+            "derivation": [
+                "disappoint"
+            ],
+            "examples": [
+                "his hopes were so high he was doomed to disappointment"
+            ]
+        },
+        {
+            "definition": "an act (or failure to act) that disappoints someone",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dashing hopes"
+            ],
+            "typeOf": [
+                "failure"
+            ],
+            "derivation": [
+                "disappoint"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dis",
+            "ap",
+            "point",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u026as\u0259'p\u0254\u026antm\u0259nt"
+    },
+    "frequency": 3.65
+}

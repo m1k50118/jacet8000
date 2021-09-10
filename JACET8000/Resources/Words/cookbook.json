@@ -1,0 +1,29 @@
+{
+    "word": "cookbook",
+    "results": [
+        {
+            "definition": "a book of recipes and cooking directions",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "cookery book"
+            ],
+            "typeOf": [
+                "book of facts",
+                "reference",
+                "reference book",
+                "reference work"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "cook",
+            "book"
+        ]
+    },
+    "pronunciation": {
+        "all": "'k\u028ak,b\u028ak"
+    },
+    "frequency": 2.87
+}

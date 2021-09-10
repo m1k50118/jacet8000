@@ -1,0 +1,40 @@
+{
+    "word": "traumatic",
+    "results": [
+        {
+            "definition": "psychologically painful",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "painful"
+            ],
+            "derivation": [
+                "trauma"
+            ],
+            "examples": [
+                "few experiences are more traumatic than losing a child"
+            ]
+        },
+        {
+            "definition": "of or relating to a physical injury or wound to the body",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "trauma"
+            ],
+            "derivation": [
+                "trauma"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "trau",
+            "mat",
+            "ic"
+        ]
+    },
+    "pronunciation": {
+        "all": "tr\u0259'm\u00e6t\u026ak"
+    },
+    "frequency": 3.54
+}

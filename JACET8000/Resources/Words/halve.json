@@ -1,0 +1,26 @@
+{
+    "word": "halve",
+    "results": [
+        {
+            "definition": "divide by two; divide into halves",
+            "partOfSpeech": "verb",
+            "inCategory": [
+                "arithmetic"
+            ],
+            "typeOf": [
+                "divide",
+                "fraction"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "halve"
+        ]
+    },
+    "pronunciation": {
+        "all": "h\u00e6v"
+    },
+    "frequency": 2.3
+}

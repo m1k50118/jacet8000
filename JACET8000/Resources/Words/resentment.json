@@ -1,0 +1,45 @@
+{
+    "word": "resentment",
+    "results": [
+        {
+            "definition": "a feeling of deep and bitter anger and ill-will",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bitterness",
+                "gall",
+                "rancor",
+                "rancour"
+            ],
+            "typeOf": [
+                "ill will",
+                "hostility",
+                "enmity"
+            ],
+            "hasTypes": [
+                "grievance",
+                "grudge",
+                "heartburning",
+                "huffishness",
+                "score",
+                "sulkiness",
+                "enviousness",
+                "envy"
+            ],
+            "derivation": [
+                "resent"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "sent",
+            "ment"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'z\u025bntm\u0259nt"
+    },
+    "frequency": 3.24
+}

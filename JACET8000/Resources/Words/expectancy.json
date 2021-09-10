@@ -1,0 +1,57 @@
+{
+    "word": "expectancy",
+    "results": [
+        {
+            "definition": "an expectation",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "anticipation"
+            ],
+            "typeOf": [
+                "expectation"
+            ],
+            "hasTypes": [
+                "suspense",
+                "fever",
+                "hope"
+            ],
+            "derivation": [
+                "expectant"
+            ]
+        },
+        {
+            "definition": "something expected (as on the basis of a norm)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "anticipation"
+            ],
+            "typeOf": [
+                "expectation",
+                "outlook",
+                "prospect"
+            ],
+            "hasTypes": [
+                "life expectancy"
+            ],
+            "derivation": [
+                "expect"
+            ],
+            "examples": [
+                "an indicator of expectancy in development"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ex",
+            "pec",
+            "tan",
+            "cy"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026ak'sp\u025bkt\u0259nsi"
+    },
+    "frequency": 2.84
+}

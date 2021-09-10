@@ -1,0 +1,42 @@
+{
+    "word": "positively",
+    "results": [
+        {
+            "definition": "extremely",
+            "partOfSpeech": "adverb",
+            "usageOf": [
+                "intensifier",
+                "intensive"
+            ],
+            "pertainsTo": [
+                "positive"
+            ],
+            "examples": [
+                "it was positively monumental"
+            ]
+        },
+        {
+            "definition": "so as to be positive; in a positive manner",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "positive"
+            ],
+            "examples": [
+                "she intended her remarks to be interpreted positively"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "pos",
+            "i",
+            "tive",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u0251z\u026at\u026avli"
+    },
+    "frequency": 3.42
+}

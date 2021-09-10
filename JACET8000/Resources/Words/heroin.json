@@ -1,0 +1,37 @@
+{
+    "word": "heroin",
+    "results": [
+        {
+            "definition": "a narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "diacetylmorphine"
+            ],
+            "typeOf": [
+                "hard drug",
+                "opiate"
+            ],
+            "hasTypes": [
+                "nose drops",
+                "scag",
+                "skag",
+                "smack",
+                "big h",
+                "thunder",
+                "hell dust"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "her",
+            "o",
+            "in"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u025bro\u028a\u026an"
+    },
+    "frequency": 3.96
+}

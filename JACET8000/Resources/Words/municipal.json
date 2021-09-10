@@ -1,0 +1,47 @@
+{
+    "word": "municipal",
+    "results": [
+        {
+            "definition": "of or relating to the government of a municipality",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "domestic"
+            ],
+            "derivation": [
+                "municipality"
+            ],
+            "examples": [
+                "international law...only authorizes a belligerent to punish a spy under its municipal law"
+            ]
+        },
+        {
+            "definition": "relating or belonging to or characteristic of a municipality",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "municipality"
+            ],
+            "derivation": [
+                "municipality"
+            ],
+            "examples": [
+                "municipal government",
+                "municipal bonds",
+                "a municipal park",
+                "municipal transportation"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "mu",
+            "nic",
+            "i",
+            "pal"
+        ]
+    },
+    "pronunciation": {
+        "all": "mju'n\u026as\u0259p\u0259l"
+    },
+    "frequency": 3.26
+}

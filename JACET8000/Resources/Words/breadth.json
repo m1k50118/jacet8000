@@ -1,0 +1,54 @@
+{
+    "word": "breadth",
+    "results": [
+        {
+            "definition": "the extent of something from side to side",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "width"
+            ],
+            "attribute": [
+                "wide",
+                "broad",
+                "narrow"
+            ],
+            "typeOf": [
+                "dimension"
+            ],
+            "hasTypes": [
+                "narrowness",
+                "broadness",
+                "beam",
+                "wideness"
+            ]
+        },
+        {
+            "definition": "the capacity to understand a broad range of topics",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "comprehensiveness",
+                "largeness"
+            ],
+            "typeOf": [
+                "intelligence"
+            ],
+            "hasTypes": [
+                "roominess",
+                "capaciousness"
+            ],
+            "examples": [
+                "a teacher must have a breadth of knowledge of the subject"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "breadth"
+        ]
+    },
+    "pronunciation": {
+        "all": "br\u025bd\u03b8"
+    },
+    "frequency": 2.67
+}

@@ -1,0 +1,50 @@
+{
+    "word": "citizenship",
+    "results": [
+        {
+            "definition": "conduct as a citizen",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "behavior",
+                "behaviour",
+                "conduct",
+                "demeanor",
+                "demeanour",
+                "deportment"
+            ],
+            "derivation": [
+                "citizen"
+            ],
+            "examples": [
+                "award for good citizenship"
+            ]
+        },
+        {
+            "definition": "the status of a citizen with rights and duties",
+            "partOfSpeech": "noun",
+            "inCategory": [
+                "jurisprudence",
+                "law"
+            ],
+            "typeOf": [
+                "legal status"
+            ],
+            "derivation": [
+                "citizen"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "cit",
+            "i",
+            "zen",
+            "ship"
+        ]
+    },
+    "pronunciation": {
+        "all": "'s\u026at\u026az\u0259n,\u0283\u026ap"
+    },
+    "frequency": 3.26
+}

@@ -1,0 +1,39 @@
+{
+    "word": "dinosaur",
+    "results": [
+        {
+            "definition": "any of numerous extinct terrestrial reptiles of the Mesozoic era",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "archosaur",
+                "archosaurian",
+                "archosaurian reptile"
+            ],
+            "hasTypes": [
+                "argentinosaur",
+                "diplodocus",
+                "ground-shaker",
+                "iguanodon",
+                "ornithischian",
+                "ornithischian dinosaur",
+                "saurischian",
+                "saurischian dinosaur",
+                "seismosaur",
+                "titanosaur",
+                "titanosaurian"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "di",
+            "no",
+            "saur"
+        ]
+    },
+    "pronunciation": {
+        "all": "'da\u026an\u0259,s\u0254r"
+    },
+    "frequency": 3.65
+}

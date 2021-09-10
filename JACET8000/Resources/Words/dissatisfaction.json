@@ -1,0 +1,45 @@
+{
+    "word": "dissatisfaction",
+    "results": [
+        {
+            "definition": "the feeling of being displeased and discontent",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "discontentedness",
+                "discontentment",
+                "discontent"
+            ],
+            "hasTypes": [
+                "ennui",
+                "letdown",
+                "boredom",
+                "tedium",
+                "disappointment",
+                "displeasure"
+            ],
+            "antonyms": [
+                "satisfaction"
+            ],
+            "derivation": [
+                "dissatisfy"
+            ],
+            "examples": [
+                "he was never slow to express his dissatisfaction with the service he received"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "dis",
+            "sat",
+            "is",
+            "fac",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u026ass\u00e6t\u026as'f\u00e6k\u0283\u0259n"
+    },
+    "frequency": 2.68
+}

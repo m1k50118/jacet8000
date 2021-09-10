@@ -1,0 +1,32 @@
+{
+    "word": "regal",
+    "results": [
+        {
+            "definition": "belonging to or befitting a supreme ruler",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "imperial",
+                "majestic",
+                "purple",
+                "royal"
+            ],
+            "similarTo": [
+                "noble"
+            ],
+            "examples": [
+                "regal attire"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "re",
+            "gal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ri\u0261\u0259l"
+    },
+    "frequency": 2.96
+}

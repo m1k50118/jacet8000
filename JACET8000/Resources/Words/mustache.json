@@ -1,0 +1,43 @@
+{
+    "word": "mustache",
+    "results": [
+        {
+            "definition": "an unshaved growth of hair on the upper lip",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "moustache"
+            ],
+            "typeOf": [
+                "facial hair"
+            ],
+            "hasTypes": [
+                "walrus mustache",
+                "handle-bars",
+                "moustachio",
+                "mustachio",
+                "soup-strainer",
+                "walrus moustache",
+                "toothbrush"
+            ],
+            "partOf": [
+                "whiskers",
+                "face fungus",
+                "beard"
+            ],
+            "examples": [
+                "he looked younger after he shaved off his mustache"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "mus",
+            "tache"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u0259st\u00e6\u0283"
+    },
+    "frequency": 3.64
+}

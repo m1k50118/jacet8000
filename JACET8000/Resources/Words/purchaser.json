@@ -1,0 +1,36 @@
+{
+    "word": "purchaser",
+    "results": [
+        {
+            "definition": "a person who buys",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "buyer",
+                "emptor",
+                "vendee"
+            ],
+            "typeOf": [
+                "client",
+                "customer"
+            ],
+            "hasTypes": [
+                "customer agent",
+                "home buyer",
+                "orderer"
+            ],
+            "derivation": [
+                "purchase"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "pur",
+            "chas",
+            "er"
+        ]
+    },
+    "pronunciation": "'p\u025drt\u0283\u028cs\u025dr",
+    "frequency": 2.08
+}

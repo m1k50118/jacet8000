@@ -1,0 +1,50 @@
+{
+    "word": "adventurous",
+    "results": [
+        {
+            "definition": "willing to undertake or seeking out new and daring enterprises",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "adventuresome"
+            ],
+            "also": [
+                "courageous",
+                "bold",
+                "incautious",
+                "brave"
+            ],
+            "similarTo": [
+                "swashbuckling",
+                "venturesome",
+                "audacious",
+                "venturous",
+                "daring",
+                "sporting",
+                "swaggering"
+            ],
+            "antonyms": [
+                "unadventurous"
+            ],
+            "derivation": [
+                "adventure",
+                "adventurousness"
+            ],
+            "examples": [
+                "adventurous pioneers"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ad",
+            "ven",
+            "tur",
+            "ous"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u00e6d'v\u025bn\u02a7\u0259r\u0259s"
+    },
+    "frequency": 3.16
+}

@@ -1,0 +1,59 @@
+{
+    "word": "exploration",
+    "results": [
+        {
+            "definition": "to travel for the purpose of discovery",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "geographic expedition"
+            ],
+            "typeOf": [
+                "expedition"
+            ],
+            "derivation": [
+                "explore"
+            ]
+        },
+        {
+            "definition": "a careful systematic search",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "hunt",
+                "hunting",
+                "search"
+            ],
+            "hasTypes": [
+                "probe"
+            ],
+            "derivation": [
+                "explore"
+            ]
+        },
+        {
+            "definition": "a systematic consideration",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "consideration"
+            ],
+            "derivation": [
+                "explore"
+            ],
+            "examples": [
+                "he called for a careful exploration of the consequences"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "ex",
+            "plo",
+            "ra",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",\u025bkspl\u0259're\u026a\u0283\u0259n"
+    },
+    "frequency": 3.31
+}

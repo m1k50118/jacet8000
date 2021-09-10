@@ -1,0 +1,47 @@
+{
+    "word": "genesis",
+    "results": [
+        {
+            "definition": "a coming into being",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "generation"
+            ],
+            "typeOf": [
+                "beginning"
+            ]
+        },
+        {
+            "definition": "the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain and Abel; Noah and the flood; God's covenant with Abraham; Abraham and Isaac; Jacob and Esau; Joseph and his brothers",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "book of genesis"
+            ],
+            "hasCategories": [
+                "babel",
+                "tower of babel"
+            ],
+            "instanceOf": [
+                "book"
+            ],
+            "partOf": [
+                "laws",
+                "old testament",
+                "pentateuch",
+                "torah"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "gen",
+            "e",
+            "sis"
+        ]
+    },
+    "pronunciation": {
+        "all": "'d\u0292\u025bn\u026as\u026as"
+    },
+    "frequency": 3.35
+}

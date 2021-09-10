@@ -1,0 +1,62 @@
+{
+    "word": "demolition",
+    "results": [
+        {
+            "definition": "an event (or the result of an event) that completely destroys something",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "destruction",
+                "wipeout"
+            ],
+            "typeOf": [
+                "finish",
+                "ending",
+                "conclusion"
+            ],
+            "hasTypes": [
+                "wrecking",
+                "depredation",
+                "disintegration",
+                "wrack",
+                "annihilation",
+                "eradication",
+                "obliteration",
+                "rack",
+                "ravage",
+                "razing",
+                "ruin",
+                "ruination"
+            ],
+            "derivation": [
+                "demolish"
+            ]
+        },
+        {
+            "definition": "the act of demolishing",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "devastation",
+                "destruction"
+            ],
+            "derivation": [
+                "demolish"
+            ],
+            "examples": [
+                "the demolition of the huge tower was quite a spectacle"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "dem",
+            "o",
+            "li",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",d\u025bm\u0259'l\u026a\u0283\u0259n"
+    },
+    "frequency": 3.48
+}

@@ -1,0 +1,32 @@
+{
+    "word": "respiratory",
+    "results": [
+        {
+            "definition": "pertaining to respiration",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "respiration"
+            ],
+            "derivation": [
+                "respire"
+            ],
+            "examples": [
+                "respiratory assistance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "res",
+            "pi",
+            "ra",
+            "to",
+            "ry"
+        ]
+    },
+    "pronunciation": {
+        "all": "'r\u025bsp\u0259r\u0259,to\u028ari"
+    },
+    "frequency": 3.06
+}

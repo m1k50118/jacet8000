@@ -1,0 +1,67 @@
+{
+    "word": "contradiction",
+    "results": [
+        {
+            "definition": "(logic) a statement that is necessarily false",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "contradiction in terms"
+            ],
+            "inCategory": [
+                "logic"
+            ],
+            "typeOf": [
+                "untruth",
+                "falsehood",
+                "falsity"
+            ],
+            "hasTypes": [
+                "antinomy",
+                "paradox"
+            ],
+            "examples": [
+                "the statement `he is brave and he is not brave' is a contradiction"
+            ]
+        },
+        {
+            "definition": "opposition between two conflicting forces or ideas",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "oppositeness",
+                "opposition"
+            ],
+            "hasTypes": [
+                "dialectic"
+            ]
+        },
+        {
+            "definition": "the speech act of contradicting someone",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "negation"
+            ],
+            "hasTypes": [
+                "self-contradiction"
+            ],
+            "derivation": [
+                "contradict"
+            ],
+            "examples": [
+                "he spoke as if he thought his claims were immune to contradiction"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "con",
+            "tra",
+            "dic",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": ",k\u0251ntr\u0259'd\u026ak\u0283\u0259n"
+    },
+    "frequency": 3.27
+}

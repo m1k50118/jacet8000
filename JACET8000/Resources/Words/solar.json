@@ -1,0 +1,27 @@
+{
+    "word": "solar",
+    "results": [
+        {
+            "definition": "relating to or derived from the sun or utilizing the energies of the sun",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "sun"
+            ],
+            "examples": [
+                "solar eclipse",
+                "solar energy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "so",
+            "lar"
+        ]
+    },
+    "pronunciation": {
+        "all": "'so\u028al\u0259r"
+    },
+    "frequency": 4.02
+}

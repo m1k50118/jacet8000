@@ -1,0 +1,42 @@
+{
+    "word": "obey",
+    "results": [
+        {
+            "definition": "be obedient to",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "conform",
+                "adjust",
+                "adapt"
+            ],
+            "hasTypes": [
+                "heed",
+                "listen",
+                "mind",
+                "abide by",
+                "take orders",
+                "comply",
+                "follow"
+            ],
+            "antonyms": [
+                "disobey"
+            ],
+            "derivation": [
+                "obedience",
+                "obedient",
+                "obeisance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "o",
+            "bey"
+        ]
+    },
+    "pronunciation": {
+        "all": "o\u028a'be\u026a"
+    },
+    "frequency": 4.14
+}

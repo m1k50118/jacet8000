@@ -1,0 +1,50 @@
+{
+    "word": "unnecessary",
+    "results": [
+        {
+            "definition": "not necessary",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "unneeded"
+            ],
+            "also": [
+                "inessential",
+                "unessential"
+            ],
+            "attribute": [
+                "necessity"
+            ],
+            "similarTo": [
+                "gratuitous",
+                "extra",
+                "inessential",
+                "needless",
+                "redundant",
+                "spare",
+                "supererogatory",
+                "superfluous",
+                "supernumerary",
+                "surplus",
+                "uncalled-for",
+                "excess"
+            ],
+            "antonyms": [
+                "necessary"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "un",
+            "nec",
+            "es",
+            "sar",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n'n\u025bs\u026a,s\u025bri"
+    },
+    "frequency": 3.73
+}

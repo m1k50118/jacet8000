@@ -1,0 +1,33 @@
+{
+    "word": "brochure",
+    "results": [
+        {
+            "definition": "a small book usually having a paper cover",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "booklet",
+                "folder",
+                "leaflet",
+                "pamphlet"
+            ],
+            "typeOf": [
+                "book"
+            ],
+            "hasTypes": [
+                "blue book",
+                "ticket book"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "bro",
+            "chure"
+        ]
+    },
+    "pronunciation": {
+        "all": "bro\u028a'\u0283\u028ar"
+    },
+    "frequency": 3.34
+}

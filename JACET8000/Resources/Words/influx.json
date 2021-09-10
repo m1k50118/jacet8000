@@ -1,0 +1,34 @@
+{
+    "word": "influx",
+    "results": [
+        {
+            "definition": "the process of flowing in",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "inflow"
+            ],
+            "typeOf": [
+                "flow"
+            ],
+            "hasTypes": [
+                "inpour",
+                "inpouring",
+                "inrush"
+            ],
+            "antonyms": [
+                "efflux"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "in",
+            "flux"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u026an,fl\u0259ks"
+    },
+    "frequency": 2.68
+}

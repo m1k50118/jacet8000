@@ -1,0 +1,34 @@
+{
+    "word": "fisherman",
+    "results": [
+        {
+            "definition": "someone whose occupation is catching fish",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "fisher"
+            ],
+            "typeOf": [
+                "skilled worker",
+                "skilled workman",
+                "trained worker"
+            ],
+            "hasTypes": [
+                "angler",
+                "trawler",
+                "troller"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "fish",
+            "er",
+            "man"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u026a\u0283\u0259rm\u0259n"
+    },
+    "frequency": 3.65
+}

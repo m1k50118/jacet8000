@@ -1,0 +1,86 @@
+{
+    "word": "investigator",
+    "results": [
+        {
+            "definition": "a police officer who investigates crimes",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "detective",
+                "police detective",
+                "tec"
+            ],
+            "typeOf": [
+                "police officer",
+                "policeman",
+                "officer"
+            ],
+            "hasTypes": [
+                "dick",
+                "plainclothesman",
+                "tracer",
+                "gumshoe",
+                "hawkshaw"
+            ],
+            "derivation": [
+                "investigate"
+            ]
+        },
+        {
+            "definition": "a scientist who devotes himself to doing research",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "research worker",
+                "researcher"
+            ],
+            "typeOf": [
+                "scientist"
+            ],
+            "hasTypes": [
+                "post doc",
+                "fieldworker",
+                "postdoc",
+                "experimenter",
+                "boffin"
+            ],
+            "derivation": [
+                "investigate"
+            ]
+        },
+        {
+            "definition": "someone who investigates",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "expert"
+            ],
+            "hasTypes": [
+                "adjuster",
+                "adjustor",
+                "claim agent",
+                "claims adjuster",
+                "claims adjustor",
+                "coroner",
+                "detective",
+                "examiner",
+                "inspector",
+                "medical examiner",
+                "ombudsman"
+            ],
+            "hasInstances": [
+                "samuel wiesenthal",
+                "wiesenthal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "in",
+            "ves",
+            "ti",
+            "ga",
+            "tor"
+        ]
+    },
+    "pronunciation": "\u026an'v\u025bst\u028c,\u0261e\u026at\u025dr",
+    "frequency": 3.62
+}

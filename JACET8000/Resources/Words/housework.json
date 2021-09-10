@@ -1,0 +1,26 @@
+{
+    "word": "housework",
+    "results": [
+        {
+            "definition": "the work of cleaning and running a house",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "housekeeping"
+            ],
+            "typeOf": [
+                "work"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "house",
+            "work"
+        ]
+    },
+    "pronunciation": {
+        "all": "'ha\u028as,w\u025crk"
+    },
+    "frequency": 3.17
+}

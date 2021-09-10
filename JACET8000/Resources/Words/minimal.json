@@ -1,0 +1,42 @@
+{
+    "word": "minimal",
+    "results": [
+        {
+            "definition": "the least possible",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "minimum"
+            ],
+            "similarTo": [
+                "borderline",
+                "marginal",
+                "negligible",
+                "nominal",
+                "stripped",
+                "stripped-down",
+                "token",
+                "tokenish"
+            ],
+            "antonyms": [
+                "maximal"
+            ],
+            "examples": [
+                "needed to enforce minimal standards",
+                "her grades were minimal",
+                "a minimal charge for the service"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "min",
+            "i",
+            "mal"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u026an\u0259m\u0259l"
+    },
+    "frequency": 3.27
+}

@@ -1,0 +1,26 @@
+{
+    "word": "database",
+    "results": [
+        {
+            "definition": "an organized body of related information",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "info",
+                "information"
+            ],
+            "hasTypes": [
+                "electronic information service",
+                "list",
+                "listing",
+                "on-line database",
+                "computer database",
+                "subdata base",
+                "electronic database"
+            ]
+        }
+    ],
+    "pronunciation": {
+        "all": "'de\u026at\u0259,be\u026as"
+    },
+    "frequency": 3.64
+}

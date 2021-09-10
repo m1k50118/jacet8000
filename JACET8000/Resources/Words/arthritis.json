@@ -1,0 +1,39 @@
+{
+    "word": "arthritis",
+    "results": [
+        {
+            "definition": "inflammation of a joint or joints",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "inflammatory disease"
+            ],
+            "hasTypes": [
+                "degenerative arthritis",
+                "degenerative joint disease",
+                "gout",
+                "gouty arthritis",
+                "osteoarthritis",
+                "rheumatism",
+                "rheumatoid arthritis",
+                "spondylarthritis",
+                "atrophic arthritis",
+                "urarthritis"
+            ],
+            "derivation": [
+                "arthritic"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ar",
+            "thri",
+            "tis"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0251r'\u03b8ra\u026at\u026as"
+    },
+    "frequency": 3.17
+}

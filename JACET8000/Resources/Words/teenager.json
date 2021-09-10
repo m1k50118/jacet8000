@@ -1,0 +1,40 @@
+{
+    "word": "teenager",
+    "results": [
+        {
+            "definition": "a juvenile between the onset of puberty and maturity",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "adolescent",
+                "stripling",
+                "teen"
+            ],
+            "typeOf": [
+                "juvenile person",
+                "juvenile"
+            ],
+            "hasTypes": [
+                "pachuco",
+                "punk",
+                "punk rocker",
+                "rocker",
+                "young buck",
+                "chebab",
+                "young man",
+                "mod"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "teen",
+            "ag",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "'tin,e\u026ad\u0292\u0259r"
+    },
+    "frequency": 3.83
+}

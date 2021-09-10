@@ -1,0 +1,40 @@
+{
+    "word": "motto",
+    "results": [
+        {
+            "definition": "a favorite saying of a sect or political group",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "catchword",
+                "shibboleth",
+                "slogan"
+            ],
+            "typeOf": [
+                "saying",
+                "expression",
+                "locution"
+            ],
+            "hasTypes": [
+                "cry",
+                "mantra",
+                "rallying cry",
+                "war cry",
+                "battle cry",
+                "watchword",
+                "catch phrase",
+                "catchphrase"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "mot",
+            "to"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u0251to\u028a"
+    },
+    "frequency": 3.63
+}

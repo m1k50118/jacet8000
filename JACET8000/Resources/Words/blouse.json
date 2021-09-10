@@ -1,0 +1,33 @@
+{
+    "word": "blouse",
+    "results": [
+        {
+            "definition": "a top worn by women",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "top"
+            ],
+            "hasTypes": [
+                "guimpe",
+                "middy",
+                "middy blouse",
+                "shirtwaist",
+                "shirtwaister",
+                "garibaldi"
+            ],
+            "hasParts": [
+                "neckline"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "blouse"
+        ]
+    },
+    "pronunciation": {
+        "all": "bla\u028as"
+    },
+    "frequency": 3.68
+}

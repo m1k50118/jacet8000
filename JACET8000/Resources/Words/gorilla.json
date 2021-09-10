@@ -1,0 +1,40 @@
+{
+    "word": "gorilla",
+    "results": [
+        {
+            "definition": "largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "gorilla gorilla"
+            ],
+            "typeOf": [
+                "great ape",
+                "pongid"
+            ],
+            "hasTypes": [
+                "gorilla gorilla gorilla",
+                "gorilla gorilla grauri",
+                "mountain gorilla",
+                "western lowland gorilla",
+                "gorilla gorilla beringei",
+                "eastern lowland gorilla",
+                "silverback"
+            ],
+            "memberOf": [
+                "genus gorilla"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "go",
+            "ril",
+            "la"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0261\u0259'r\u026al\u0259"
+    },
+    "frequency": 3.61
+}

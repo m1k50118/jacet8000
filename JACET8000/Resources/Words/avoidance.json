@@ -1,0 +1,38 @@
+{
+    "word": "avoidance",
+    "results": [
+        {
+            "definition": "deliberately avoiding; keeping away from or preventing from happening",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "dodging",
+                "shunning",
+                "turning away"
+            ],
+            "typeOf": [
+                "rejection"
+            ],
+            "hasTypes": [
+                "aversion",
+                "averting",
+                "escape",
+                "near thing"
+            ],
+            "derivation": [
+                "avoid"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "a",
+            "void",
+            "ance"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'v\u0254\u026ad\u0259ns"
+    },
+    "frequency": 2.57
+}

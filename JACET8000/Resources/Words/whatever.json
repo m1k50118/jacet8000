@@ -1,0 +1,31 @@
+{
+    "word": "whatever",
+    "results": [
+        {
+            "definition": "one or some or every or all without specification",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "any",
+                "whatsoever"
+            ],
+            "similarTo": [
+                "some"
+            ],
+            "examples": [
+                "give me whatever peaches you don't want"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "what",
+            "ev",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "hw\u0259t'\u025bv\u0259r"
+    },
+    "frequency": 5.39
+}

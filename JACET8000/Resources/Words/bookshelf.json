@@ -1,0 +1,23 @@
+{
+    "word": "bookshelf",
+    "results": [
+        {
+            "definition": "a shelf on which to keep books",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "shelf"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "book",
+            "shelf"
+        ]
+    },
+    "pronunciation": {
+        "all": "'b\u028ak,\u0283\u025blf"
+    },
+    "frequency": 2.81
+}

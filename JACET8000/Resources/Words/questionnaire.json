@@ -1,0 +1,28 @@
+{
+    "word": "questionnaire",
+    "results": [
+        {
+            "definition": "a form containing a set of questions; submitted to people to gain statistical information",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "form"
+            ],
+            "hasTypes": [
+                "personality assessment",
+                "personality inventory"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ques",
+            "tion",
+            "naire"
+        ]
+    },
+    "pronunciation": {
+        "all": ",kw\u025bs\u02a7\u0259'n\u025cr"
+    },
+    "frequency": 2.87
+}

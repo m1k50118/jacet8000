@@ -1,0 +1,38 @@
+{
+    "word": "inception",
+    "results": [
+        {
+            "definition": "an event that is a beginning; a first part or stage of subsequent events",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "origin",
+                "origination"
+            ],
+            "typeOf": [
+                "beginning"
+            ],
+            "hasTypes": [
+                "cause",
+                "emanation",
+                "germination",
+                "overture",
+                "preliminary",
+                "prelude",
+                "procession",
+                "rise"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "in",
+            "cep",
+            "tion"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026an's\u025bp\u0283\u0259n"
+    },
+    "frequency": 2.63
+}

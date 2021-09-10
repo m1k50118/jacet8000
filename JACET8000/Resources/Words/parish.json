@@ -1,0 +1,44 @@
+{
+    "word": "parish",
+    "results": [
+        {
+            "definition": "a local church community",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "community"
+            ],
+            "hasMembers": [
+                "parishioner"
+            ],
+            "derivation": [
+                "parochial"
+            ]
+        },
+        {
+            "definition": "the local subdivision of a diocese committed to one pastor",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "jurisdiction"
+            ],
+            "partOf": [
+                "bishopric",
+                "diocese",
+                "episcopate"
+            ],
+            "derivation": [
+                "parochial"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "par",
+            "ish"
+        ]
+    },
+    "pronunciation": {
+        "all": "'p\u00e6r\u026a\u0283"
+    },
+    "frequency": 3.67
+}

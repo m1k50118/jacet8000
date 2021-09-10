@@ -1,0 +1,36 @@
+{
+    "word": "presidential",
+    "results": [
+        {
+            "definition": "befitting a president",
+            "partOfSpeech": "adjective",
+            "also": [
+                "statesmanlike",
+                "statesmanly"
+            ],
+            "antonyms": [
+                "unpresidential"
+            ],
+            "examples": [
+                "criticized the candidate for not looking presidential"
+            ]
+        },
+        {
+            "definition": "relating to a president or presidency",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "president"
+            ],
+            "derivation": [
+                "president",
+                "presidency"
+            ],
+            "examples": [
+                "presidential aides",
+                "presidential veto"
+            ]
+        }
+    ],
+    "pronunciation": ",pr\u025bz\u028c'd\u025bnt\u0283\u028cl",
+    "frequency": 3.72
+}

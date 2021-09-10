@@ -1,0 +1,45 @@
+{
+    "word": "aboard",
+    "results": [
+        {
+            "definition": "side by side",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "alongside"
+            ],
+            "examples": [
+                "anchored close aboard another ship"
+            ]
+        },
+        {
+            "definition": "on a ship, train, plane or other vehicle",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "on board"
+            ]
+        },
+        {
+            "definition": "on first or second or third base",
+            "partOfSpeech": "adverb",
+            "inCategory": [
+                "ball",
+                "baseball",
+                "baseball game"
+            ],
+            "examples": [
+                "Their second homer with Bob Allison aboard"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "a",
+            "board"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259'bo\u028ard"
+    },
+    "frequency": 4.07
+}

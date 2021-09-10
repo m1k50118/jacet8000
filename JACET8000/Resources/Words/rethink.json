@@ -1,0 +1,44 @@
+{
+    "word": "rethink",
+    "results": [
+        {
+            "definition": "thinking again about a choice previously made",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "afterthought",
+                "reconsideration",
+                "second thought"
+            ],
+            "typeOf": [
+                "flip-flop",
+                "turnaround",
+                "turnabout",
+                "reversal",
+                "change of mind"
+            ]
+        },
+        {
+            "definition": "change one's mind",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "believe",
+                "think",
+                "consider",
+                "conceive"
+            ],
+            "hasTypes": [
+                "about-face",
+                "backpedal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "re",
+            "think"
+        ]
+    },
+    "pronunciation": "ri'\u03b8\u026a\u014bk",
+    "frequency": 3.17
+}

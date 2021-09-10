@@ -1,0 +1,37 @@
+{
+    "word": "smoothly",
+    "results": [
+        {
+            "definition": "with no problems or difficulties",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "swimmingly"
+            ],
+            "pertainsTo": [
+                "smooth"
+            ],
+            "examples": [
+                "put the plans into effect quickly and smoothly"
+            ]
+        },
+        {
+            "definition": "in a smooth and diplomatic manner",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "smooth"
+            ],
+            "examples": [
+                "`And now,' he said smoothly, `we will continue the conversation'"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "smooth",
+            "ly"
+        ]
+    },
+    "pronunciation": "'smu\u00f0li",
+    "frequency": 3.57
+}

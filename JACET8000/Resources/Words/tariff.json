@@ -1,0 +1,51 @@
+{
+    "word": "tariff",
+    "results": [
+        {
+            "definition": "a government tax on imports or exports",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "duty"
+            ],
+            "typeOf": [
+                "indirect tax"
+            ],
+            "hasTypes": [
+                "custom",
+                "customs",
+                "customs duty",
+                "export duty",
+                "import duty",
+                "impost",
+                "octroi",
+                "protective tariff",
+                "revenue tariff",
+                "tonnage",
+                "tonnage duty",
+                "tunnage",
+                "countervailing duty"
+            ]
+        },
+        {
+            "definition": "charge a tariff",
+            "partOfSpeech": "verb",
+            "typeOf": [
+                "tax"
+            ],
+            "examples": [
+                "tariff imported goods"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "tar",
+            "iff"
+        ]
+    },
+    "pronunciation": {
+        "all": "'t\u00e6rif"
+    },
+    "frequency": 2.5
+}

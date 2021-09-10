@@ -1,0 +1,33 @@
+{
+    "word": "politely",
+    "results": [
+        {
+            "definition": "in a polite manner",
+            "partOfSpeech": "adverb",
+            "synonyms": [
+                "courteously"
+            ],
+            "antonyms": [
+                "impolitely"
+            ],
+            "pertainsTo": [
+                "polite"
+            ],
+            "examples": [
+                "the policeman answered politely, `Now look here, lady...'"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "po",
+            "lite",
+            "ly"
+        ]
+    },
+    "pronunciation": {
+        "all": "p\u0259'la\u026atli"
+    },
+    "frequency": 3.38
+}

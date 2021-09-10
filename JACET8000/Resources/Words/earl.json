@@ -1,0 +1,30 @@
+{
+    "word": "earl",
+    "results": [
+        {
+            "definition": "a British peer ranking below a marquess and above a viscount",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "peer"
+            ],
+            "hasInstances": [
+                "earl of leicester",
+                "montfort",
+                "simon de montfort"
+            ],
+            "derivation": [
+                "earldom"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "earl"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u025crl"
+    },
+    "frequency": 4.05
+}

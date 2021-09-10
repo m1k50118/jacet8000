@@ -1,0 +1,40 @@
+{
+    "word": "windmill",
+    "results": [
+        {
+            "definition": "generator that extracts usable energy from winds",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "aerogenerator",
+                "wind generator"
+            ],
+            "typeOf": [
+                "generator"
+            ],
+            "hasParts": [
+                "blade",
+                "vane"
+            ]
+        },
+        {
+            "definition": "a mill that is powered by the wind",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "grinder",
+                "mill",
+                "milling machinery"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "wind",
+            "mill"
+        ]
+    },
+    "pronunciation": {
+        "all": "'w\u026and,m\u026al"
+    },
+    "frequency": 3.08
+}

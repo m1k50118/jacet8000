@@ -1,0 +1,62 @@
+{
+    "word": "imbalance",
+    "results": [
+        {
+            "definition": "(mathematics) a lack of symmetry",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "asymmetry",
+                "dissymmetry"
+            ],
+            "inCategory": [
+                "math",
+                "maths",
+                "mathematics"
+            ],
+            "typeOf": [
+                "spatiality",
+                "spatial property"
+            ],
+            "hasTypes": [
+                "laterality",
+                "lopsidedness",
+                "handedness",
+                "geometrical irregularity",
+                "footedness",
+                "radial asymmetry",
+                "skewness",
+                "eyedness",
+                "irregularity"
+            ]
+        },
+        {
+            "definition": "a lack of balance or state of disequilibrium",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "instability",
+                "unbalance"
+            ],
+            "typeOf": [
+                "disequilibrium"
+            ],
+            "antonyms": [
+                "balance"
+            ],
+            "examples": [
+                "a hormonal imbalance"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "im",
+            "bal",
+            "ance"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026am'b\u00e6l\u0259ns"
+    },
+    "frequency": 2.94
+}

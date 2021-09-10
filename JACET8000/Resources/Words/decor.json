@@ -1,0 +1,31 @@
+{
+    "word": "decor",
+    "results": [
+        {
+            "definition": "decoration consisting of the layout and furnishings of a livable interior",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "interior decoration"
+            ],
+            "typeOf": [
+                "decoration",
+                "ornament",
+                "ornamentation"
+            ],
+            "derivation": [
+                "decorate"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "de",
+            "cor"
+        ]
+    },
+    "pronunciation": {
+        "all": "de\u026a'k\u0254r"
+    },
+    "frequency": 2.76
+}

@@ -1,0 +1,29 @@
+{
+    "word": "inland",
+    "results": [
+        {
+            "definition": "situated away from an area's coast or border",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "interior",
+                "landlocked",
+                "midland",
+                "upcountry"
+            ],
+            "antonyms": [
+                "coastal"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "in",
+            "land"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u026anl\u0259nd"
+    },
+    "frequency": 3.17
+}

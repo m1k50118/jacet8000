@@ -1,0 +1,49 @@
+{
+    "word": "therapist",
+    "results": [
+        {
+            "definition": "a person skilled in a particular type of therapy",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "healer"
+            ],
+            "typeOf": [
+                "expert"
+            ],
+            "hasTypes": [
+                "chiropractor",
+                "clinical psychologist",
+                "curandera",
+                "curandero",
+                "electrotherapist",
+                "herb doctor",
+                "herbalist",
+                "naprapath",
+                "naturopath",
+                "osteopath",
+                "osteopathist",
+                "physical therapist",
+                "physiotherapist",
+                "psychotherapist",
+                "sangoma",
+                "alleviator",
+                "speech therapist"
+            ],
+            "derivation": [
+                "therapy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "ther",
+            "a",
+            "pist"
+        ]
+    },
+    "pronunciation": {
+        "all": "'\u03b8\u025br\u0259p\u026ast"
+    },
+    "frequency": 3.85
+}

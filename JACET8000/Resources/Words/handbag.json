@@ -1,0 +1,39 @@
+{
+    "word": "handbag",
+    "results": [
+        {
+            "definition": "a container used for carrying money and small personal items or accessories (especially by women)",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "bag",
+                "pocketbook",
+                "purse"
+            ],
+            "typeOf": [
+                "container"
+            ],
+            "hasTypes": [
+                "clutch",
+                "clutch bag",
+                "etui",
+                "evening bag",
+                "reticule",
+                "shoulder bag"
+            ],
+            "hasParts": [
+                "clasp"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "hand",
+            "bag"
+        ]
+    },
+    "pronunciation": {
+        "all": "'h\u00e6nd,b\u00e6\u0261"
+    },
+    "frequency": 3.49
+}

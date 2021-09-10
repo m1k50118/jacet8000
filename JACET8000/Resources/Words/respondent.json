@@ -1,0 +1,61 @@
+{
+    "word": "respondent",
+    "results": [
+        {
+            "definition": "replying",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "answering"
+            ],
+            "similarTo": [
+                "responsive"
+            ],
+            "derivation": [
+                "respond"
+            ]
+        },
+        {
+            "definition": "someone who responds",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "answerer",
+                "responder"
+            ],
+            "typeOf": [
+                "communicator"
+            ],
+            "hasTypes": [
+                "examinee",
+                "tergiversator",
+                "testee",
+                "equivocator",
+                "assenter",
+                "hedger",
+                "interviewee"
+            ],
+            "derivation": [
+                "respond"
+            ]
+        },
+        {
+            "definition": "the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "codefendant",
+                "co-defendant"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "re",
+            "spond",
+            "ent"
+        ]
+    },
+    "pronunciation": {
+        "all": "r\u026a'sp\u0251nd\u0259nt"
+    },
+    "frequency": 2.03
+}

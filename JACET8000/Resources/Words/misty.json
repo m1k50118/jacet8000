@@ -1,0 +1,46 @@
+{
+    "word": "misty",
+    "results": [
+        {
+            "definition": "filled or abounding with fog or mist",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "brumous",
+                "foggy",
+                "hazy"
+            ],
+            "similarTo": [
+                "cloudy"
+            ],
+            "derivation": [
+                "mist",
+                "mistiness"
+            ]
+        },
+        {
+            "definition": "wet with mist",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "wet"
+            ],
+            "derivation": [
+                "mist",
+                "mistiness"
+            ],
+            "examples": [
+                "the misty evening"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "mist",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'m\u026asti"
+    },
+    "frequency": 3.3
+}

@@ -1,0 +1,34 @@
+{
+    "word": "famed",
+    "results": [
+        {
+            "definition": "widely known and esteemed",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "celebrated",
+                "famous",
+                "far-famed",
+                "illustrious",
+                "notable",
+                "noted",
+                "renowned"
+            ],
+            "similarTo": [
+                "known"
+            ],
+            "examples": [
+                "a famed scientist"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 1,
+        "list": [
+            "famed"
+        ]
+    },
+    "pronunciation": {
+        "all": "fe\u026amd"
+    },
+    "frequency": 2.89
+}

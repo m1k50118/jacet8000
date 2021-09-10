@@ -1,0 +1,53 @@
+{
+    "word": "metaphysical",
+    "results": [
+        {
+            "definition": "highly abstract and overly theoretical",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "theoretic",
+                "theoretical"
+            ],
+            "examples": [
+                "metaphysical reasoning"
+            ]
+        },
+        {
+            "definition": "transcending physical matter or the laws of nature",
+            "partOfSpeech": "adjective",
+            "similarTo": [
+                "supernatural"
+            ],
+            "examples": [
+                "metaphysical forces"
+            ]
+        },
+        {
+            "definition": "pertaining to or of the nature of metaphysics",
+            "partOfSpeech": null,
+            "pertainsTo": [
+                "metaphysics"
+            ],
+            "derivation": [
+                "metaphysics"
+            ],
+            "examples": [
+                "metaphysical philosophy"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "met",
+            "a",
+            "phys",
+            "i",
+            "cal"
+        ]
+    },
+    "pronunciation": {
+        "all": ",m\u025bt\u0259'f\u026az\u026ak\u0259l"
+    },
+    "frequency": 2.95
+}

@@ -1,0 +1,45 @@
+{
+    "word": "dietary",
+    "results": [
+        {
+            "definition": "of or relating to the diet",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "dietetic",
+                "dietetical"
+            ],
+            "pertainsTo": [
+                "diet"
+            ],
+            "derivation": [
+                "diet"
+            ],
+            "examples": [
+                "dietary restrictions"
+            ]
+        },
+        {
+            "definition": "a regulated daily food allowance",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "fare"
+            ],
+            "derivation": [
+                "diet"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 4,
+        "list": [
+            "di",
+            "e",
+            "tar",
+            "y"
+        ]
+    },
+    "pronunciation": {
+        "all": "'da\u026a\u026a,t\u025bri"
+    },
+    "frequency": 2.47
+}

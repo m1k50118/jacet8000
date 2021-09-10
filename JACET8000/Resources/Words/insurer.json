@@ -1,0 +1,33 @@
+{
+    "word": "insurer",
+    "results": [
+        {
+            "definition": "a financial institution that sells insurance",
+            "partOfSpeech": "noun",
+            "synonyms": [
+                "insurance company",
+                "insurance firm",
+                "insurance underwriter",
+                "underwriter"
+            ],
+            "typeOf": [
+                "nondepository financial institution"
+            ],
+            "derivation": [
+                "insure"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 3,
+        "list": [
+            "in",
+            "sur",
+            "er"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u026an'\u0283\u028ar\u0259r"
+    },
+    "frequency": 2.2
+}

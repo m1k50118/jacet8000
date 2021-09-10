@@ -1,0 +1,51 @@
+{
+    "word": "unchanged",
+    "results": [
+        {
+            "definition": "remaining in an original state",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "unaltered"
+            ],
+            "similarTo": [
+                "dateless",
+                "unmoved",
+                "unreduced",
+                "unrevised",
+                "unedited",
+                "in-situ",
+                "in situ",
+                "timeless"
+            ]
+        },
+        {
+            "definition": "not made or become different",
+            "partOfSpeech": "adjective",
+            "also": [
+                "unvaried",
+                "unvarying"
+            ],
+            "similarTo": [
+                "same",
+                "idempotent"
+            ],
+            "antonyms": [
+                "changed"
+            ],
+            "examples": [
+                "the causes that produced them have remained unchanged"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "un",
+            "changed"
+        ]
+    },
+    "pronunciation": {
+        "all": "\u0259n't\u0283e\u026and\u0292d"
+    },
+    "frequency": 3.01
+}

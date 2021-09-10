@@ -1,0 +1,26 @@
+{
+    "word": "farmhouse",
+    "results": [
+        {
+            "definition": "house for a farmer and family",
+            "partOfSpeech": "noun",
+            "typeOf": [
+                "house"
+            ],
+            "partOf": [
+                "farm"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 2,
+        "list": [
+            "farm",
+            "house"
+        ]
+    },
+    "pronunciation": {
+        "all": "'f\u0251rm,ha\u028as"
+    },
+    "frequency": 3.19
+}

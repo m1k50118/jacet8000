@@ -1,0 +1,40 @@
+{
+    "word": "simultaneous",
+    "results": [
+        {
+            "definition": "occurring or operating at the same time",
+            "partOfSpeech": "adjective",
+            "synonyms": [
+                "co-occurrent",
+                "coincident",
+                "coincidental",
+                "coinciding",
+                "concurrent",
+                "cooccurring"
+            ],
+            "similarTo": [
+                "synchronal",
+                "synchronic",
+                "synchronous"
+            ],
+            "derivation": [
+                "simultaneity",
+                "simultaneousness"
+            ]
+        }
+    ],
+    "syllables": {
+        "count": 5,
+        "list": [
+            "si",
+            "mul",
+            "ta",
+            "ne",
+            "ous"
+        ]
+    },
+    "pronunciation": {
+        "all": ",sa\u026am\u0259l'te\u026ani\u0259s"
+    },
+    "frequency": 2.89
+}
