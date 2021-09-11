@@ -16,11 +16,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
-
-            let vc = LandingViewController()
-            let config = LandingModuleConfigurator()
-            config.configureModuleForViewInput(viewInput: vc)
+            let vc = HomeViewController()
             let navigationController = UINavigationController(rootViewController: vc)
+
             navigationController.navigationBar.setBackgroundImage(UIImage(), for: .default)
             navigationController.navigationBar.shadowImage = UIImage()
 
